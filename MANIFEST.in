@@ -1,0 +1,5 @@
+recursive-include NERResources *.ini
+recursive-include NERResources/Cluster_Files *.kmeans
+recursive-include NERResources/Models *.gz
+recursive-include LSTMExec/models/treatments_tests_problems_f81/ *
+recursive-include NERNegation/NegEx/Target_Definitions *.tsv
