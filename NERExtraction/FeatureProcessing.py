@@ -32,7 +32,7 @@ def word2features(sent, i, w2v_clusters=None):
         wvc_cluster_id = w2v_clusters.cluster_lookup(word)
         features.append('w2vcluster'+ str(wvc_cluster_id))
     else:
-        print "WARNING: Not using word2vec cluster features. Does your model support this?"
+        print ("WARNING: Not using word2vec cluster features. Does your model support this?")
 
     if i > 0:
         word1 = sent[i - 1].orth_

@@ -11,7 +11,7 @@ from DataLoading.DataClasses import PredictedAnnotation
 
 class NEREvaluator:
     def __init__(self, tagged_documents, labels):
-        print "initializing evaluation parameters ..."
+        print ("initializing evaluation parameters ...")
         self.tagged_documents = tagged_documents #self._dictify_document_list(tagged_documents)
         self.labels = labels
         self.tp_fp_fn_counts_by_tag_exact = self._count_tp_fp_fn_exact(self.tagged_documents)

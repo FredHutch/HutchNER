@@ -47,7 +47,7 @@ class i2b2DocumentPreprocessor(DocumentPreprocessor):
             docnum+=1
             doc.sentences = self._text2parseddata(doc)
             if docnum%100 ==0 or docnum >= len(self.documents.keys()):
-                print 'Processed %d documents out of %d' % (docnum, len(self.documents.keys()))
+                print ('Processed %d documents out of %d' % (docnum, len(self.documents.keys())))
             doc.is_i2b2 = True
         print("Finished preprocessing documents.")
 
@@ -69,7 +69,7 @@ class i2b2DocumentPreprocessor(DocumentPreprocessor):
         for index,sent_text in enumerate(sentences):
             if len(sent_text) == 0:
                 sent_text = "\n"
-            parsedData = self.nlppp(sent_text.decode("utf-8"))
+            parsedData = self.nlppp(sent_text)
             # update token spans
             updated_tok_spans = self._update_token_spans(begin, parsedData)
             doc.token_spans.extend(updated_tok_spans)
@@ -106,8 +106,8 @@ class UnformattedDocumentPreprocessor(DocumentPreprocessor):
         for docid, doc in self.documents.items():
             dnum += 1
             if dnum % 100 == 0: # print status of every 100 docs to keep user updated
-                print "Document pre-processing on doc " + str(dnum) + "/" + str(
-                    len(self.documents))
+                print ("Document pre-processing on doc " + str(dnum) + "/" + str(
+                    len(self.documents)))
             doc.sentences = self._text2parseddata(doc)
         print("Finished pre-processing documents.")
 

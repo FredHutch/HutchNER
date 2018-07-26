@@ -51,7 +51,7 @@ class NERExtraction:
             return docs
 
     def _extract(self, doc_objs_dict, model, model_name):
-        print "Pulling out " + model_name + " information ..."
+        print ("Pulling out " + model_name + " information ...")
         self.possible_labels = list(model.classes_)
         self.possible_labels.remove("O")
         for i, current_doc in enumerate(doc_objs_dict.values()):
@@ -65,8 +65,8 @@ class NERExtraction:
     def _print_marginal_sequences(self, tagger, predictions, label, tokens):
         for i, p in enumerate(predictions):
             if p != "O":
-                print "Marginal for ["+tokens[i].string +"] as \'" + label + "\': " + str(tagger.marginal(label, i)) + " and for O: " + str(
-                    tagger.marginal("O", i))
+                print ("Marginal for ["+tokens[i].string +"] as \'" + label + "\': " + str(tagger.marginal(label, i)) + " and for O: " + str(
+                    tagger.marginal("O", i)))
 
     def _modeldir2concepts(self, dir):
         """
@@ -133,7 +133,7 @@ class NERExtraction:
         return token_dicts
 
     def remove_negated_concepts(self, tagged_docs):
-        print "Finding negated concepts..."
+        print ("Finding negated concepts...")
         for docid, doc in tagged_docs.items():
             self.negexer.negate(doc)
         return tagged_docs

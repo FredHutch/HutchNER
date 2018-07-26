@@ -2,12 +2,12 @@
 #
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
-import ConfigParser
+import configparser
 import os
 import re
 from collections import defaultdict
 
-from AbstractClasses import AbstractAnnotation
+from DataLoading.AbstractClasses import AbstractAnnotation
 
 
 class Document(object):

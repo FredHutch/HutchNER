@@ -6,7 +6,7 @@ import os
 
 import en_core_web_sm
 from NERPreprocessing.DocumentPreprocessing import i2b2DocumentPreprocessor
-from DataClasses import GoldAnnotation
+from DataLoading.DataClasses import GoldAnnotation
 from DataLoading.TextDataLoading import TextDataLoader
 
 
@@ -54,7 +54,7 @@ class i2b2DataLoader(TextDataLoader):
         '''
         document_sentidx_data = dict()
         for filename in os.listdir(self.annotation_dir):
-            with open(os.path.join(self.annotation_dir, filename), "rb") as f:
+            with open(os.path.join(self.annotation_dir, filename), "r") as f:
                 annot_lines = f.readlines()
                 doc_id = filename.split(".")[0]
 
@@ -84,12 +84,10 @@ class i2b2DataLoader(TextDataLoader):
         concept = line.split("||")
 
         iob_wordIdx = concept[0].split()
-        # print concept[0]
         iob_class = concept[1].split("=")
         iob_class = iob_class[1].replace("\"", "")
         iob_class = iob_class.replace("\n", "")
 
-        # print iob_wordIdx[len(iob_wordIdx)-2],iob_wordIdx[len(iob_wordIdx)-1]
         start_iobLineNo = iob_wordIdx[len(iob_wordIdx) - 2].split(":")
         end_iobLineNo = iob_wordIdx[len(iob_wordIdx) - 1].split(":")
         start_idx = start_iobLineNo[1]
