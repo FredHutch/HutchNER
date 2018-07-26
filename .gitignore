@@ -1,3 +1,16 @@
+# Potentially PHI
+/NERResources/*
+/Datasets/*
+/LSTMExec/results/
+/LSTMExec/pre_trainedVectorEmbeddings/
+/LSTMExec/models/
+/NERScripts/csvdata/
+/NERResults/
+/NEREvaluation/EvalResults/
+/Database/test.sqlite
+/Database/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
