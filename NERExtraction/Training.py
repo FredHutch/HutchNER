@@ -11,7 +11,7 @@ from sklearn.metrics import make_scorer
 from sklearn.model_selection import RandomizedSearchCV
 from NERUtilities.MiscFunctions import CLUSTER_PATH
 
-from FeatureProcessing import sent2features
+from NERExtraction.FeatureProcessing import sent2features
 from NERUtilities.Clusters import Clusters
 from sklearn.externals import joblib
 
@@ -29,11 +29,11 @@ class NERTrainer(object):
 
     def train(self):
         training_docs = list()
-        print "Training Concept Extractor ... "
+        print ("Training Concept Extractor ... ")
         for i, doc_id in enumerate(self.annotated_data):
             doc_obj = self.annotated_data[doc_id]
             training_docs.append(doc_obj)
-        print "Possible labels: ", str(self.detected_labels)
+        print ("Possible labels: ", str(self.detected_labels))
         #for type in self.detected_labels:
         model_n = "_".join(self.detected_labels)
         if not os.path.exists(self.model_path):
@@ -51,8 +51,8 @@ class NERTrainer(object):
         return model_name
 
     def _tune_hyperparams(self, x_train, y_train, labels):
-        print "Running hyperparam grid search (not training). This process fits the models many times, and can take a " \
-              "long time. "
+        print ("Running hyperparam grid search (not training). This process fits the models many times, and can take a " \
+              "long time. ")
         crf = sklearn_crfsuite.CRF(
             algorithm='lbfgs',
             max_iterations=100,
@@ -81,7 +81,7 @@ class NERTrainer(object):
     def _run_training(self, x_train, y_train, model_name):
         # for xseq, yseq in zip(x_train, y_train):
         #     trainer.append(xseq, yseq)
-        print "Setting CRF Params for training " + model_name
+        print ("Setting CRF Params for training " + model_name)
         crf = sklearn_crfsuite.CRF(
             c1= 1.0,  # coefficient for L1 penalty
             c2= 1e-3,  # coefficient for L2 penalty
@@ -89,13 +89,13 @@ class NERTrainer(object):
             # include transitions that are possible, but not observed
             all_possible_transitions= True
         )
-        print "Training " + model_name
+        print ("Training " + model_name)
         crf.fit(x_train,y_train)  # produces model file with this name
         joblib.dump(crf, model_name)
 
 
     def _get_features_and_labels(self, docs, labels):
-        print "Fetching feature vectors ..."
+        print ("Fetching feature vectors ...")
         # Grab all Spacy preprocessed features
         tagged_sents = list()
         for doc in docs:
@@ -103,14 +103,14 @@ class NERTrainer(object):
                 tokens = doc.tokens
                 tagged_sents.append(tokens)
             except Exception as e:
-                print str(e)
+                print (str(e))
 
         x = [sent2features(s, self.clusters) for s in tagged_sents]
         y = labels  # labels in doesn't change
         return x, y
 
     def _get_training_labels(self, training_docs, labels):
-        print "Fetching training labels for annotation type: " + str(labels)
+        print ("Fetching training labels for annotation type: " + str(labels))
         all_label_vecs = list()
         count = 0
         for doc in training_docs:

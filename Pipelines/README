@@ -1,0 +1,13 @@
+Pipelines ReadME
+
+Hey, its will. This is just a brief not to remind you about a couple scripts in this dir.
+
+train_local.py - this is the python file that trains an NER model based on I2B2 data. It requires two arguments: 
+	-d /the/path/to/the/text/data.txt_dir
+	-a /the/path/to/the/annotation/data.con_dir
+
+Ive simplified the process even further in this file:
+
+train_deploy_problems_treatments_tests.sh - This file provides a working example of how to train the problems treatments tests model. just call the script from the command line as follows, with no arguments: ./train_deploy_problems_treatments_tests.sh
+	This scripts points to the problems/treatments/tests training data.
+	This script reloads the Apache2 service which reloads all the models into memory, essntially deploying the model live, instantly
