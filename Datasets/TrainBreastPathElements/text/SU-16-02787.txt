@@ -1,0 +1,79 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    COPELAND , MARGARET LUELLA MRN :        U4040116      ( UWMC ) DOB :        Mar 25 1959 SEX :        F . 
+CASE :    SU-16 - 02787    COLLECTED :   Feb   2 2016   RECEIVED : Feb   2 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A ) Left breast , mastectomy : Invasive ductal carcinoma ( incidentally detected ) with the following : 1 . 
+Size : 0.3 cm in maximum dimension . 2 . 
+Nottingham grade 1 : Good tubule formation , low nuclear grade , low mitotic activity . 
+3 . Margins : > 0.5 cm from all margins . 4 . 
+Additional findings : Lobular carcinoma in situ . 
+5 . 
+Prognostic markers : a. Positive for estrogen receptor expression ( Allred 8 of 8) b. Weakly positive for progesterone receptor expression ( Allred 3 of 8) . c. Negative for overexpression of Her2 protein . 
+d. Proliferative index ( KI67 ) : 5% . 
+e. Absence of smooth muscle around tumor nests confirms invasive carcinoma . 
+B ) Right breast , mastectomy :   Multifocal ductal carcinoma in situ with the following features : 1 . 
+Intermediate to high nuclear grade with necrosis 2 . 
+Size : a. High nuclear grade focus spanning approximately 3 cm , present at 6:00 near prior lumpectomy site . 
+b. Intermediate nuclear grade focus spanning approximately 2.5 cm at 9:00 3 . 
+Margins : DCIS 0.5 cm from all margins . 4 . 
+Negative for invasive carcinoma . 
+5 . 
+Per report , strongly positive for estrogen receptor ( SU15 - 31423 ) . 6 . 
+In situ lobular neoplasia 7 . 
+Changes consistent with prior lumpectomy . 
+C , D ) Lymph nodes , right axillary sentinel # 1 and # 2 , excisions :   Two lymph nodes negative for carcinoma . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : Ductal carcinoma in situ of right breast IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : A2 Population : Invasive carcinoma Interpreted by :   Nicole K Andeen , MD and Suzanne Dintzis , MD , PhD Block     Label     Marker For     Results     Special Pattern or Comments A2     SMHC     Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     
+Absent around tumor nests Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IMMUNOHISTOCHEMISTRY REPORT : Source ( Original Label ) : A2 Population : Invasive carcinoma Interpreted by :   Nicole K Andeen , MD and Suzanne Dintzis , MD , PhD Block     Label     Marker 
+For     Results     Special Pattern or Comments A2     ER     Estrogen Receptor [ SP1 ] , Quantitative Evaluation     95 % positive cells     Intensity : Strong . 
+Allred 8 of 8 A2     HER2 ( w / HIER )     HER2   ( w/ HIER ) , Quantitative Evaluation     No over - expression ( 1 + ) A2     Ki-67     Ki-67 [ MIB-1 ] , Quantitative Evaluation     5 % positive cells A2     PR88     Progesterone Receptor [ PR88 ] , Quantitative Evaluation     3 % positive cells     Intensity : Weak . Allred 3 of 8 ER / PR and HER2 immunohistochemical analyses are performed in accordance with 2013 CAP / ASCO guidelines [ Wolff , Hammond et al ] . 
+Department of Pathology protocols dictate that breast cancer containing tissue will be fixed in neutral buffered formalin for a minimum of 6 hours to a maximum of 72 hours for HER2 , ER and PR , unless otherwise noted in this report . 
+ER and PR stains are interpreted using a modified H - score system ( Allred ) based on the proportion of cells staining and intensity of staining : > 1% of cells with weak staining intensity ( Allred score 3 of 8) is the clinically validated threshold for a positive result [ Harvey et al ] HER2 interpretative criteria are those recommended by CAP / ASCO , where 3 + staining ( intense , uniform , homogeneous circumferential membrane staining in > 10% of tumor cells ) is required for a positive ( " high over - expression " ) result . 
+Cases with 2 + ( equivocal ) HER2 staining will be tested for gene amplification using a validated fluorescent in - situ hybridization ( FISH ) technique . 
+These assays have not been validated on decalcified tissues . 
+Results using decalcified tissues should be interpreted with caution , given the likelihood of false negativity in this testing environment . 
+When the above stain result indicates ' Quantitative Evaluation ' , a manual morphometric scoring of the stain was performed . 
+Grimm EE , et al . 
+Am J Clin Pathol ( 2010 ) 14 ; 284 - 92 . 
+Hammond ME , et al . 
+J Clin Oncol ( 2010 ) 28 ; 2784 - 95 . 
+Harvey et al . 
+J Clin Oncol ( 1999 ) 17 ; 1474 - 81 . Wolff AC , 
+et al . 
+Arch Pathol Lab Med ( 2013 ) 137 . 
+Note :   The detection system used is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+GROSS DESCRIPTION : A )     Received :   Fresh in a container designated " Copeland , Margaret " and " left breast short superior , long lateral . " 
+Specimen type :   skin - sparing mastectomy Formalin time :   22 hours Tissue obtained for tumor banking : No Weight :   961 g 
+Overall size :    22.0 SI x 28.0 ML x 5.0 AP cm Skin :   5 cm diameter Nipple and Areola : 2.5 cm diameter areola with unremarkable 1.3 cm diameter nipple Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Findings :   Grossly non - neoplastic mastectomy specimen Background breast :   75% adipose tissue with approximately 25% fibrous tissue with areas of vague , soft nodularity no gross lesions identified . 
+Submitted :   Representative sections are submitted as follows : A1 - nipple A2 , A3 - upper outer quadrant A4 , A5 - lower outer quadrant A6 , A7 - upper inner quadrant A8 , A9 - lower inner quadrant ( NA / kc ) B )     Received :   Fresh in a container designated " Copeland , Margaret " and " right breast short stitch superior , long stitch lateral . " 
+Specimen type :   Skin - sparing mastectomy Formalin time :   22 hours Tissue obtained for tumor banking : No Weight :   670 g 
+Overall size :   18.0 SI x 23.5 ML x 4.5 AP cm Skin :   Tan - pink , circular , 5.5 cm diameter Nipple and Areola : 2.5 cm diameter areola with unremarkable 1.3 cm diameter nipple Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Findings : Lesion # 1 :   Posterior inferior aspect of the specimen contains a scarred - like region consistent with prior lumpectomy site . 
+Location :   Lower inner quadrant approximately 4:00 , 6.0 cm from nipple 
+Size : 3.0 x 2.6 x 1.4 cm Distance to deep margin : Present at deep margin . 
+Distance to superior superficial margin : 3.0 cm Distance to inferior superficial margin : 2.5 cm Relationship to other lesions / structures : Relationship to other lesion 5.5 cm medial to lesion # 2 Submitted :   Representative sections . 
+Lesion # 2 :   Firm , ill - defined region admixed with more normal - appearing breast tissue . 
+Location :   9:00 , 4.5 cm from nipple 
+Size : 2.5 x 2.2 x 1.5 cm Distance to deep margin :   3.5 cm Distance to superior superficial margin :   2.0 cm Distance to inferior superficial margin :   1.5 cm Evidence of prior biopsy or procedure :   Not identified . 
+Submitted :   Entirely Lesion # 3 :   Granular , vaguely nodular and yellow region at apparent lateral - most aspect of prior lumpectomy sites Location :   Approximately 6:00 , 8.0 cm from nipple 
+Size : 3 x 2.5 x 1.9 cm Distance to deep margin :   > 1 cm Distance to superior superficial margin :   > 1 cm Distance to inferior superficial margin :   0.5 cm Evidence of prior biopsy or procedure :   Not identified . Submitted :   Representative Background breast :   60% unremarkable yellow lobulated tissue with intervening white fibrous bands . 
+Axillary tail :   Not identified . 
+Submitted :   Representative sections are submitted as follows : B1 - nipple B2 , B3 - representative prior lumpectomy site , lesion # 1 B4 , B5 - granular , vaguely nodular and yellow region at apparent lateral - most aspect of prior lumpectomy sites , approximately 6:00 , 8.0 cm from nipple B6 - intraparenchymal lymph node and slice just lateral to lesion # 2 B7 , B8 - composite lateral - most slice of lesion # 2 B9 - lesion # 2 , next slice medial B10 - lesion # 2 with next slice medial B11 - lesion # 2 , next slice medial B12 - tissue just medial to the medial edge of lesion # 2 B13 - representative posterior and anterior margin , distant from lesion The specimen is reviewed with Melissa Ardales . 
+( NA / kc ) C )     Received in formalin labeled " Copeland , Margaret ; C. right axillary sentinel lymph node # 1 " is a 1.0 x 0.6 x 0.5 cm lymph node candidate that is trisected and submitted entirely in C1 .   
+( CXH / clk ) D )     Received in formalin labeled " Copeland , Margaret ; D. right axillary sentinel lymph node # 2 " is a 0.7 x 0.5 x 0.3 cm lymph node candidate that is trisected and submitted entirely in D1 .   
+( CXH / clk ) Nicole K Andeen MD Resident 02/05/2016 Suzanne   Dintzis MD , PhD Pathologist Electronically signed 
+02/08/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 

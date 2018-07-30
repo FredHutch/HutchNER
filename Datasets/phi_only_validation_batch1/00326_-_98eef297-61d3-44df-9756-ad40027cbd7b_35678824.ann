@@ -1,0 +1,32 @@
+T4	Age 75 77	54
+T7	Date 210 223	December 2010
+T9	Date 262 273	August 2012
+T11	Date 410 422	April , 2014
+T17	Date 675 690	April 30 , 2014
+T20	Address_and_Components 708 718	Bellingham
+T21	Date 769 782	December 2010
+T22	Date 848 866	December 16 , 2010
+T24	Date 998 1013	August 8 , 2012
+T27	Date 1074 1084	April 2013
+T28	Date 1117 1127	April 2014
+T39	Date 1281 1294	May 14 , 2014
+T41	Date 1377 1392	April 23 , 2014
+T47	Profession 1767 1777	dairy farm
+T65	Profession 2353 2365	dairy farmer
+T66	Employer 2462 2476	Virginia Mason
+T69	Address_and_Components 2369 2376	Everson
+T67	Age 2687 2689	47
+T71	Date 3490 3499	5/12/2014
+T72	Date 3769 3777	04/23/14
+T73	Date 3817 3825	04/23/14
+T74	Date 3845 3853	04/23/14
+T75	Date 3892 3904	January 2013
+T82	Date 4978 4987	June 4 th
+T84	Address_and_Components 5094 5104	Bellingham
+T1	Provider_Name 23 29	Ed Lin
+T2	Patient_or_Family_Name 60 69	Vanberkum
+T40	Provider_Name 1352 1358	Lin 's
+T97	Address_and_Components 2379 2389	Washington
+T98	Profession 2453 2458	nurse
+T83	Provider_Name 5009 5012	Lin
+T129	Employer 1871 1875	farm

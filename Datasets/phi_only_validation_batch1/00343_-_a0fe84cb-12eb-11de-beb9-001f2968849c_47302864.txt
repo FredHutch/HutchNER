@@ -1,0 +1,317 @@
+HOSPITAL DAY : 0
+
+CHIEF CONCERN : ( Required for all billing levels )
+This is a 36 year old male with isolated CNS relapsed AML s/p allogenic transplant in November 2010 who presents for cycle # 1 of consolidation chemotherapy with HiDAC .
+
+Oncologist : Dr. Bart Scott
+
+HISTORY OF PRESENT ILLNESS :
+The patient presents for admission for scheduled consolidation chemotherapy # 1 with HiDAC for his relapsed AML , isolated to the CNS with leptomeningeal carcinomatosis s/p induction chemo with G - CLAM ( d1 4/23/16 ) and 6 doses of IT chemo . He had initially presented with sever Neuro symptoms including cauda equina like symptoms ( saddle anesthesia , numbness and weakness in bilateral LE , back pain ) , neuropathic pain , and intermittent extremity tremor episodes . Since he started chemo , all of these symptoms have been improving . His last tremor episode was Saturday 5 / 28 and he had to lower himself to the ground . He denies injury or LOC . He reports these episodes have greatly decreased in frequency and severity . He tolerated the induction cycle well . He denied issues with nausea or appetite . He did have some constipation , which improved with docusate and PRN senna .
+
+He continues to have mid and lower back pain , which is usually well controlled on BID oxycontin and PRN oxycodone , which he usually only takes 1-2 doses a day . He reports that the pain has been a little worse the last couple days . His neuropathic pain , for which he takes Lyrica , has greatly improved in the last week .
+
+He had an Omaya placed 5 / 31 . He states that there is some mild tenderness at the site , but denies headache or signs of infection . He has recently noticed that his face and neck are puffier than usual . He thinks maybe it is related to eating salt in his diet . He denies LE edema . He also reported that 2 days ago he passed a kidney stone , which he saws is a chronic issue for him since 2003 . He denies any dysuria today . The patient reports that he feels well today and he is ready to start this chemotherapy cycle .
+
+ROS : As above in HPI . In addition , GVHD on his skin on bilateral shins , he denies dizziness , cough , shortness of breath , chest pain , N / V / D , abdominal pain , bruising , rash , lymphadenopathy .
+
+Oncologic History :
+8/28/09 - Initial Induction ; 7 + 3
+9/29/09 - Consolidation cycle # 1 with HiDAC
+12/17/09 - Consolidation cycle # 2 with HiDAC
+* * Lost to Follow up * *
+6/6/10 - Protocol 2411 : HiDAC + / - AS1411 – randomized to HiDac alone cycle # 1
+6/24/10 - Cycle # 2 Protocol 2411 - allowed to cross over to AS1411 arm
+7/27/10 - HiDAC + daunorubicin 60mg / m2 + HD cyclosporine
+9/15/10 - Azacitadine ( One cycle )
+11/19/10 - Allogeneic Stem Cell Transplant ; Matched unrelated male donor
+4/17/16 - Admitted to UWMC with Neuro symptoms , found to have CNS isolated relapse of his AML
+4/18/16 - IT MTX
+4/21/16 - IT cytarabine
+4/23/16 - G - CLAM induction
+4/25/16 - IT cytarabine
+4/27/16 - IT cytarabine
+5/4/16 - IT MTX - CSF negative by flow cytometry
+5/11/16 - IT cytarabine
+6/2/16 - HiDAC consolidation cycle # 1
+6/3/16 - IT cytarabine
+
+PROBLEM LIST :
+hypokalemia 7/23/10
+Irradiated blood product
+
+1 ) Added by Discern Expert
+pancytopenia due to chemotherapy . 6/12/10
+
+PAST MEDICAL HISTORY :
+Hypertension
+Tachycardia
+Anxiety
+Chronic Pain
+
+MEDICATIONS PRIOR TO ADMISSION :
+1 . acyclovir 800 mg oral tablet Dose : 800 mg PO BID
+2 . amLODIPine 10 mg oral tablet Dose : 10 mg PO Daily
+3 . atenolol 50 mg oral tablet Dose : 50 mg PO BID
+4 . chlorhexidine topical ( Peridex ) Dose : Clarify dose Swish & Spit BID
+5 . clonazePAM 0.5 mg oral tablet Dose : 0.25 mg PO BID
+6 . cyclobenzaprine 10 mg oral tablet Dose : 10 mg PO QID
+7 . dexamethasone 4 mg oral tablet Dose : 4 mg PO BID
+8 . docusate sodium 100 mg oral capsule Dose : 200 mg PO BID
+9 . gabapentin 100 mg oral capsule Dose : 400 mg PO QID
+10 . levoFLOXacin ( Levaquin 750 mg oral tablet ) Dose : 750 mg PO Q24 Hours
+11 . lidocaine topical ( lidocaine 5 % topical film ) Dose : 1 patch Transdermal Daily
+12 . magnesium oxide 400 mg ( 241.3 mg elemental magnesium ) oral tablet Dose : 800 mg PO BID
+13 . oxyCODONE ( OxyCONTIN 15 mg oral tablet , extended release ) Dose : 15 mg PO Q12 Hours for 14 day ( s ) do not crush or chew
+14 . oxyCODONE ( OxyCONTIN 15 mg oral tablet , extended release ) Dose : 15 mg PO Q12 Hours
+15 . pantoprazole 40 mg oral delayed release tablet Dose : 40 mg PO BID
+16 . polyethylene glycol 3350 oral powder for reconstitution Dose : 17 g PO Daily
+17 . posaconazole 100 mg oral delayed release tablet Dose : 300 mg PO Daily
+18 . prednisoLONE ophthalmic ( prednisoLONE acetate 1 % ophthalmic suspension ) Dose : 2 drop ( s ) EYE - Both Q6 Hours ( non std )
+19 . sodium chloride ( Normal Saline Flush 0.9 % injectable solution ) Dose : See instructions 10 mL per Flush . Dispense pre - filled syringes . Use once daily or as directed .
+20 . calcium carbonate 500 mg ( 200 mg elemental calcium ) oral tablet , chewable Dose : 1 , 000 mg Chew TID PRN Indigestion / Heartburn
+21 . diphenhydrAMINE 25 mg oral capsule Dose : 25-5 0 mg PO Q4 Hours PRN Allergic Reaction
+22 . docusate sodium 250 mg oral capsule Dose : 250 mg PO BID PRN for constipation for 7 day ( s )
+23 . lidocaine topical ( lidocaine 5 % topical ointment ) Dose : 1 application Topical QID PRN Pain
+24 . LORazepam 0.5 mg oral tablet Dose : 0.5-1 mg PO Q4 Hours PRN Nausea / Vomiting
+25 . ondansetron 8 mg oral tablet Dose : 8 mg PO Q8 Hours PRN Nausea / Vomiting
+26 . oxyCODONE 5 mg oral tablet Dose : 5 mg PO BID PRN for pain for 14 day ( s )
+27 . senna 8.6 mg oral tablet Dose : 17.2 mg PO QHS PRN Constipation
+
+ALLERGIES :
+penicillin
+prochlorperazine
+moxifloxacin
+
+HABITS :
+Tobacco Use : Quit about 1 year ago . Was smoking 1 pack a day
+Alcohol Use : Occasional . Before AML relapse was 2 drinks daily , now only 1 drink a week .
+Drug Use : Denies
+
+SOCIAL HISTORY :
+Lives in Moses Lake . He has a girlfriend with 2 daughters .
+His father is his caregiver and manages his medications .
+
+FAMILY HISTORY :
+Patient does not know his family history
+
+REVIEW OF SYSTEMS :
+See above in HPI . All other systems were reviewed and are negative
+
+VITALS : ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+06/02/16 16:13
+Temp C :
+36.5
+36.5
+- 36.7
+06/02/16 16:13
+HR :
+77
+77
+- 84
+06/02/16 16:13
+RR :
+16
+16
+- 20
+06/02/16 16:13
+SBP Non - Inv :
+115
+115
+- 123
+06/02/16 16:13
+DBP Non - Inv :
+72
+72
+- 80
+06/02/16 16:13
+O2 Sat :
+95
+06/02/16 16:13
+O2 Delivery Device :
+Room air
+
+I & O DATA :
+Height : 172 ( cm ) 5 ' 8 " ( ft / in ) ( 06/02/2016 )
+Admit Wt : 80.4 ( kg ) 177 ( lbs ) ( 06/02/2016 )
+BMI : 27.2 ( kg / m2 ) ( 06/02/2016 )
+Last Daily Wt : 80.4 ( kg ) 177 ( lbs ) ( 06/02/16 14:01 )
+Previous Daily Wt : No Results Found .
+
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day )
+Result
+05/30/2016
+05/31/2016
+06/01/2016
+06/02/2016
+06/03/2016
+Total
+
+Intake Total ( 0600 )
+0
+0
+1315
+0
+0
+1315
+
+Output Total ( 0600 )
+0
+0
+2
+0
+650
+652
+
+Net I & O Total ( 0600 )
+0
+0
+1313
+0
+- 650
+663
+
+Daily weight
+
+
+
+
+80.4
+N / A
+
+
+PHYSICAL EXAM :
+Gen : Alert , pleasant male resting comfortably in bed , in no apparent distress .
+HEENT : PERRLA , EOM - nystagmus present , sclera anicteric . Mucous membranes pink / moist , no lesions or thrush . Normal neck ROM . No lymphadenopathy
+CV : RRR . No murmurs , rubs , gallops . No edema .
+Resp : Lungs clear all fields . No wheezes , rhonchi , or crackles . Pt speaking full sentences .
+Abd : Abdomen non-distended , soft , no palpable masses , non-tender , bowel tones active
+Integ : GVHD bilateral shins . Incision with staples intact left middle scalp . Mild tenderness , no erythema , swelling , or drainage . No other rashes , lesion . No jaundice
+Line : PICC LUE , non-tender , dressing intact , no erythema , edema , or drainage .
+Neuro : A & OX3 , gait stable , moving all extremities independently
+Psych : Mood appropriate to situation
+
+LABORATORY STUDIES : ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+06/02/16 14:15
+- - -
+
+
+| - ICa - - -
+| - ICa - - -
+137
+100
+21
+| - Ca 8.9
+
+- - -
+- - -
+- - -
+| - Ca - - -
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 110
+| - Mg 2.1
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < - - -
+| - Mg - - -
+4.2
+30
+0.93
+| - Phos 5.1
+
+- - -
+- - -
+- - -
+| - Phos - - -
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+06/02/16 14:15
+- - -
+
+
+9.8
+| - PT - - -
+- - -
+| - PT - - -
+15.91 ] - - - - - - - - - - - - - - - - - - - - - - [ 96
+| - INR - - -
+- - - ] - - - - - - - - - - - - - - - - - - - - - - [ - - -
+| - INR - - -
+
+29
+| - PTT - - -
+- - -
+| - PTT - - -
+
+OTHER LABORATORY STUDIES : ( Most recent and 24 hour range . )
+Date
+06/02/16 14:15
+AST ( GOT ) :
+26
+ALT ( GPT ) :
+56
+Alk Phos ( Total ) :
+57
+Bilirubin ( Total ) :
+0.5
+Albumin :
+4.0
+
+LAST 6 HEMATOCRITS IN PRECEDING 24 HOURS :
+( NOTE : Comments / notes for Labs are viewable on Flowsheet )
+06/02/16
+
+14:15
+
+29
+
+ASSESSMENT / PLAN :
+36 year old male with isolate CNS relapsed AML s/p allogenic transplant in November 2010 and s/p reinduction with G - CLAM ( d1 4/23/16 ) who presents for cycle # 1 of consolidation chemotherapy with HiDAC .
+
+# AML : Pt of Dr. Scott . Diagnosed in 2009 , underwent induction , consolidation and allogenic transplant ( 11/19/10 ) . April 2016 admitted with neuro symptoms , found to have relapsed AML , isolated to CNS with leptomeningeal carcinomatosis . Bone marrow 4 / 19 negative . Given induction chemo with G - CLAM ( d1 - 4 / 23 ) and 6 doses of IT chemo . CSF 5 / 4 negative by flow . Omaya placed 5 / 31 . Admitted today for consolidation cycle # 1 with HiDAC . Plan for 1 more consolidation cycle and continue IT chemotherapy once a month for a year . Chemo Day 1 tonight .
+Chemo per outpatient orders :
+High Dose Cytarabine Regimen :
+Cytarabine 3 , 000 mg / m2 IV Q12H . Infuse over 3 hr . Day 1 , 3 , AND 5 , for 6 doses .
+- plan for IT cytarabine this admission . Will ask Neuro Surg when they would be available to administer this through his Omaya . Likely tomorrow
+- Antiemetics and IVF per chemo orders
+- Continue ppx acyclovir and posaconazole . Ppx levofloxacin when neutropenic
+- LDH elevated on admission - continue to follow
+- Transfusion thresholds Hct < 26 , Plt < 10
+- Daily labs
+- Monitor for chemo toxicities
+
+# Neuro : neuro symptoms present on last admission : BLE numbness , tingling , neuropathic pain , saddle anesthesia , intermittent tremors , all slowly improving per patient . Nystagmus present on exam , no other neural deficits noted . Recent fall 1 week ago due to intermittent extremity tremors ,
+- Per Andrea Purdue 's note 5/23/16 - request Neuro consult while inpatient . Will e-mail and inquire details
+- PT consulted , pt to call for assistance when out of bed
+- Continue Dexamethasone - likely cause of patient 's feeling of puffiness in the face
+
+# Back pain and spasms , neuropathic pain : Increase in pain recently . Followed by pain clinic . Takes oxycontin , Flexeril , and PRN oxycodone . Neuropathic pain from CNS AML , takes Lyrica with good relief .
+- continue home oxycontin and oxycodone and lyrica for pain
+- Continue home Flexeril for muscle spasms
+
+# constipation : Occured with induction cycle . He took docusate and PRN senna with resolution of his constiaption in the last week . He denies constipation on admission
+- Bowel meds PRN . Monitor for constipation
+
+# Tachycardia , Hypertension : Last admission he was taken off his atenolol and switched to amlodipine , which patient states that he had tachycardia and palpitaitons after being off hiss betta blocker . After discussion with outpt oncology team 5 / 23 , he started taking his atenolol again with good relief of his palpitaitons / tachycardia .
+- ECG on admission due to recent palpitaitons - NSR
+- continue atenolol and amlodipine . Monitor for hypotension
+
+# Anxiety : Chronic . Stable per patient on current dose of clonazepam .
+- continue home dose of clonazepam
+
+FEN : IVF per chemo orders / replete electrolytes PRN / Immunosuppressed Diet
+VTE prophylaxis :
+Risk Level : At Risk
+Treatment ( s ) ordered : Sequential Compression Device . Hold ppx enoxaparin for Omaya access tomorrow .
+Contacts : Father at bedside
+Code status : - Full Code
+Discharge plan : Patient may discharge when chemotherapy complete and patient stable .

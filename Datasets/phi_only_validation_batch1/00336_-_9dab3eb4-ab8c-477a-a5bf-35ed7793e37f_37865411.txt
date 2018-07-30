@@ -1,0 +1,252 @@
+MEDICINE INPATIENT PROGRESS NOTE
+
+Hospital Day : 2
+
+IDENTIFICATION / CHIEF CONCERN
+Annalicia is a 24 yo F w / h / o seizure disorder NOS as well as FLT3 + AML in remission admitted for consolidation chemotherapy with CLAG .
+
+INTERVAL HISTORY
+- Afebrile yesterdayevening , cultures taken . Continued to fever overnight , afebrile this AM .
+- Patient endorsing mild HA , denying any cough , dysuria .
+- Plans to walk after all procedures done , has not been walking in hallways
+- NPO for LP this AM
+
+ALLERGIES
+NKA
+
+Scheduled Medications
+Acyclovir 800 mg tab Dose : 800 mg = 1 tab PO Q12 Hours
+Allopurinol 300 mg tab Dose : 300 mg = 1 tab PO Daily
+Boston butt cream 120 g Dose : 1 application Topical BID
+Cladribine Dose : 11.8 mg = 11.8 mL IVPB Q24 Hours
+Cytarabine Dose : 3 , 525 mg = 35.25 mL IVPB Q24 Hours
+Enoxaparin 40mg / 0 . 4mL inj . Dose : 40 mg = 0.4 mL Subcutaneous QHS
+Filgrastim 480mcg / 1 . 6mL inj Dose : 480 mcg = 1.6 mL Subcutaneous Q24 Hours
+Gabapentin 300 mg cap Dose : 300 mg = 1 cap PO QHS
+levETIRAcetam 750 mg tab ( KEPPRA ) Dose : 1 , 500 mg = 2 tab PO Q12 Hours
+levoFLOXacin 750 mg tab Dose : 750 mg = 1 tab PO Q24 Hours
+Posaconazole 200mg / 5mL susp Dose : 200 mg = 5 mL PO TID After Meals
+PrednisoLONE acetate 1 % ophth susp 5 mL Dose : 2 drop ( s ) EYE - Both Q6 Hours ( non std )
+Sertraline 50 mg tab Dose : 50 mg = 1 tab PO Daily
+Sodium chloride 0.9 % inj 10 mL FLUSH ( syringe ) Dose : 10 mL IV Daily
+Vitamin multi with minerals ( NO IRON ) tab Dose : 1 tab PO Daily
+
+Infusions
+Sodium Chloride 0.9 % 1 , 000 mL Dose : 1 , 000 mL IV Infusion
+
+PRN Medications
+Acetaminophen 325 mg tab Dose : 650 mg = 2 tab PO Q6 Hours PRN
+HYDROmorphone 1 mg/mL inj Dose : 0.2-0.4 mg IV Push Q4 Hours PRN
+Loperamide 2 mg cap Dose : 2 mg = 1 cap PO Q3 Hours PRN
+LORazepam 0 . 5mg tab Dose : 0.5-1 mg PO Q4 Hours PRN
+LORazepam 2 mg/mL inj Dose : 0.25-0.5 mg IV Q4 Hours PRN
+Ondansetron 4mg / 2mL inj Dose : 8 mg = 4 mL IV Q8 Hours PRN
+Ondansetron 8 mg tab Dose : 8 mg = 1 tab PO Q8 Hours PRN
+Oxycodone 5 mg tab Dose : 5-10 mg PO Q3 Hours PRN
+Prochlorperazine 10mg / 2mL inj Dose : 5-10 mg IV Q6 Hours PRN
+Prochlorperazine 5 mg tab Dose : 5-10 mg PO Q6 Hours PRN
+Scopolamine 1 . 5mg patch Dose : 1 patch Transdermal Q72 Hours PRN
+Sodium chloride 0.9 % inj 10 mL FLUSH ( syringe ) Dose : 20 mL IV On Call PRN
+Sodium chloride 0.9 % inj 10 mL FLUSH ( syringe ) Dose : 10 mL IV On Call PRN
+
+Reason devices remain in
+PICC ( Day 35 ) , L Arm , Double Lumen , Power Injectable , At bedside : Planned long-term vascular access
+
+PHYSICAL EXAM
+VS : ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+10/10/14 07:54
+Temp C :
+37.3
+37.1
+- 39.1
+10/10/14 07:54
+HR :
+95
+95
+- 125
+10/10/14 07:54
+RR :
+16
+16
+- 24
+10/10/14 07:54
+SBP Non - Inv :
+100
+95
+- 111
+10/10/14 07:54
+DBP Non - Inv :
+63
+52
+- 63
+
+GENERAL : Morbidly obese , in no acute distress , sitting up in chair
+HEENT : NCAT , shaved head , anicteric sclera , MMM , no oral lesions
+CV : RRR , no mrg . No peripheral edema .
+RESP : CTAB , no wheezing , rhonchi or crackles .
+ABD : Obese , soft , nondistended , mildly TTP , + BS .
+SKIN : No rashes or lesions , ecchymoses on RUE ~ 2 cm diameter . diaphoretic on back .
+NEURO : EOM intact . moving all four extremities , grossly intact
+PSYCH : somewhat subdued this AM , affect congruent . Thought process linear .
+
+I & O
+Height : 160 ( cm ) 5 ' 3 " ( ft / in ) ( 10/08/2014 )
+Admit Wt : 122.4 ( kg ) 269 ( lbs ) ( 10/08/2014 )
+BMI : 47.8 ( kg / m2 ) ( 10/08/2014 )
+Last Daily Wt : 123.9 ( kg ) 273 ( lbs ) ( 10/09/14 12:28 )
+Previous Daily Wt : 122.4 ( kg ) 269 ( lbs ) ( 10/08/14 14:00 )
+
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day )
+Result
+10/07/2014
+10/08/2014
+10/09/2014
+10/10/2014
+10/11/2014
+Total
+
+Intake Total ( 0600 )
+0
+0
+1779
+4211
+37
+6027
+
+Output Total ( 0600 )
+0
+0
+1450
+2800
+800
+5050
+
+Net I & O Total ( 0600 )
+0
+0
+329
+1411
+- 763
+977
+
+Daily weight
+
+123.01
+122.4
+123.9
+
+N / A
+
+
+LABS ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+10/10/14 00:20
+10/09/14 08:00
+
+
+| - ICa - - -
+| - ICa - - -
+138
+109
+6
+| - Ca 7.9
+
+137
+109
+7
+| - Ca 8.2
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 124
+| - Mg 1.8
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 105
+| - Mg 1.5
+3.4
+22
+0.85
+| - Phos 4.3
+
+3.8
+20
+0.88
+| - Phos 4.4
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+10/10/14 00:20
+10/09/14 08:00
+
+
+8.2
+| - PT 15.5
+9.7
+| - PT 14.9
+13.99 ] - - - - - - - - - - - - - - - - - - - - - - [ 235
+| - INR 1.2
+17.74 ] - - - - - - - - - - - - - - - - - - - - - - [ 296
+| - INR 1.2
+
+24
+| - PTT - - -
+27
+| - PTT 31
+
+MICRO
+Blood cultures 10 / 9 NG
+
+IMAGING
+CXR 10 / 8 : PICC in low SVC , clear lung fields
+
+ASSESSMENT & PLAN
+Ms. Ball is a 24 yo F with AML , history of neutropenic fever and seizures admitted for second cycle of CLAG consolidation chemotherapy .
+
+# . Acute myelogenous leukemia : Consolidation chemotherapy Day3 ( D1 = 10 / 8 ) with CLAG s/p filgrastim priming . Pt is FLT3 + and has translocation of 6 ; 11 and deletion of 9 . Pt 's WBC count is reflection of GCSF , and TLS and DIC labs remain unremarkable .
+- CLAG : Filgrastim subcutaneously days 0-5 , cladribine days 1-5 , and cytarabine IV days 1-5 ( 25 % reduction ) .
+- Prophylaxis : Allopurinol 300 mg qD , acyclovir 800 mg BID , Posaconazole 200 mg TID , Levaquin 750 mg qHS .
+- Antiemetics per powerplan + scopolamine patch
+- TLS and DIC labs qD
+- IVF per powerplan
+- Transfusion thresholds plt 10 , hct 26
+
+# . Seizures : Does not have a dx of epilepsy , but talking with neurology this AM , there is concern that pt 's episodes could be epileptiform in nature , and the bil involvement could represent generalized activity even without LE involvement .
+- Neurology following , appreciate recs
+- Increase Keppra to 1500 mg q12hr ( if nauseated convert keppra to IV ; same dose )
+- Spot EEG today
+- LP under fluoro today , with administration of IT cytarabine per Dr. Becker
+- Ativan if seizure > 2 min
+
+# Low back pain and weakness : pt has long hx and sounds like worsens with intense mood and deconditioning . Has some elements of neuropathic involvement with shooting sensation down bil legs to mid thigh area . She has hx of " slipped discs " , reports not having any prior back / spine imaging . Pt is morbidly obese as well as markedly deconditioned for a woman of her age . Her weakness can be further worsening her LBP . As far as etiology of weakness , seems to have started around when AML was diagnosed , now using a walker or wheelchair and with slow gait , possibly ataxic altho difficult to tell w / walker assistance . Again concern for chemo toxicity , but also could be severe deconditioning from severe illness induced myopathy when pt in ICU in September 2014 .
+- Consider starting gabapentin 300 mg qHS
+- PT/OT
+
+# . Memory deficits : Unclear etiology at this time . Ddx includes iatrogenic / toxic from medications , possible post-ictal state as well as PTSD . Most likely this is a chemotherapy side effect , and hope memory clears with time . Further evaluation of seizures as above , but keppra can also cause a sedation - like state , although mild , which could contribute . Pt does not have hx of PTSD , but this is also known to cause memory deficits .
+- CTM
+
+# . Diarrhea : likely chemo related or IBS as pt having difficulties with anxiety and mood lately . C diff negative 10 / 09 .
+- Loperamide prn
+
+# . Adjustment disorder with anxiety : pt followed by psychologist as outpt . Diagnosed after AML ,
+- Sertraline
+
+Lines : L PICC
+DVT ppx : lovenox until platelets < 50
+FENGI / Diet : immunosuppressed diet , Replete pt 's hypokalemia and hypomagnesemia for goal K of 4 and Mg of 2 .
+Code status : FULL CODE
+Dispo : inpatient for 2 nd cycle of GCLAM chemotherapy , will likelydischarge Monday , has SCCA house reserved
+Contacts : Husband , Chris DPOA 253-961 - 7971 or 253-875 - 9183 or ( work ) 253-846 - 5557 , Mother , Candace , 2 nd DPOA ( 253 ) 341-8642
+
+
+ATTENDING STATEMENT :
+I personally saw and evaluated the patient and agree with Dr. Valkenaar 's note .
+Additional diagnoses : none .
+
+Date of Service : 10/10/2014

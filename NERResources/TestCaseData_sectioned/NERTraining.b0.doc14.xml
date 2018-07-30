@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AnnotatedDocument>
+  <DocumentText>U3232932,6586_00000,2012-01-27,"For purposes of history, this 69 year old Caucasian right handed female came to clinic today at the request of Dr. Renato Martins to meet with Dr. Jason Rockhill to discuss treatment options for two recently noted CNS lesions, presumed to be metastatic.
+
+TREATMENT HISTORY:
+1.`
+2012/2011 on work up for shortness of breath on exertion with associated non-productive cough that did not respond to antibiotic therapy, a chest xray was done should a right pleural mass with right pleural effusion.
+2.
+1/16/2012 underwent a bronchoscopy and biopsy and after review pathology was found to be consistent with well differentiated adenocarcinoma CK7 and TTF1 positive.
+3.
+PET positive for diffuse pleural metastatic disease as well as bony metastasis and possible liver involvement, however, non-contrast CT did not confirm this. 
+4.
+Brain MRI revealed 2 lesions, on involving the right fifth cranial nerve in the pons and one in the left temporal area. She remains asymptomatic but has had a 6 pound unintentional weight loss. 
+
+Primary Oncologist
+Renato Martins. MD
+
+PMH
+Stage IV non-small cell lung cancer
+
+SOC
+Currently lives in Montana with her husband. One daughter lives in the Seattle area and one is here at the appointment having flown in from Africa. She is not currently a smoker but per Dr. Martins note, smoked at a younger age and has less than a 10 PYH. She is not drinking alcohol at this time. She denies recreational drugs and denies medical marijuana use. She has worked outside the home in an art gallery. 
+
+FMH
+Known heart disease, hypertension and cancer
+Denies strokes and diabetes
+
+MEDICATIONS
+aspirin 162 mg PO QDay ( aspirin 81 mg oral enteric coated tablet )
+cholecalciferol 1 cap PO QDay ( Vitamin D3 1000 intl units oral capsule )
+milk thistle 2 tab PO QDay 
+multivitamin 1 tab PO QDay 
+niacin 1 tab PO QDay 
+omega-3 polyunsaturated fatty acids 1 cap PO QDay ( Fish Oil )
+simvastatin 20 mg PO QHS ( Zocor 20 mg oral tablet )
+ubiquinone 100 mg PO QDay ( Co-Q10 100 mg oral capsule )
+omeprazole 40 mg PO QDay PRN ( . ) ( Prilosec 20 mg oral delayed release capsule )
+oxycodone 1 to 2 tabs PO Q4 Hours PRN ( for pain/cough ) ( Roxicodone 5 mg oral tablet )
+
+ALLERGIES
+penicillins
+Horses
+Mold
+
+Dr. Rockhill's note can be viewd under a separate entry.
+
+"
+</DocumentText>
+  <TextAnnotationSet>
+    <TextAnnotation End="1053" Id="0" Start="287" Type="Section">
+      <Text>TREATMENT HISTORY:
+1.`
+2012/2011 on work up for shortness of breath on exertion with associated non-productive cough that did not respond to antibiotic therapy, a chest xray was done should a right pleural mass with right pleural effusion.
+2.
+1/16/2012 underwent a bronchoscopy and biopsy and after review pathology was found to be consistent with well differentiated adenocarcinoma CK7 and TTF1 positive.
+3.
+PET positive for diffuse pleural metastatic disease as well as bony metastasis and possible liver involvement, however, non-contrast CT did not confirm this. 
+4.
+Brain MRI revealed 2 lesions, on involving the right fifth cranial nerve in the pons and one in the left temporal area. She remains asymptomatic but has had a 6 pound unintentional weight loss. 
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Social History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="2301" Id="1" Start="2209" Type="Section">
+      <Text>ALLERGIES
+penicillins
+Horses
+Mold
+
+Dr. Rockhill's note can be viewd under a separate entry.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Allergies</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+  </TextAnnotationSet>
+</AnnotatedDocument>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AnnotatedDocument>
+  <DocumentText>U3232932,6586_00026,2012-03-02,"RADIATION ONCOLOGY CLINIC NOTE   
+
+HISTORY OF PRESENT ILLNESS   
+Ms Gimbel is a 69-year-old female with a known history of well-differentiated adenocarcinoma of the lung.  She has undergone gamma knife stereotactic radiosurgery and returns today having undergone a recent MRI scan.  She is accompanied by her husband.
+
+TREATMENT HISTORY   
+1.
+December 2011, on workup for shortness of breath on exertion, with associated nonproductive cough that did not respond to antibiotic therapy.  A chest x-ray was done showing a right pleural mass with right pleural effusion.
+2.
+January 16, 2012, underwent a bronchoscopy and biopsy and after review of pathology, was found to be consistent with well-differentiated adenocarcinoma of the lung, CK7 and TTF-1 positive.
+3.
+PET was positive for diffuse pleural metastatic disease as well as bony metastasis and possible liver involvement, however, a noncontrast CT scan did not confirm this.  
+4.
+January 31, 2012, a routine MRI scan ordered by Dr Martins revealed a right fifth cranial nerve lesion in the pons and 1 in the left temporal area.  Although she was asymptomatic, she had a 6 pounds unintentional weight loss.  She then underwent gamma knife stereotactic radiosurgery with both lesions treated.  The periphery of the right brainstem lesion was covered by 18 Gy to the 55% isodose surface and the left parietal lobe lesion was covered by 22 Gy to the 50% isodose surface.  This was done under the direction of Dr Jason Rockhill.
+
+INTERVAL HISTORY   
+Since last seen in the office, she has continued to do well.  She denies any new bone pain, although she has ongoing right hip pain, which has been attributed to osteoarthritis.  Her appetite is good and she is sleeping well.  She is maintaining her weight.  According to the patient, she recently had systemic staging and the fluid in the lung had decreased but she was disappointed that the lesions had not gotten smaller on Tarceva.  She remains with a cough that is nonproductive and noticed that she is somewhat winded with exertion but able to walk without difficulty.
+
+From neurologic standpoint, she denies headaches, double or blurred vision, lightheadedness, or dizziness.  She has no new bowel or bladder disturbances and no new weakness or sensory changes noted in any extremity.  She denies any new night sweats, chills, or fevers and denies any radiating chest pain.
+
+PRIMARY ONCOLOGIST
+  Renato Martins, MD, at the SCCA.
+
+PAST MEDICAL HISTORY   
+1.
+Hyperlipidemia.
+2.
+GERD.
+3.
+Stage IV non-small-cell lung cancer.
+4.
+Osteoarthritis.
+
+PAST SURGICAL HISTORY   
+1.
+Tonsillectomy as a child.
+2.
+Adenoidectomy.
+
+SOCIAL HISTORY   
+Currently lives in Montana with her husband.  She has a daughter and grandchildren that live in the Seattle area.  She is not currently a smoker but per Dr Martins' note smoked at a younger age and has less than a 10-pack year history.  She is not drinking alcohol.  She denies recreational drug use.  In the past, she has worked outside the home in an art gallery.
+
+FAMILY MEDICAL HISTORY   
+1.
+Known heart disease, hypertension, and cancer.
+2.
+Denies strokes and diabetes.
+
+ALLERGIES   
+1.
+PENICILLIN.
+2.
+HORSES.
+3.
+MOLD.
+
+PHYSICAL EXAMINATION   
+VITAL SIGNS:  Temperature is 36 today.  Heart rate is 94 with a respiratory rate of 14, and O2 saturations 96% on room air.  Her systolic blood pressure is 116/69.
+GENERAL:  A well-developed, well-nourished, adult female, in no acute distress.
+PSYCHIATRIC:  Maintains good eye contact and is pleasant and cooperative throughout the exam.  She has full range of affect and is very conversant and interactive today.
+HEENT:  Normocephalic with pupils equal and reactive to light.  Oral mucosa is moist and pink.
+NECK:  Supple with full range of motion.
+CHEST:  Respirations are easy and regular with normal work of breathing.
+SKIN:  Warm and dry and well perfused with adequate capillary refill.
+EXTREMITIES:  Normal bulk and tone without obvious deformity.
+NEUROLOGIC:  She is awake, alert, and oriented times 4 with pupils equal and reactive to light and extraocular movements are intact.  Her face is symmetric and her tongue protrudes in the midline.  Her speech is clear, linear, fluent, and appropriate.  She moves all extremities at full power and easily follows multistep commands.  Her gait is normal based and casual with good swing through.
+
+IMAGING   
+Report of the MRI scan obtained yesterday compared with examination from January 31, 2012, the enhancing lesion within the left superior temporal gyrus is minimally decreased in size.  The right pontine lesion has not significantly changed.  No new lesions are identified.
+
+ASSESSMENT AND PLAN   
+Ms Gimbel is a 69-year-old female, who has a history of well-differentiated adenocarcinoma of the lung.  We have treated her for CNS metastasis and both radiographically and clinically she is doing well.  We will therefore plan to follow her every 2-3 months and coordinate her appointments with those of Dr Martins, so she does not have to make additional trips over here from Montana.  At her next visit, we will perform a MRI scan with and without contrast with SPGR fine cuts in the axial plane.
+
+Ms Gimbel knows to call our office with any questions or concerns that might arise prior to her next visit.  We told them we would support followup in Montana if that works better for them especially if they are facing travel across the passes on snowy months.  We would only ask that any MRI scans of the brain that are done closer to home to be sent to us for evaluation also.
+
+TIME STATEMENT   
+Twenty-five minutes were spent with the patient and her husband with majority of time in face-to-face counseling and coordination of care.
+
+"
+</DocumentText>
+  <TextAnnotationSet>
+    <TextAnnotation End="350" Id="0" Start="67" Type="Section">
+      <Text>HISTORY OF PRESENT ILLNESS   
+Ms Gimbel is a 69-year-old female with a known history of well-differentiated adenocarcinoma of the lung.  She has undergone gamma knife stereotactic radiosurgery and returns today having undergone a recent MRI scan.  She is accompanied by her husband.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="1511" Id="1" Start="351" Type="Section">
+      <Text>TREATMENT HISTORY   
+1.
+December 2011, on workup for shortness of breath on exertion, with associated nonproductive cough that did not respond to antibiotic therapy.  A chest x-ray was done showing a right pleural mass with right pleural effusion.
+2.
+January 16, 2012, underwent a bronchoscopy and biopsy and after review of pathology, was found to be consistent with well-differentiated adenocarcinoma of the lung, CK7 and TTF-1 positive.
+3.
+PET was positive for diffuse pleural metastatic disease as well as bony metastasis and possible liver involvement, however, a noncontrast CT scan did not confirm this.  
+4.
+January 31, 2012, a routine MRI scan ordered by Dr Martins revealed a right fifth cranial nerve lesion in the pons and 1 in the left temporal area.  Although she was asymptomatic, she had a 6 pounds unintentional weight loss.  She then underwent gamma knife stereotactic radiosurgery with both lesions treated.  The periphery of the right brainstem lesion was covered by 18 Gy to the 55% isodose surface and the left parietal lobe lesion was covered by 22 Gy to the 50% isodose surface.  This was done under the direction of Dr Jason Rockhill.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Social History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="2413" Id="2" Start="1512" Type="Section">
+      <Text>INTERVAL HISTORY   
+Since last seen in the office, she has continued to do well.  She denies any new bone pain, although she has ongoing right hip pain, which has been attributed to osteoarthritis.  Her appetite is good and she is sleeping well.  She is maintaining her weight.  According to the patient, she recently had systemic staging and the fluid in the lung had decreased but she was disappointed that the lesions had not gotten smaller on Tarceva.  She remains with a cough that is nonproductive and noticed that she is somewhat winded with exertion but able to walk without difficulty.
+
+From neurologic standpoint, she denies headaches, double or blurred vision, lightheadedness, or dizziness.  She has no new bowel or bladder disturbances and no new weakness or sensory changes noted in any extremity.  She denies any new night sweats, chills, or fevers and denies any radiating chest pain.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Social History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="2580" Id="3" Start="2469" Type="Section">
+      <Text>PAST MEDICAL HISTORY   
+1.
+Hyperlipidemia.
+2.
+GERD.
+3.
+Stage IV non-small-cell lung cancer.
+4.
+Osteoarthritis.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Past Medical History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="2653" Id="4" Start="2581" Type="Section">
+      <Text>PAST SURGICAL HISTORY   
+1.
+Tonsillectomy as a child.
+2.
+Adenoidectomy.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Past Surgical History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="3038" Id="5" Start="2654" Type="Section">
+      <Text>SOCIAL HISTORY   
+Currently lives in Montana with her husband.  She has a daughter and grandchildren that live in the Seattle area.  She is not currently a smoker but per Dr Martins' note smoked at a younger age and has less than a 10-pack year history.  She is not drinking alcohol.  She denies recreational drug use.  In the past, she has worked outside the home in an art gallery.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Social History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="3147" Id="6" Start="3039" Type="Section">
+      <Text>FAMILY MEDICAL HISTORY   
+1.
+Known heart disease, hypertension, and cancer.
+2.
+Denies strokes and diabetes.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Family History</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="3196" Id="7" Start="3148" Type="Section">
+      <Text>ALLERGIES   
+1.
+PENICILLIN.
+2.
+HORSES.
+3.
+MOLD.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Allergies</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+    <TextAnnotation End="4370" Id="8" Start="3197" Type="Section">
+      <Text>PHYSICAL EXAMINATION   
+VITAL SIGNS:  Temperature is 36 today.  Heart rate is 94 with a respiratory rate of 14, and O2 saturations 96% on room air.  Her systolic blood pressure is 116/69.
+GENERAL:  A well-developed, well-nourished, adult female, in no acute distress.
+PSYCHIATRIC:  Maintains good eye contact and is pleasant and cooperative throughout the exam.  She has full range of affect and is very conversant and interactive today.
+HEENT:  Normocephalic with pupils equal and reactive to light.  Oral mucosa is moist and pink.
+NECK:  Supple with full range of motion.
+CHEST:  Respirations are easy and regular with normal work of breathing.
+SKIN:  Warm and dry and well perfused with adequate capillary refill.
+EXTREMITIES:  Normal bulk and tone without obvious deformity.
+NEUROLOGIC:  She is awake, alert, and oriented times 4 with pupils equal and reactive to light and extraocular movements are intact.  Her face is symmetric and her tongue protrudes in the midline.  Her speech is clear, linear, fluent, and appropriate.  She moves all extremities at full power and easily follows multistep commands.  Her gait is normal based and casual with good swing through.
+</Text>
+      <FeatureSet>
+        <Feature Name="category">Physical</Feature>
+      </FeatureSet>
+    </TextAnnotation>
+  </TextAnnotationSet>
+</AnnotatedDocument>

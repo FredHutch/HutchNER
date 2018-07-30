@@ -1,0 +1,22 @@
+300PtsWithDxInfo.csv -
+    - Stands for "300 patients with diagnosis info".
+    - This is the output of a caisis query to collect our patient-level "gold" standard
+    - Used as input into Emily's UW database script which pulls out all the docs associated with these MRNs
+
+will_dev_notes.txt -
+    - The output of Emily's UW DB query
+    - Contains tons of notes, not necessarily the ones with dx info in them; we need to filter them
+    - Serves as input into txt2tsv.py script
+
+dx_docs_no_filter -
+    - The output from txt2tsv.py.
+    - Still lots of notes that we need to filter through to find the ones we want to annotate. Technically this level
+        is our full data set (training or test or whatever) since the filtering we do pre-annotation skews
+        the actual distribution of TPs
+    - Serves as input to filter_by_timediff.py:
+        - This script filters out all the docs that should contain a diagnosis date.
+        - Result of this script is a tsv with only docs we want to put though Labkey for annotation
+
+Data/dx_docs_filtered.tsv -
+    - These are the subset of the dataset that need to receive annotations. Read them into labkey, record what your
+        jobrunid is, and use that as an identifyer in your labkey.ini configuration file

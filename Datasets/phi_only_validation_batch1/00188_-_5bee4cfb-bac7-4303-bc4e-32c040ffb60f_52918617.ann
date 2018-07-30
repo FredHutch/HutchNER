@@ -1,0 +1,53 @@
+T1	Provider_Name 83 102	DiJulio , Annette M
+T2	Provider_Name 116 126	Bronc RN C
+T3	Date 145 158	May 01 , 2017
+T4	Provider_Name 203 213	Bronc RN C
+T5	eMail 175 200	buckleys@u.washington.edu
+T6	Provider_Name 221 233	Gadi , V . K
+T7	Patient_or_Family_Name 253 263	Muhlhauser
+T9	Provider_Name 295 300	Sarah
+T14	Provider_Name 483 490	Annette
+T15	Provider_Name 497 512	Annette DiJulio
+T17	Phone_Number 549 565	( 206 ) 288-6352
+T18	Phone_Number 568 584	( 206 ) 288-2023
+T19	eMail 587 610	BroncRNC@seattlecca.org
+T20	Address_and_Components 615 631	825 Eastlake Ave
+T21	Address_and_Components 634 656	E , Mail Stop G3 - 303
+T22	Address_and_Components 659 673	P.O. Box 19023
+T23	Address_and_Components 676 699	Seattle , WA 98109-1023
+T25	Hospital_Name 729 733	SCCA
+T28	URL_or_IP 910 916	Caresi
+T30	Date 1090 1103	May 01 , 2017
+T31	Provider_Name 1120 1125	Bronc
+T32	Provider_Name 1138 1152	Gadi , V . K .
+T33	Patient_or_Family_Name 1170 1180	Muhlhauser
+T35	Provider_Name 1208 1215	Annette
+T43	Address_and_Components 1649 1656	Montana
+T46	Profession 1845 1850	Sarah
+T47	Provider_Name 1909 1914	Sarah
+T48	Patient_or_Family_Name 1933 1951	TWYLA J MUHLHAUSER
+T49	Medical_Record_Number 1952 1960	U3562015
+T51	Date 2101 2107	4 / 10
+T59	Address_and_Components 2669 2676	Montana
+T61	Hospital_Name 2731 2735	UWMC
+T62	Hospital_Name 2779 2783	UWMC
+T63	Provider_Name 2800 2816	Phillip Fleckman
+T66	Provider_Name 2958 2965	Annette
+T67	Provider_Name 2998 3013	Annette DiJulio
+T68	Profession 3027 3053	Clinical Nurse Coordinator
+T69	Phone_Number 3062 3078	( 206 ) 288-6352
+T70	Phone_Number 3081 3097	( 206 ) 288-2023
+T71	eMail 3106 3129	BroncRNC@seattlecca.org
+T72	eMail 3138 3174	cid : image002.png@01D0E640.1C3894F0
+T74	Address_and_Components 3183 3201	825 Eastlake Ave .
+T73	Address_and_Components 3202 3224	E , Mail Stop G3 - 303
+T75	Address_and_Components 3233 3247	P.O. Box 19023
+T76	Address_and_Components 3256 3279	Seattle , WA 98109-1023
+T77	URL_or_IP 3288 3310	www . seattlecca . org
+T29	eMail 1007 1032	buckleys@u.washington.edu
+T79	eMail 1044 1069	buckleys@u.washington.edu
+T24	URL_or_IP 702 724	www . seattlecca . org
+T45	Date 1864 1874	1 May 2017
+T80	Provider_Name 1877 1882	Bronc
+T65	Hospital_Name 3327 3331	SCCA
+T81	Provider_Name 3515 3523	“Caresi”

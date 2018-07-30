@@ -1,0 +1,49 @@
+INPATIENT PROGRESS NOTE HOSPITAL DAY : 3 IDENTIFICATION / CHIEF CONCERN : 70 F with AML with monocytic differentiation ( NPM1 + , FLT3 - , 46XX ) presenting for G - CLAM induction INTERVAL HISTORY : 
+- vitals wnl overnight , now with hypoxemia to mid 80 s on RA , now low - mid 90 s on 3 L NC - subjective : feeling generally unwell , + nausea , x2 watery emesis , loose stools last night now frank watery diarrhea , + cough that began in the middle of the night , now @ ~ 7000 with moderate hemoptysis - - 1 - 2 tablespoons of dark non - clotted blood at a time , also with L sided chest " pinch " for the past several hours and increased dyspnea - s/p 1 u pRBCs o / 
+n , temp to 38.3 C at the end of the transfusion - s/p 1 u cryo yesterday , fibrinogen 97 - - > 107 - TLS labs no significant change - ANC = 0.47 yesterday , 0.72 today midnight ALLERGIES : NKA 
+No Known Medication Allergies SCHEDULED MEDICATIONS : acyclovir 800 mg PO Q12 Hours allopurinol 300 mg PO Daily cefTAZidime 2 g IVPB Q8 Hours cholecalciferol 400 units PO Daily cladribine 9.5 mg IVPB Q24 Hours cytarabine 3 , 800 mg IVPB Q24 Hours filgrastim 480 mcg Subcutaneous Q24 Hours 
+fluconazole 200 mg PO Daily FLUoxetine 20 mg PO Daily levoFLOXacin 750 mg PO Daily magnesium sulfate 16 mEq IVPB Once ondansetron 8 mg IV Q12 Hours ( non std ) prednisoLONE acetate 1 % ophthalmic suspension 2 drop ( s ) 
+EYE - Both Q6 Hours ( non std ) 
+sevelamer 
+800 mg PO TID 
+With Meals Vitamin K1 5 mg PO Daily INFUSIONS : Normal Saline 1000 mL 100 mL/hr IV Infusion PRN MEDICATIONS : ( only those given in the last 24 hours are displayed ) 
+LORazepam 0.25 - 0.5 mg IV Q4 Hours PRN 
+REASON DEVICES REMAIN IN : Central Line ( Day 5 ) , Tunneled Double Lumen , by outside facility : 
+Planned long - term vascular access PHYSICAL EXAM : 08/23/16 08:29 : T 37.4 HR 98 BP 137 / 70 08/23/16 08:48 : RR 21 08/23/16 08:49 : O2 Sat 93 % on 3 L/min In : 5953.5 ; 
+Out : 3860 ; Net : 2093.5 ( last 24 hours ) General / Constitutional : older woman lying in bed , appears unwell but non - toxic 
+Head / Eyes / Ears / Nose / Mouth / Throat : normocephalic / atraumatic , sclera anicteric and non - injected , oropharynx clear / no mucositis , +1 - 2 tablespoons of hemoptysis directly observed Respiratory : mild tachpnea to ~ 20 , bibasilar crackles and L lung with noisy breath sounds GI / Abdominal : non - distended , nontender to palpation Extremities : warm and well - perfused , unchanged from prior - - trace non - pitting edema , no warmth , rash , distended veins Heme / Lymphatic : ~ 5 cc of dark red blood at Hickman site under dressing Skin : no rashes or nodules appreciated Neurologic : motor and sensory grossly intact 
+, finger - to - nose with intention tremor b/l symmetric Psychiatric : alert and oriented 
+Lines / Access : right Hickman LABS : ( Most recent results in 24 hour range . ) RESULTS FROM TODAY RESULTS FROM YESTERDAY 08/23/16 07:40 08/22/16 16:11 | - ICa - - - | - ICa - - - 140 114 36 | - Ca 7.0 140 113 42 | - Ca 7.6 - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 110 | - Mg 1.7 - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 201 | - Mg 2.2 3.9 19 1.03 | - Phos 4.3 3.8 20 1.23 | - Phos 4.7 RESULTS FROM TODAY RESULTS FROM YESTERDAY 08/23/16 07:40 08/22/16 16:10 7.7 | - PT 18.8 7.5 | - PT 18.7 2.66 ] 
+- - - - - - - - - - - - - - - - - - - - - - [ 24 | - INR 1.6 11.84 ] - - - - - - - - - - - - - - - - - - - - - - [ 49 | - INR 1.6 23 | - PTT 31 23 | - PTT 34 MICRO : - Blood cx 8 / 23 : 
+pending IMAGING : - CXR 8 / 23 bedside read : no significant effusion , no PTX , R hilar fullness / possible consolidation , moderate volume overload ASSESSMENT & PLAN : 70 F with AML with monocytic differentiation ( NPM1 + , FLT3 - , 46XX ) presenting for G - CLAM induction # AML Bone marrow demonstrated 100 % myeloid blasts with minimal residual hematopoiesis . 
+Peripheral blood had 19 % blasts . 
+Normal karyotype 46XX with negative AML FISH panel ( 7q31 , trisomy 8 , t ( 8 ; 21 ) ( q21 ; q22 ) , 11q23 , t ( 15 ; 7 ) ( q24 ; q2 1.1 ) , 16q22 ) . 
+Negative for CEBPA , FLT3 and positive for NPM1 . 
+Treatment - related mortality score 2.8 ( low risk ) . 
+- G - CLAM ( D1 = 8 / 20 ) - Holding dose D0 and D1 of filgrastim given large blast burden , D2 - 5 still in place - Acyclovir , posaconazole ; discontinue levofloxacin with ceftaz on board # Neutropenic Fever : possible febrile RBC transfusion reaction , suspicion for infection - Blood cx , urinalysis with urine cx - Begin ceftazadine 
+2 mg IV q8 hrs # Hemoptysis , coagulopathy , hypoxemia , L sided chest " pinching " : most likely cough inducing small middle / lower airway vessel burst which is triggering further coughing etc . as well as 
+moderate volume overload given fluids . 
+Aspiration pneumonitis and / or PNA also possible , ACS and PE less likely ( duplex LEs 8 / 22 negative ) . 
+- respiratory virus panel - EKG - cough suppression : guaifen / codeine - increasing transfusion thresholds : HCT > 25 , Plts > 50 , Fibrinogen > 150 - transfusing cryopreciptate x3 units , plts x2 units to goals above - Vit K for INR 
+= 1.5 # GI nausea / vomiting / diarrhea : most likely chemo toxicity , unlikely Cdiff given only on levofloxacin for x1 day 
+- Cdiff PCR - CTM # FEN : WBC now ~ 2 , unlikely to develop significant TLS after this point - TLS labs Q8Hr - prophylactic allopurinol - mIVF NS 150 - - > 100 cc/hr ( volume overload ) - calcium carbonate 500 bid discontinued for hyperphosphatemic - sevelemar for hyperphos # 
+Back pain : likely related to malignancy - oxycodone 2.5 - 5 mg q4 hours PRN - bowel regimen : miralax , senna PRN # LE cramping w / h/o 
+PE 2005 : no DVT by LE duplex . 
+Unclear etiology , most likely muscle strain . 
+- PT consulted , encourage mobility , ice and / or warm compresses as needed # Thyroid nodule : thyroid ultrasound when stable and / or as outpatient # H/o PE 2005 not on AC : Will become thrombocytopenic , so no further AC planned . 
+CTM # Osteopenia : 
+Continue Ca , Vit D # Depression : Continue fluoxetine FEN : 
+Immunosuppressed TLD : 
+Hickman DVT 
+ppx : None for now ( encourage ambulation - - prefer to avoid LMWH given impending thrombocytopenia and prefer to avoid SCDs when ruling out DVTs ) Code : 
+Full Contacts : 
+Dave Lehnis , brother , 360 - 480 - 7933 ; Roberta , friend , 206 - 769 - 6721 Dispo : Home with caregivers once s/p chemo ATTENDING ADDENDUM : 
+I saw and evaluated the patient , and I agree with the resident 's note . 
+Patient has new fever , new O2 requirement up to 4 L/nc , new DIC , and new hemoptysis overnight . 
+Cultures pending , and CXR / CR chest both demonstrate diffuse infiltrates concerning for acute lung injury , whether related to DAH vs . 
+pulmonary edema vs . 
+infection . 
+TRALI is also possible though timing with onset of dyspnea appeared to be significantly after initation of PRBC transfusion . 
+Appreciate pulmonary input . 
+Will hold off on day 4 chemotherapy for tonight , since O2 requirement did not improve significantly throughout the day despite steroids and Lasix ; hope to reinitiate final two days of chemotherapy tomorrow 8 / 24 instead . 
+Case was discussed today at weekly leukemia patient conference as well . 

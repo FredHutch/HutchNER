@@ -1,0 +1,56 @@
+T1	Date 45 52	1/29/10
+T4	Date 98 105	3/27/10
+T25	Date 756 763	1/30/10
+T26	Date 893 900	1/30/10
+T27	Date 922 929	1/30/10
+T31	Date 2108 2114	2/5/10
+T32	Date 2150 2156	2/5/10
+T33	Date 2185 2192	2/23/10
+T34	Date 2335 2341	3/5/10
+T39	Hospital_Name 2912 2916	UWMC
+T40	Date 2680 2687	3/12/10
+T41	Date 2753 2760	3/12/10
+T42	Date 2945 2952	2/27/10
+T51	Date 3520 3526	3/2/10
+T52	Date 3577 3589	02-27 , 2010
+T53	Date 4653 4659	3/2/10
+T54	Date 4714 4720	3/8/10
+T57	Age 5160 5162	53
+T61	Hospital_Name 5472 5476	SCCA
+T68	Date 5921 5928	1/29/10
+T70	Date 6127 6133	3/5/10
+T81	Hospital_Name 6568 6572	SCCA
+T83	Hospital_Name 6595 6599	SCCA
+T84	Date 6673 6680	2/27/10
+T90	Date 7095 7101	3/1/10
+T92	Date 7146 7152	3/2/10
+T95	Date 7332 7339	3/12/10
+T115	Date 9209 9216	3/11/10
+T215	Date 11665 11672	3/31/10
+T219	Phone_Number 11840 11854	206-288 - 2161
+T238	Date 12301 12307	4/1/10
+T242	Date 12490 12500	03/27/2010
+T243	Date 12524 12534	03/26/2010
+T37	Provider_Name 2882 2891	David Row
+T38	Provider_Name 5099 5106	Azen 's
+T55	Patient_or_Family_Name 5806 5810	Boka
+T59	Provider_Name 6579 6587	Abkowitz
+T65	Patient_or_Family_Name 6687 6691	Boka
+T82	Patient_or_Family_Name 7292 7296	Boka
+T85	Patient_or_Family_Name 7767 7771	Boka
+T88	Patient_or_Family_Name 8584 8588	Boka
+T93	Patient_or_Family_Name 8985 8989	Boka
+T100	Patient_or_Family_Name 10263 10267	Boka
+T106	Patient_or_Family_Name 10539 10543	Boka
+T159	Provider_Name 11703 11707	Ward
+T217	Hospital_Name 11777 11781	SCCA
+T218	Provider_Name 12422 12430	Cheng 's
+T256	Address_and_Components 5330 5337	Montana
+T3	Provider_Name 74 78	Keel
+T6	Provider_Name 127 132	Estey
+T56	Patient_or_Family_Name 5150 5154	Boka
+T121	Patient_or_Family_Name 9479 9483	Boka
+T128	Patient_or_Family_Name 9642 9646	Boka
+T18	Ward_Name 5872 5892	PETHEMA group LPA 99
+T150	Provider_Name 11678 11685	Justine
+T216	Provider_Name 11686 11694	Derousse

@@ -1,0 +1,59 @@
+T1	Date 73 90	December , 8 2011
+T3	Patient_or_Family_Name 146 159	Jaishri Grant
+T4	Age 165 167	49
+T6	Date 223 227	2004
+T7	Date 257 270	August / 2004
+T8	Date 344 357	August / 2009
+T11	Date 557 567	April 2004
+T22	Date 1333 1344	August 2004
+T23	Date 1415 1428	December 2009
+T24	Date 1727 1735	03/12/10
+T25	Date 1805 1815	April 2010
+T26	Date 1877 1885	May 2010
+T27	Date 1974 1984	08/09/2010
+T28	Date 2072 2080	11/29/10
+T29	Date 2248 2257	10 / 2010
+T32	Date 2311 2319	12/12/10
+T35	Date 2339 2347	12/08/11
+T39	Address_and_Components 2675 2679	UCLA
+T40	Date 2847 2857	06/16/2011
+T47	Date 3287 3295	12/01/11
+T48	Date 3329 3336	0/12/11
+T49	Date 3573 3581	11/29/11
+T52	Date 3956 3964	11/15/11
+T53	Date 4079 4087	12/15/11
+T54	Date 4176 4180	2009
+T55	Date 4216 4220	2006
+T56	Patient_or_Family_Name 4286 4291	James
+T57	Address_and_Components 4325 4327	LA
+T58	Address_and_Components 4352 4368	Pete Gross House
+T59	Address_and_Components 4377 4384	Seattle
+T60	Profession 4403 4413	pharmacist
+T61	Address_and_Components 4437 4445	Zimbabwe
+T62	Age 4546 4548	80
+T63	Age 4664 4666	86
+T220	Date 8116 8124	12/08/11
+T222	Age 8436 8438	49
+T224	Date 8494 8498	2004
+T225	Date 8528 8541	August / 2004
+T226	Date 8600 8613	August / 2009
+T232	Date 9065 9073	12/03/11
+T237	Date 9186 9194	12/01/11
+T244	Date 9455 9465	12/04/2011
+T254	Date 9656 9669	November / 30
+T255	Date 9930 9948	November 30 , 2011
+T256	Date 9972 9986	March 7 , 2011
+T257	Date 10068 10087	September 27 , 2011
+T286	Hospital_Name 10528 10532	SCCA
+T290	Date 1515 1522	January
+T2	Provider_Name 107 113	Rainer
+T303	Provider_Name 114 119	Storb
+T9	Patient_or_Family_Name 515 520	Grant
+T46	Date 3236 3245	July / 11
+T318	Date 3249 3262	December / 11
+T221	Patient_or_Family_Name 8417 8424	Jaishri
+T342	Patient_or_Family_Name 8425 8430	Grant
+T284	Provider_Name 10488 10491	Rui
+T345	Provider_Name 10492 10501	Bergantim
+T36	Account_Number 2458 2468	UW - 09036
+T41	Account_Number 3070 3087	UW protocol 09036

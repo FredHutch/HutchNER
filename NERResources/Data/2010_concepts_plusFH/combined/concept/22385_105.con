@@ -1,0 +1,4 @@
+c="NSTEMI" 1:7 1:7||t="treatment"
+c="COPD" 1:21 1:21||t="problem"
+c="HIV" 1:0 1:0||t="problem"
+c="LV dysfuction" 1:10 1:11||t="problem"

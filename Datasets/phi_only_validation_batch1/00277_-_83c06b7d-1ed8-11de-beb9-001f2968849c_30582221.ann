@@ -1,0 +1,17 @@
+T1	Hospital_Name 0 28	SEATTLE CANCER CARE ALLIANCE
+T2	Date 73 86	June 3 , 2013
+T3	Patient_or_Family_Name 112 119	Roberts
+T4	Patient_or_Family_Name 122 129	Hoskins
+T5	Age 135 137	59
+T7	Ward_Name 437 441	2592
+T25	Address_and_Components 1327 1334	Seattle
+T26	Hospital_Name 1384 1388	SCCA
+T28	Patient_or_Family_Name 2648 2671	Kevin Roberts - Hoskins
+T29	Age 2677 2679	59
+T30	Hospital_Name 3114 3142	the University of Washington
+T31	Ward_Name 3205 3209	2592
+T32	Date 3512 3525	May 20 , 2013
+T33	Hospital_Name 5428 5432	SCCA
+T34	Hospital_Name 5436 5460	University of Washington
+T35	Provider_Name 5760 5764	Tara
+T36	Date 7603 7616	May 20 , 2013

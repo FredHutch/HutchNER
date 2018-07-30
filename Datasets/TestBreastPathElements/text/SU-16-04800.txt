@@ -1,0 +1,37 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    PEGG , CONSTANCE LEE MRN :        U3867363      ( UWMC ) DOB :        Oct 23 1958 SEX :        F . 
+CASE :    SU-16 - 04800    COLLECTED :   Feb 24 2016   RECEIVED : Feb 24 2016 * * * * THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : 
+Other _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A )   Right breast , mastectomy : 1 . 
+Breast tissue , negative for atypical hyperplasia , in situ or invasive carcinoma . 2 . 
+Nipple and areola with no pathologic change . 
+B )   Left breast , mastectomy : 1 . 
+Ductal carcinoma in situ with high nuclear grade ( see summary cancer data ) . 2 . 
+No residual invasive carcinoma . 
+SUMMARY CANCER DATA : Specimen and procedure Procedure :     Total mastectomy ( including nipple and skin ) Specimen laterality :     Left Primary tumor ( status post pre - surgical therapy ) No evidence of residual invasive carcinoma Estimated treatment response in breast :     Complete pathologic response ( no residual invasive carcinoma ) Pre - treatment tumor characteristics Pre - treatment Nottingham grade :     Score can not be determined Reason Nottingham score can not be determined : Microinvasive carcinoma in association with DCIS was identified .   
+The carcinoma was not graded . 
+Pre - treatment ER :     Negative ( Allred < = 2 ) Pre - treatment PR :     Negative Pre - treatment her 2 by IHC :     Positive for her 2 overexpression by immunohistochemistry Pre - treatment characteristics comment : ( The outside biopsy was reviewed at UWMC .   
+Please see report SU-15 - 22790 ) . 
+Additional findings DCIS ( ductal carcinoma in situ ) :     Residual DCIS present ( 85002 ) Nuclear grade of DCIS :     High Necrosis in DCIS :     Not identified Distance spanned by DCIS :     1.5 cm Comment about DCIS : Rare foci of DCIS were identified in a span of 1.5 cm .   
+The span of DCIS is based on cumulative thickness of involved slices . 
+Microcalcifications :     
+Present in non - neoplastic tissue Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Not applicable ( no invasive carcinoma present ) DCIS margin :     DCIS > = 0.5 cm from all inked margins Lymph node involvement ( S / P neoadjuvant therapy ) No lymph nodes to examine post - therapy Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) 
+Primary tumor [ pT ] :     ypTis ( DCIS ) : Ductal carcinoma in situ Regional nodes [ pN ] :     ypNX : Can not be assessed _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : GROSS DESCRIPTION : A )     Received :   Fresh in a container designated " A. right breast " Specimen type :   Skin sparing mastectomy Formalin time :   It is placed in formalin at 8:00 p.m. on 02/24/2016 with a total fixation time of approximately 21 hours and 40 minutes Tissue obtained for tumor banking : 
+No Weight :   352 g 
+Overall size :   15.0 ( SI ) x 18.0 ( ML ) x 3.5 ( AP ) cm Axillary tail :   Not identified Skin :   Tan - pink , wrinkled and oval , 4.0 x 2.9 cm with no discrete lesions Nipple and Areola : The nipple is 1 .. 5 x 1.5 cm and unremarkable with an ill - defined 3.2 x 2.6 cm areola Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Sectioning :   From medial to lateral into nineteen slices , numbered respectively ( average thickness = 0.5 cm ) Findings :   No discrete masses , cysts , or lesions are identified Background breast :   Approximately 80% yellow lobulated adipose tissue intermixed with 20% fibrous tissue 
+Submitted :   Representative sections are submitted as follows : A1 - nipple and areola , bisected A2 - upper outer quadrant , two sections A3 - upper inner quadrant , two sections A4 - lower inner quadrant , two sections A5 - lower outer quadrant , two sections ( CXH / clk ) B )     Received :   Fresh in a container designated " Pegg , Constance , left breast " Specimen type :   Mastectomy Formalin time :   02/24/2016 , 9:00 p.m. , 18 hours . 
+Tissue obtained for tumor banking : No Weight :   292 g 
+Overall size :   16.0 ( SI ) x 15.0 ( ML ) x 2.5 ( AP ) cm Skin :   None Nipple and Areola :   Unremarkable areola , 4.0 cm in diameter ; unremarkable nipple , 4.0 cm in diameter . 
+Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Sectioning :   From lateral to medial into sixteen slices with an average thickness of 0.5 cm . 
+Findings :   Tan - white , firm , fibrotic scar Location :   2:00 , 5.0 cm from nipple Size :   1.5 x 1.6 x 1.8 cm ; the third dimension ( 1.8 cm ) is based on cumulative thickness of involved slices 4 - 6 . 
+Distance to deep margin :   0.7 cm ; to superior superficial margin 2.0 cm ; to inferior superficial margin 3.0 cm . 
+Evidence of prior biopsy or procedure :   Scar observed . 
+Background breast :   Approximately 80% unremarkable yellow lobulated tissue with intervening white fibrous band . 
+Submitted :   Representative sections are submitted as follows : B1 - slice 2 , tissue lateral to mass B2 - slice 3 , tissue lateral to mass B3-B4 - slice 4 , mass composite section B5-B6 - slice 5 , mass composite section B7-B10 - slice 6 , medial extent of mass , composite section B11-B12 - slice 7 , tissue medial to mass B13 - slice 8 , tissue medial to mass B14 - slice 9 , tissue medial to mass B15 - upper outer quadrant B16 - upper inner quadrant B17 - lower inner quadrant B18 - lower outer quadrant B19 - nipple ( RB / ch ) Rajnish   Bharadwaj MBBS , PhD AP Resident 02/27/2016 Sania   Shuja MD , PhD Pathologist Electronically signed 
+02/29/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+ADDENDUM : This addendum is to add more information about the pre - treatment grading of invasive carcinoma .   
+The core needle biopsy of the mass ( reviewed in SU-15 - 22790 ) revealed microinvasive carcinoma that was not graded .   
+Subsequently , a lumpectomy was performed , which showed two foci of invasive carcinoma ( see report SU-15 - 25444 ) .   
+These were graded as - Nottingham grade III ( poor tubule formation , high nuclear grade , and intermediate mitotic rate ) . 
+Sania   Shuja MD , PhD Pathologist Electronically signed 
+03/01/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 

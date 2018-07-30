@@ -1,0 +1,53 @@
+HEME - ONC INPATIENT PROGRESS NOTE Hospital Day : 
+8 IDENTIFICATION / CHIEF CONCERN Mr. Isaac is a 37 y.o . 
+male with metastatic epithelioid sarcoma , who presents with worsening dyspnea and leukocytosis , likely secondary to progressive pneumonia vs chemo side effect . 
+INTERVAL HISTORY - breathing comfortably on nasal canula - says he gets short of breath when getting up - bronch : RSV , viral cx , CMV , VZV , adeno negative - AFB , aspergillus , legionella , nocardia , PCP : pending - no new issues , stable - doing well on the floor ALLERGIES morphine prochlorperazine sertraline hydrocodone Tape Scheduled Medications Albuterol 0.083 % 3 mL inhalation soln Dose : 2.5 mg = 3 mL Nebulized Inh Q4 Hours Citalopram 40 mg tab Dose : 40 mg = 1 tab PO QDay Docusate 100 mg cap Dose : 200 mg = 2 cap PO BID Heparin 5 , 000units / mL inj Dose : 5 , 000 units = 1 mL Subcutaneous Q8 Hours Ipratropium 0.02 % 2 . 
+5mL inhalation soln Dose : 0.5 mg = 2.5 mL Nebulized Inh Q4 Hours MethylPREDNISolone Na Succinate Dose : 140 mg IVPB QDay Oxycodone CR 20 mg tab Dose : 80 mg = 4 tab PO Q8 Hours Pantoprazole 40 mg tab Dose : 40 mg = 1 tab PO QDay Senna 8 . 
+6mg tab Dose : 1 - 2 tab PO QHS Infusions 
+No Infusion Medications Found . 
+PRN Medications 
+Albuterol 0.083 % 3 mL inhalation soln Dose : 2.5 mg = 3 mL Nebulized Inh Q1 Hour PRN Fentanyl 200 mcg lozenge Dose : 400 mcg = 2 each Mucosal Q12 Hours PRN 
+Ipratropium 0.02 % 2 . 
+5mL inhalation soln Dose : 0.5 mg = 2.5 mL Nebulized Inh Q1 Hour PRN Lorazepam 1 mg tab Dose : 1 mg = 1 tab PO Q8 Hours PRN Lorazepam 2 mg/mL inj Dose : 1 mg = 0.5 mL IV Push Q8 Hours 
+PRN Ondansetron 4mg / 2mL 
+inj Dose : 8 mg = 4 mL IV Q8 Hours PRN Oxycodone 15 mg tab Dose : 15 - 4 5 mg PO Q4 Hours PRN Petrolat - mineral oil - hydrophil oint 50 g Dose : 1 application Topical TID PRN 
+Polyethylene glycol 3350 - NF powder 17 g Dose : 17 g = 1 packet PO QDay PRN PHYSICAL EXAM VS : ( Most recent and 24 hour range . ) 
+Date Result 
+Last MIN - MAX 06/09/10 08:11 
+Temp C : 36.6 36.2 - 37.3 06/09/10 08:11 
+HR : 78 78 - 93 06/09/10 08:11 RR : 18 18 - 20 06/09/10 08:11 SBP Non - Inv : 118 114 - 132 06/09/10 08:11 
+DBP Non - Inv : 66 59 - 72 GEN : NAD , skin lesions on head unchanged PULM : less ronchorous , crackles bilaterally over lower 2 / 3 of lung fields , continues to improve daily CV : RRR this AM , no M / R / G ABD : Soft , NTTP , BS + EXT : No LE edema I & O Height : 170.0 ( cm ) 5 ' 7 " ( ft / in ) ( 06/02/2010 ) 
+Admit Wt : 70.20 ( kg ) 154 ( lbs ) ( 06/02/2010 ) 
+Last Daily Wt : 68.4 ( kg ) 150 ( lbs ) ( 
+06/05/10 17:00 ) 
+Previous Daily Wt : 
+No Results Found . 
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day ) 
+Result 06/06/2010 06/07/2010 06/08/2010 06/09/2010 06/10/2010 
+Total Intake Total ( 0600 ) 
+2101 1001 641 1350 50 5143 Output Total ( 0600 ) 
+2775 1975 1275 1150 300 7475 
+Net I & O Total ( 0600 ) - 674 - 974 - 634 200 - 250 - 2332 Daily weight 68.4 N / A LABS ( Most recent results in 24 hour range . ) 
+RESULTS FROM TODAY RESULTS FROM YESTERDAY 06/09/10 06:32 06/08/10 06:02 
+| - ICa - - - | - ICa - - - 139 99 14 | - Ca 8.9 139 100 12 | - Ca 8.9 - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 93 | - Mg - - - - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 98 | - Mg - - - 3.7 33 0.7 | - Phos - - - 3.6 33 0.6 | - Phos - - - RESULTS FROM TODAY RESULTS FROM YESTERDAY 06/09/10 06:32 06/08/10 
+06:02 9.9 | - PT 13.7 10.2 | - PT 13.5 14.06 ] - - - - - - - - - - - - - - - - - - - - - - [ 446 | - INR 1.1 13.98 ] - - - - - - - - - - - - - - - - - - - - - - [ 390 | - INR 1.0 31 | - PTT - - - 32 | - PTT - - - MICRO - AFB , aspergillus , legionella , nocardia , PCP , mycoplasma : pending Assessment : 
+Mr. Isaac is a 37 y.o . 
+male with metastatic epithelioid sarcoma , who presents with worsening dyspnea and leukocytosis , likely secondary to progressive pneumonia vs chemo side effect . 
+Plan : Hypoxia : - High suspicion for chemo toxicity although covering broadly for infections 
+- bronch : RSV , viral cx , CMV , VZV , adeno negative - AFB , aspergillus , legionella , nocardia , PCP : pending - continue empiric imipenem , gancyclovir - Continue daily solumedrol , 140 mg IV - await taper recs per pulmonary - on 20 % by nasal canula - Appreciate pulmonary help Metastatic epithelioid sarcoma : - Was in Milennium clinical trial : Stopped and possible medication toxicity will be reported per Dr. Rodler 
+- Currently on a 10 - day break from his protease inhibitor treatment . 
+Next infusion due 1 - 8/10 - Home oxycodone , oxycontin ( increased from 80 - - > 100 today ) , fentanyl lozenges for chronic pain FENGI : - Soft mechanical diet PPx : SQ Heparin 
+Dispo : 
+- O2 requirment decreased enough that can go to SNF - wife has not visited any facilities yet - has been accepted at Ballard Care , but no bed currently available - checked w / SW for additional options and threshholds for being able to leave the hospital - family meeting today at 1500 . 
+Code : - FULL CODE - Appreciate palliative care input on goals of care , please refer to note from 6/3/10 
+ATTENDING STATEMENT : I saw and evaluated the patient and agree with Dr. Argyle 's note . 
+Mr Isaac is a 37 y/o male with met epitheliod sarcoma , most recently on a clinical trial with a bortezemib analog , admitted with worsening dyspnea , thought to be pneumonia vs . 
+treatment related pneumonitis . 
+He was seen by pulm and bronched ; cx to date have been negative , and he appears to be improving on steroids , more consistent with a drug reaction . 
+His solumedrol was increased yesterday to 2 mg/kg , and his O2 requirement is down to 5 - 7L NC today . 
+He is off vanco , voriconazole and ganciclovir , we will d/c imepenam today . 
+Team will assess transfer options today and discuss with pt and his family this afternoon . 
+He will not be able to receive additional treatment on the study protocol . 
+Will discuss other trial / treatment options as an outpt with Dr Rodler if his respiratory status improves sufficiently . 
+Date of Service : 06/09/10 
+Today 's Date is : 06/09/2010 

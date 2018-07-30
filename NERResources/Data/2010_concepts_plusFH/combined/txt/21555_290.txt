@@ -1,0 +1,62 @@
+Oncology Team Oncology Provider : Rodriguez , MD , Cristina Paguia . 
+Oncology Staging No problem associated with this Staging form Onset date unknown Oncology Staging ( 06/30/2014 ) Lung Cancer Location left upper lobe ( cT ) Primary Tumor T2a ( cN ) Regional Lymph Nodes N2 Stage - Clinical IIIA ( pT ) Primary Tumor T2a ( pN ) Regional Lymph Nodes N2 Stage - Pathological IIIA Stage - Recurrence Date 01/15/13 Stage - Recurrence Status Local Histology Transcribed ( 06/30/2014 ) Histology Type - Lung Squamous Cell Carcinoma Histology Testing Date 12/20/11 . 
+Current Problem List Chronic respiratory failure Coronary artery disease Irradiated blood product Pneumothorax , right Renal carcinoma SOB ( shortness of breath ) Squamous cell carcinoma . 
+Procedure History No qualifying data available . . 
+Smoking History Quit smoking : 2,011 ( 06/30/14 ) Smoking pack years : 60 ( 06/30/14 ) . 
+Family History No qualifying data available . . 
+Treatment Summary 
+Current Treatment Off Pathways : Regiment name : Nivolumab on Clinical trial Start Date : 10/16/2013 Intent of treatment : palliative Previous Treatment 
+Locally Advanced : Paclitaxel / carboplatin & carbo / paclitaxel : Start Date : 1/19/2012 End Date : 2/9/2012 Intent of treatment : curative Dose : 2 induction cycles / Weekly reduced dose with concurrent radation Cycles administered : 2 / 5 Off Pathways : Regiment name : Tarceva Start Date : 5/17/2012 End Date : 7/31/2013 Response to tx : Progressive disease Radiation treatment Treatment : administered Start Date : 3/5/2012 
+End Date : 4/18/2012 Radiation Doctor : Patel , MD , Shilpen Ajit Region treated : OTHER Dose : 6600cGy INTERIM HISTORY Mr. Smith presents to the clinic for evaluation prior to the cycle 17 of nivolumab in the context of a clinical trial . 
+The patient is accompanied by wife . 
+He reports doing well .
+His cough has improved .
+He is not using oxygen and remains physically active .
+The patient states that despite his intermittent fatigue , he spends considerable time outside doing chores . 
+His pulmonary medications were adjusted post recent hospitalization . 
+Patient 's ECOG performance status remains 1 . 
+ROS Complete 14-system review is performed and is otherwise negative . 
+MEDICATIONS 1 .
+albuterol ( Ventolin HFA 90 mcg / inh inhalation aerosol with adapter ) Dose : 2 puff(s ) Inhalation QID 2 .
+albuterol - ipratropium ( Combivent 18 mcg-103 mcg / inh inhalation aerosol with adapter ) Dose : 2 puff(s ) Inhalation Q6 Hours regardless of symptoms 3 .
+bacitracin topical ( bacitracin zinc 500 units / g topical ointment ) Dose : 1 application Topical BID for 7 day(s ) 4 .
+budesonide - formoterol ( Symbicort 160 mcg-4.5 mcg / inh inhalation aerosol ) Dose : 2 puff(s ) Inhalation BID 5 .
+cephalexin 500 mg oral capsule Dose : 500 mg PO Q12 Hours for 7 day(s ) 6 .
+dutasteride - tamsulosin ( Jalyn 0.5 mg-0.4 mg oral capsule ) Dose : 1 cap PO Daily 7 .
+escitalopram 10 mg oral tablet Dose : ( Lexapro ) 1 tab PO Daily 8 .
+ipratropium ( Atrovent HFA 17 mcg / inh inhalation aerosol ) Dose : 2 puff(s ) Inhalation QID 9 .
+omeprazole 20 mg oral delayed release capsule Dose : 20 mg PO Daily 10 .
+traZODone 50 mg oral tablet Dose : 100 mg PO QHS 11 .
+albuterol 2.5 mg/3 mL ( 0.083% ) inhalation solution Dose : 2.5 mg Nebulized Inh Q2 Hours PRN for shortness of breath / wheezing 12 .
+azelastine nasal ( Astelin 137 mcg / inh nasal spray ) Dose : 2 spray(s ) Nostril - Both BID PRN for nasal drip 13 .
+fluticasone nasal ( Flonase 50 mcg / inh nasal spray ) Dose : 2 spray(s ) Nostril - Both BID PRN for nasal drip 14 .
+oxyCODONE 5 mg oral tablet Dose : 1 or 2 tablets PO Q4 Hours PRN for pain 15 .
+temazepam 15 mg oral capsule Dose : 15 mg PO QHS PRN for sleep PHYSICAL EXAMINATION VITAL SIGNS : Temperature : 36.8 Pulse : 87 Blood Pressure : 100 / 60 Respirations : 20 
+Height : 178 cm Weight : 96.3 kg Oxygen Saturation : 92% GENERAL : Very pleasant , middle - aged white male , not in acute distress .
+The patient is A&O x3 and is breathing comfortably on room air . 
+HEENT : Normocephalic head .
+Unicteric sclerae .
+PERRL .
+Oropharynx is clear -- no mucositis or thrush .
+No cervical or supraclavicular lymphadenopathy . 
+CHEST : Showed poor air entry , but otherwise no wheezing bilaterally -- consistent with previous exam . 
+HEART : Regular rate and rhythm .
+Holosystolic murmur best noted at apex . 
+ABDOMEN : Soft , nontender with good bowel sounds . 
+EXTREMITIES : 
+No peripheral edema . 
+NEUROLOGIC : Grossly nonfocal . 
+SKIN : No rashes or lesions .
+Some skin dryness noted . 
+MOOD / AFFECT : Pleasant and interactive .
+Neatly groomed . 
+LABORATORY DATA 07/02/2014 Na 135 Low K 4.2 Cl 101 CO2 28 Glucose Level 110 BUN 11 Creatinine 1.27 High Ca 9.1 LD ( Total ) 138 AST ( GOT ) 19 ALT ( GPT ) 13 Alk Phos ( Total ) 78 Bilirubin ( Total ) 0.4 Bilirubin ( Direct ) 0.1 Protein ( Total ) 6.7 Albumin 3.2 Low TSH 
+Pending WBC 7.41 RBC 4.23 Low Hb 11.1 Low HCT 35 Low PLT 239 Neutrophils 5.23 ASSESSMENT AND PLAN Mr. Smith is a 67-year - old gentleman with a Hx of recurrent squamous cell carcinoma of the lung . 
+Mr. Smith was recently hospitalized with severe COPD and aortic stenosis .
+He also developed pneumothorax . 
+He is well recovered at this point , with good performance status . 
+We will proceed with cycle # 17 of the therapy .
+Patient 's labs reviewed and are stable . 
+He will return to see me in followup as indicated by the clinical trial protocol -- in 2 weeks .
+He is scheduled for imaging in August 5 , 2014 . 
+In the meantime , the patient was encouraged to stay in touch with the clinical care team and let us know if he has any symptoms , questions or concerns . 

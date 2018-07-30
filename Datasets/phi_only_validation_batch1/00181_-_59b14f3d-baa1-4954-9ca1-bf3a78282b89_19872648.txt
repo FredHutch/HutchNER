@@ -1,0 +1,400 @@
+Hospital Day : 5
+
+Chief Concern
+
+29 yo woman with recently diagnosed AML / CMML who is s/p G - CLAC x2 and is transferred to the ICU for respiratory distress progressing to respiratory collapse over the course of the day .
+
+Primary Oncology Attending :
+Paul Hendrie , MD PhD
+
+History of Present Illness and brief Daytime ICU course
+
+Mrs . Dibble is a 29 yo mother of two with a history of gallstones , obesity and knee surgery who has been feeling run down and fatiguted with migratory joint pain and a sore throat over the last month . After evaluation in Alaska revealed a suggestive cbc with a wbc of 18.9 she was transferred to UW for further work-up and evaluation . She was worked up with marrow suggesting aml v . cmml and started on G - CLAC with doses on 5 / 21 and 5 / 22 at 0100 . Over the night of 5 / 21 and morning of 5 / 22 she developed worsening shortness of breath and a new oxygen requirement . CTPA ( suboptimal timing ) revealed no clot and a pattern consistent with fluid or viral infection ( incidental note of 18 . 9cm spleen ) .
+
+On arrival to the ICU she was slightly hypotensive and started on levophed and CPAP with good initial effect . She subsequently began to desaturate around noon to the mid to high 80s . Over the course of about 1 / 2 hour the patient was trialled on bipap and diuresis without effect . She subsequently said that she was nauseated and coughed up about 20 cc of bright red blood with nearly instant desaturation to the 40 % range . She was intubated with continued significant volumes of bright red blood from the ETT and poor o2 response over the nearly 1 / 2 hour to 45 minutes post intubation . She was started on propofol and increased rapidly / levophed was uptitrated . She achieved a saturation of 88 % on volume ventillation with TV 600 , RR 30 , PEEP 20 , FiO2 1.0 but any movement or desynchony led to marked desaturation and the decision was made to paralyze and switch to pressure control ventillation ( FiO2 1.0 , PEEP 20 , PS 26 , i ratio 1 ) .
+
+Review of Systems
+Limited ROS secondary to dyspnea to yes / no .
+No headahce , mild photophobia , some sinus pain / pressure , no dental pain . right ear feels " clogged " . some chest pain with coughing and deep breathing . no belly pain . no diarrhea / constipation . no leg swelling . some dizziness .
+
+Past Medical History
+1 . gallstones
+2 . knee surgery
+3 . obesity
+
+Family History
+Adopted and biological history is unknown .
+
+Social History
+2 kids with up to 1 ppd smoking history .
+
++ cats and dogs at home , no birds , no farm animals .
+
+Allergies
+Tomatoes
+
+Scheduled Medications
+Acyclovir 800 mg tab Dose : 800 mg = 1 tab PO Q12 Hours
+Allopurinol 300 mg tab Dose : 300 mg = 1 tab PO QDay
+Amantadine 100 mg cap Dose : 100 mg = 1 cap PO Q12 Hours
+Aminocaproic acid Dose : 3 g = 12 mL IVPB Q6 Hours ( non std )
+Azithromycin Dose : 500 mg IVPB Q24 Hours
+Filgrastim 300 mcg/mL inj + Filgrastim 480mcg / 1 . 6mL inj Dose : 780 mcg Subcutaneous Q24 Hours
+Fluconazole 200 mg tab Dose : 200 mg = 1 tab PO QDay
+Information Line Dose : COMPLEX Anal / Sed Protocol MISC QDay
+MedroxyPROGESTERone 10 mg tab Dose : 10 mg = 1 tab PO QDay
+Meropenem Dose : 1 g IVPB Q8 Hours
+MethylPREDNISolone Na succ 125mg / 2mL inj Dose : 125 mg = 2 mL IV Q8 Hours ( non std )
+MethylPREDNISolone Na succ 40 mg/mL inj Dose : 40 mg = 1 mL IV Q6 Hours
+Nicotine 14mg / 24hr patch Dose : 14 mg = 1 patch Transdermal QDay
+Omeprazole 20 mg cap Dose : 20 mg = 1 cap PO Q12 Hours
+Oseltamivir 75 mg cap Dose : 75 mg = 1 cap PO Q12 Hours
+PrednisoLONE acetate 1 % ophth susp 10 mL Dose : 2 drop ( s ) Each EYE Q6 Hours
+Vancomycin Dose : 1.75 g IVPB Q12 Hours
+
+Infusions
+Fentanyl 2 , 500 mcg + Sodium Chloride 0.9 % 200 mL Dose : 200 mL IV Infusion
+Norepinephrine 20 mg + Dextrose 5 % in Water 250 mL Dose : 250 mL IV Infusion
+Propofol 1 % 1 , 000 mg + Diluent 100 mL Dose : 100 mL IV Infusion
+Sodium Chloride 0.9 % 1 , 000 mL Dose : 1 , 000 mL IV Infusion
+Vecuronium 50 mg + Dextrose 5 % in Water 100 mL Dose : 100 mL IV Infusion
+
+PRN Medications
+Acetaminophen 325 mg tab Dose : 650 mg = 2 tab PO Q6 Hours PRN
+Albuterol HFA 90mcg / inhal oral 8 g Dose : 10-20 puff ( s ) Inhalation Q4 Hours PRN
+Aluminum-magnesium hydroxide 30 mL susp Dose : 30 mL PO Q4 Hours PRN
+Calcium gluconate Dose : 4.5 mEq = 9.68 mL IVPB Q6 Hours PRN
+Cepacol ( or equivalent ) lozenge Dose : 1 lozenge Mucosal Q2 Hours PRN
+DiphenhydrAMINE 25 mg tab Dose : 25-50 mg PO Q6 Hours PRN
+DiphenhydrAMINE 50 mg/mL inj Dose : 25-50 mg IV Q6 Hours PRN
+Fentanyl 100mcg / 2mL inj ( vial ) Dose : ACT / INTERVEN 25-50 mcg IV Q5 Minutes PRN
+Fentanyl 100mcg / 2mL inj ( vial ) Dose : MAINTENANCE 25-100 mcg IV Q1 Hour PRN
+Guaifenesin 200mg / 10mL syrup Dose : 200 mg = 10 mL PO Q4 Hours PRN
+Lorazepam 0 . 5mg tab Dose : 0.5-1 mg PO Q6 Hours PRN
+Lorazepam 2 mg/mL inj Dose : 0.5-1 mg IV Push Q6 Hours PRN
+Magnesium sulfate Dose : 16 mEq = 3.94 mL IVPB Q6 Hours PRN
+Magnesium sulfate Dose : 8 mEq = 1.97 mL IVPB Q6 Hours PRN
+Metoclopramide 10mg / 2mL inj Dose : 10 mg = 2 mL IV Q6 Hours PRN
+Ondansetron 4mg / 2mL inj Dose : 8 mg = 4 mL IV Q8 Hours PRN
+Ondansetron 4mg / 2mL inj Dose : 4-8 mg IV Q8 Hours PRN
+Ondansetron 8 mg tab Dose : 8 mg = 1 tab PO Q8 Hours PRN
+Oxycodone 5 mg tab Dose : 5-10 mg PO Q4 Hours PRN
+Potassium chloride / Diluent Dose : 40 mEq = 100 mL IVPB Q6 Hours PRN
+Potassium chloride / Diluent Dose : 20 mEq = 50 mL IVPB Q6 Hours PRN
+Potassium phosphate Dose : 40 mEq = 9.09 mL IVPB Q6 Hours PRN
+Prochlorperazine 10mg / 2mL inj Dose : 5-10 mg IV Q6 Hours PRN
+Prochlorperazine 5 mg tab Dose : 5-10 mg PO Q6 Hours PRN
+Sodium phosphate Dose : 40 mEq = 10 mL IVPB Q6 Hours PRN
+
+Vitals ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+05/22/11 17:20
+Temp C :
+38.4
+
+- 38.5
+05/22/11 17:20
+HR :
+107
+
+- 140
+05/22/11 17:20
+RR :
+30
+
+- 55
+05/22/11 16:00
+SBP Non - Inv :
+79
+
+- 150
+05/22/11 16:00
+DBP Non - Inv :
+35
+
+- 107
+05/22/11 16:00
+MAP Non - Inv :
+42
+33
+- 115
+05/22/11 17:20
+SBP - Arterial :
+93
+82
+- 98
+05/22/11 17:20
+DBP - Arterial :
+52
+33
+- 52
+05/22/11 17:20
+MAP - Arterial :
+66
+44
+- 66
+
+Neurophysiology Data ( Most recent , lowest and highest for 24 hour range )
+Date
+Result
+Last
+MIN
+- MAX
+05/22/11 16:00
+GCS Total
+15
+15
+- 15
+
+I & O Data
+Height : 173.0 ( cm ) 5 ' 8 " ( ft / in ) ( 05/18/2011 )
+Admit Wt : 167.700 ( kg ) 369 ( lbs ) ( 05/18/2011 )
+Last Daily Wt : 172 ( kg ) 378 ( lbs ) ( 05/20/11 10:00 )
+Previous Daily Wt : 169.1 ( kg ) 372 ( lbs ) ( 05/19/11 10:00 )
+
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day )
+Result
+05/19/2011
+05/20/2011
+05/21/2011
+05/22/2011
+05/23/2011
+Total
+
+Intake Total ( 0600 )
+2332
+1340
+3083
+6213
+2385
+15353
+
+Output Total ( 0600 )
+700
+700
+900
+2100
+300
+4700
+
+Net I & O Total ( 0600 )
+1632
+640
+2183
+4113
+2085
+10653
+
+Daily weight
+
+
+172
+
+
+N / A
+
+
+Respiratory Data ( Most recent and 24 hour range . )
+Date
+05/22/11 17:57
+Ventilator Mode :
+PC
+O2 Sat :
+100
+O2 Percent Administered :
+100
+O2 Flow Rate :
+0
+O2 Delivery Device :
+Ventilator
+
+Physical Exam
+General : obese woman in moderate progressing to severe respiratory distress pre - intubation . HEENT : eomi , perrla , op / nares clear . Chest : diminished throughout but crackles and ronchi noted . Cards : tachycardic with regular rhythm and no mrg . Abdomen : obese but soft and NT could not appreciate the spleen or liver . Extr : no cce ; however , noted to be cool . Neuro : a / o x3 moves all 4 to command .
+
+Laboratory Studies ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+05/22/11 16:00
+05/21/11 20:00
+
+
+| - ICa - - -
+| - ICa - - -
+130
+98
+16
+| - Ca 7.1
+
+134
+102
+9
+| - Ca 7.6
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 140
+| - Mg 2.0
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 132
+| - Mg 2.1
+5.7
+22
+1.06
+| - Phos 5.9
+
+3.9
+26
+0.69
+| - Phos 3.7
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+05/22/11 17:45
+05/21/11 20:00
+
+
+8.0
+| - PT pnd
+8.8
+| - PT 17.2
+0.36 ] - - - - - - - - - - - - - - - - - - - - - - [ pnd
+| - INR pnd
+2.72 ] - - - - - - - - - - - - - - - - - - - - - - [ 10
+| - INR 1.5
+
+23
+| - PTT pnd
+26
+| - PTT 41
+
+Other Laboratory Studies ( Most recent and 24 hour range . )
+Date
+05/22/11 16:00
+AST ( GOT ) :
+cmt
+ALT ( GPT ) :
+cmt
+Alk Phos ( Total ) :
+cmt
+Bilirubin ( Total ) :
+cmt
+Albumin :
+cmt
+CK :
+23
+CK-MB Mass :
+1
+Troponin - I :
+0.05
+
+Last 6 Hematocrits in Preceding 24 Hours
+( NOTE : Comments / notes for Labs are viewable on Flowsheet )
+05/22/11
+05/22/11
+05/22/11
+05/22/11
+05/21/11
+05/21/11
+
+17:45
+16:00
+14:10
+00:30
+18:00
+00:30
+
+23
+23
+18
+23
+26
+24
+
+ABG Results
+( NOTE : Comments / notes for Labs are viewable on Flowsheet )
+7.37 / 40 / 72 / 23 / 94 / 100 / Information not provided
+
+Other results reviewed :
+Normal MUGA , Normal MRI .
+Chest CT : airway centric ground glass .
+
+Assessment / Plan
+
+29 yo woman with AML / CMML admitted to the ICU with respiratory failure .
+
+Global - Mrs . Dibble had prolonged hypoxia in the setting of her resuscitation and is on maximal ventillatory support as well as pressors . She is gravely critically ill .
+
+Pulmonary :
+1 . Respiratory failure : Our original thought on arrival to the ICU was that she had either systemic capillary leak from her clofaribine or an incipient viral > bacterial pneuomonia . It is possible that these entities remain and that the combination of thrombocytopenia colluded with increased pulmonary pressures to precipitate a large and dramatic bleed . It is also possible that the original diagnoses were incorrect and that she had evolving DAH over the course of the evening and morning . The last possiblity is ( given her pleuritic pain and acuity of her decompensation ) that she had a PE . I think that this is relatively unlikely , she is too sick to travel to the CT scanner , and given her bleeding diathesis I would not empirically anticoagulate her . To whit we will instead focus on the bleeding components - - > aggressive platelet transfusion ( 3 packs back to back up - front ) followed by q4h platelets with a goal of 100K . Amicar 5 mg IV loading dose and then 3 mg IV q6h .
+
+2 . Mechanical Ventillation : Nearing refractory hypoxemia with prolonged hypoxic resuscitation . Continue paralysis and pressure control ventillation overnight . Lung static pressures at set by us are quite high and certainly not within the realm of LPV , if oxygenation and ventillation allow these should be adjusted to prevent adding additional damage to the lung .
+
+3 . Pneumonia : Remains possible and continuing meropenem , vanco , azithromycin , tamiflu , and amantidine . Flu swab is pending .
+
+ID :
+Possible pneumonia : treating broadly and empirically for CAP
+Hydradenitis Suppuritiva : treating for presumptive e . coli and / or undiscovered MRSA .
+
+Cards :
+1 . Hypotension : Mrs . Dibble has hypotension managed on levophed and a low MvO2 . I would check an echo in the morning for two reasons ( 1 ) to document dramatically high PA pressures which may reinvigorate the discussion about a PE ( 2 ) decreased global function and ( 3 ) I wonder about a shunt with her initial refractory saturations AND suddent onset . Continue to follow MvO2 q8h , if hypotension persists and MvO2 remains low then may consider dobutamine however would try to avoid if possible in the short term given the possibility of global ischemia during the resuscitation and a desire to spare b - stim of the heart during recovery .
+
+2 . EKG changes : ekg showed deepening q-waves in inferior leads , will follow out cardiac enzymes : expect that these will initially rise and do not suspect that this represents an unstable plaque but would like to follow for resolution .
+
+Heme :
+1 . Pan - cytopenia : transfuse to goal HCT of 30 given decreased oxygenation , platelets to goal of 100 k , ffp for INR / pttr > 1.5 .
+
+2 . Transfusion reaction : ongoing discussions with blood bank for the proper approach in this critically ill patient . At the current time will pretreat any blood products .
+
+Metabolic :
+1 . Electrolyte derangements : we will aggressively monitor and aim for Ca > 8 , Mg > 2 , K > 4 .
+
+FEN / GI
+NPO .
+
+Neuro :
+1 . Hypoxemic resuscitation : patient did move and interact until sedated . Will have to wait for clinical status to improve to remove paralysis / sedation and assess any lasting damage . Given coagulopathy would not consider cooling .
+
+2 . Paralysis : vecuronium per ICU protocols .
+
+RECS :
+Echocardiogram in the AM ( PA pressures , global function , SHUNT ) , amicar , transfusions , sedation , paralysis , pressure control ventillation , aggressive electrolyte repletion , abx , antivirals ,
+
+
+
+
+
+Attending Statement :
+
+[ X ] I evaluated this patient today with Dr. Leary and I agree with his / her note for today .
+I personally examined the patient today and reviewed the patient 's clinical course , laboratory data , and :
+
+[ X ] radiological studies
+[ X ] ventilator parameters
+[ X ] hemodynamic data
+
+PERTINENT HISTORY , EXAM AND DATA : 29 y/o with malaise over the last month and some URI symptoms , now diagnosed with AML / CMML . Day 2 of G - CLAC induction therapy . She has developed bilateral pulmonary infiltrates that rapidly progressed to severe hypoxemic respiratory failure this afternoon requiring intubation and multiple measures for refractory hypoxemia that we implemented at the bedside . She has had BRB per ETT and hemoptysis prior to the event and has been febrile .
+
+DIAGNOSES , ASSESSMENT , AND PLAN :
+The following conditions contribute to complex , high - level decision-making and to the high probability of acute , clinically significant deterioration . The statements represent my decisions unless otherwise indicated .
+
+1 . Neuro - Prolonged hypoxemia , condition is gaurded . Will need to reassess .
+
+2 . Pulmonary - Severe acute hypoxemic respiratory failure . Most likely infection or drug-induced cytotoxic lung injury with ongoing thrombocytopenia and coagulopathy . Treating for refractory hypoxemia with PCV with 1 : 1 ratio . Would like to eventually turn down the pressures to lower setting , but need to oxygenate right now . Will consider iNO as another possible salvage therapy . Given the gravity of her situation and the potenial that chemotherapy toxicity is acause , will give solumedrol int he 2 mg/kg range for today .
+
+3 . CV - Hypotension most c/w SIRS . Hs low mixed venous O2 that could be due to anemia or low CO , possibly from increased PA pressures . Will obtain echo and transfuse as needed . If persistent could add dobutamine .
+
+4 . Heme - AML . Pancytopenia . Coagulopathy with nml fibrinogen , but may be early DIC . Will support with plts and FFP and amicar . D / W blood bank factor VII , but felt other approaches were preferable .
+
+5 . ID - Possible atypical or viral infection . Treated broadly for now with vanc / meropenum / azithro / Tamiflu / amantadine .
+
+I spent a total of 75 minutes personally providing critical care and formulating a plan for the day , independent of any time spent teaching or performing any separately billable procedures .
+
+[ X ]
+This time includes meeting with the patient�s Mother and Sister for data gathering , discussion of treatment options , and care planning as the patient was incapable of participating in medical decision making .
+
+Date of Service : 05/22/2011

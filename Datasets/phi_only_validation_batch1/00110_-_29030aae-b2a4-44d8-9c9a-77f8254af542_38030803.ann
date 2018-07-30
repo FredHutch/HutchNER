@@ -1,0 +1,209 @@
+T1	Hospital_Name 4 32	SEATTLE CANCER CARE ALLIANCE
+T2	Date 110 127	February 4 , 2014
+T3	Date 130 147	October 21 , 2014
+T4	Patient_or_Family_Name 173 185	Cameron Ryan
+T5	Patient_or_Family_Name 813 817	Ryan
+T6	Patient_or_Family_Name 1198 1202	Ryan
+T7	Patient_or_Family_Name 2329 2333	Ryan
+T8	Patient_or_Family_Name 3273 3277	Ryan
+T9	Patient_or_Family_Name 3611 3615	Ryan
+T10	Patient_or_Family_Name 3513 3517	Ryan
+T11	Patient_or_Family_Name 3746 3750	Ryan
+T12	Patient_or_Family_Name 3908 3912	Ryan
+T13	Patient_or_Family_Name 4391 4395	Ryan
+T14	Patient_or_Family_Name 4811 4815	Ryan
+T15	Patient_or_Family_Name 5393 5397	Ryan
+T16	Patient_or_Family_Name 6051 6055	Ryan
+T17	Patient_or_Family_Name 6259 6263	Ryan
+T18	Patient_or_Family_Name 6711 6715	Ryan
+T19	Patient_or_Family_Name 6973 6977	Ryan
+T20	Patient_or_Family_Name 7694 7698	Ryan
+T21	Patient_or_Family_Name 8828 8832	Ryan
+T22	Patient_or_Family_Name 9860 9864	Ryan
+T23	Patient_or_Family_Name 10171 10175	Ryan
+T24	Patient_or_Family_Name 10417 10421	Ryan
+T25	Patient_or_Family_Name 11041 11045	Ryan
+T26	Patient_or_Family_Name 11288 11292	Ryan
+T27	Patient_or_Family_Name 11457 11461	Ryan
+T28	Patient_or_Family_Name 12146 12150	Ryan
+T29	Patient_or_Family_Name 12572 12576	Ryan
+T30	Patient_or_Family_Name 13010 13014	Ryan
+T31	Patient_or_Family_Name 13826 13830	Ryan
+T32	Patient_or_Family_Name 13971 13975	Ryan
+T33	Patient_or_Family_Name 14336 14340	Ryan
+T34	Patient_or_Family_Name 14547 14551	Ryan
+T35	Patient_or_Family_Name 14925 14929	Ryan
+T36	Patient_or_Family_Name 15085 15089	Ryan
+T37	Patient_or_Family_Name 15307 15311	Ryan
+T38	Patient_or_Family_Name 15505 15509	Ryan
+T39	Patient_or_Family_Name 15844 15848	Ryan
+T40	Patient_or_Family_Name 16126 16130	Ryan
+T41	Patient_or_Family_Name 16522 16526	Ryan
+T42	Patient_or_Family_Name 16698 16702	Ryan
+T43	Patient_or_Family_Name 19519 19523	Ryan
+T44	Patient_or_Family_Name 19661 19665	Ryan
+T45	Patient_or_Family_Name 19816 19820	Ryan
+T46	Patient_or_Family_Name 20043 20047	Ryan
+T47	Patient_or_Family_Name 20327 20331	RYAN
+T48	Patient_or_Family_Name 20467 20471	Ryan
+T49	Patient_or_Family_Name 21163 21167	Ryan
+T50	Patient_or_Family_Name 21608 21612	Ryan
+T51	Patient_or_Family_Name 22038 22042	Ryan
+T52	Patient_or_Family_Name 22256 22260	Ryan
+T53	Patient_or_Family_Name 22518 22522	Ryan
+T54	Patient_or_Family_Name 23146 23150	Ryan
+T55	Patient_or_Family_Name 24019 24023	Ryan
+T56	Patient_or_Family_Name 24568 24572	Ryan
+T57	Patient_or_Family_Name 25368 25372	Ryan
+T58	Patient_or_Family_Name 25616 25620	Ryan
+T59	Patient_or_Family_Name 25979 25983	Ryan
+T60	Patient_or_Family_Name 26120 26124	Ryan
+T61	Patient_or_Family_Name 26272 26276	Ryan
+T62	Patient_or_Family_Name 26895 26899	Ryan
+T63	Patient_or_Family_Name 27365 27369	Ryan
+T64	Patient_or_Family_Name 28006 28010	Ryan
+T65	Patient_or_Family_Name 28125 28129	Ryan
+T66	Patient_or_Family_Name 28382 28386	Ryan
+T67	Age 191 193	44
+T68	Date 451 463	October 2013
+T70	Provider_Name 638 650	Maureen Carr
+T72	Date 831 843	October 2013
+T73	Date 1455 1472	November 4 , 2013
+T74	Date 2090 2106	January 7 , 2014
+T75	Date 2174 2191	January 24 , 2014
+T76	Date 2305 2322	January 29 , 2014
+T85	Hospital_Name 22635 22639	SCCA
+T86	Hospital_Name 22627 22631	UWMC
+T91	Hospital_Name 28601 28629	Seattle Cancer Care Alliance
+T96	Date 1727 1740	November 2014
+T101	Date 1922 1940	December 18 , 2013
+T104	Date 2393 2410	February 4 , 2014
+T105	Date 2715 2733	February 27 , 2014
+T106	Account_Number 2813 2817	2497
+T111	Date 2903 2932	February 21 25 , 2014
+T116	Date 3040 3051	February 22
+T117	Date 3309 3324	March 13 , 2014
+T127	Date 3417 3432	March 21 , 2014
+T128	Date 3990 4003	May 15 , 2014
+T159	Date 4275 4288	May 15 , 2014
+T160	Date 4467 4480	May 27 , 2014
+T161	Date 4371 4384	May 17 , 2014
+T162	Date 4549 4562	May 25 , 2014
+T163	Date 4619 4633	July 21 , 2014
+T164	Date 4756 4769	July 6 , 2014
+T165	Date 4893 4907	June 26 , 2014
+T166	Date 5122 5135	July 7 , 2014
+T167	Date 5180 5194	July 31 , 2014
+T168	Date 5216 5233	October 16 , 2014
+T169	Date 5449 5463	July 10 , 2014
+T171	Date 5107 5113	July 2
+T177	Date 5626 5640	July 18 , 2014
+T190	Date 28420 28430	10/22/2014
+T191	Date 21079 21096	October 21 , 2014
+T196	Date 15242 15250	May 2014
+T197	Date 6309 6321	May 1 , 2014
+T201	Date 6169 6183	July 29 , 2014
+T202	Date 4741 4747	July 2
+T211	Date 8277 8293	August 21 , 2014
+T212	Date 6607 6619	May 2 , 2014
+T222	Date 6884 6896	May 4 , 2014
+T227	Date 7254 7267	May 19 , 2014
+T228	Date 6923 6936	May 10 , 2014
+T236	Date 7026 7039	May 14 , 2014
+T240	Date 7548 7561	May 15 , 2014
+T268	Date 7748 7761	July 7 , 2014
+T269	Date 7649 7663	June 22 , 2014
+T270	Ward_Name 2351 2389	Allogeneic Transplant Service Red Team
+T271	Date 3060 3069	23 , 2014
+T285	Date 7626 7641	May 23 , 2014
+T69	Provider_Name 597 602	Jorge
+T286	Provider_Name 603 609	Chavas
+T71	Provider_Name 718 724	Brenda
+T287	Provider_Name 725 734	Sandmaier
+T95	Provider_Name 1714 1717	Eli
+T292	Provider_Name 1718 1723	Estey
+T150	Provider_Name 4152 4155	Eli
+T294	Provider_Name 4156 4161	Estey
+T298	Date 28512 28529	October 27 , 2014
+T299	Date 21574 21590	October 2 , 2014
+T300	Date 14668 14676	May 2014
+T301	Date 20722 20728	July 2
+T302	Date 14376 14388	May 3 , 2014
+T303	Date 27983 27999	August 21 , 2014
+T304	Date 20737 20750	July 6 , 2014
+T305	Date 16038 16050	May 4 , 2014
+T306	Date 12214 12229	March 11 , 2014
+T307	Date 11146 11160	July 29 , 2014
+T308	Date 8472 8488	August 28 , 2014
+T309	Date 10130 10145	August 4 , 2014
+T310	Date 8931 8947	August 25 , 2014
+T311	Date 9082 9098	August 25 , 2014
+T312	Date 8559 8575	August 26 , 2014
+T313	Date 9266 9282	August 28 , 2014
+T314	Date 10296 10310	June 19 , 2014
+T315	Date 10515 10528	July 1 , 2014
+T90	Date 9339 9355	August 25 , 2014
+T316	Date 10561 10575	July 17 , 2014
+T317	Date 10866 10872	July 7
+T318	Date 10881 10897	August 21 , 2014
+T319	Date 11579 11585	May 21
+T320	Date 11596 11609	May 29 , 2014
+T321	Date 12196 12203	March 8
+T322	Date 12658 12665	March 8
+T323	Date 12674 12689	March 11 , 2014
+T324	Date 12967 12978	August 2014
+T325	Date 13058 13072	July 14 , 2014
+T326	Date 13358 13372	July 23 , 2014
+T327	Date 13324 13338	July 20 , 2014
+T328	Date 13379 13393	July 27 , 2014
+T329	Date 13601 13616	August 5 , 2014
+T330	Date 14021 14033	May 1 , 2014
+T331	Ward_Name 14715 14724	UWMC 8 NE
+T332	Provider_Name 14824 14837	Mary Schubert
+T333	Date 14841 14855	June 18 , 2014
+T334	Date 15666 15676	March 2014
+T335	Date 17136 17149	December 2013
+T336	Date 17275 17287	January 2014
+T337	Date 17382 17395	February 2014
+T338	Date 17609 17613	1989
+T339	Date 17616 17620	2002
+T340	Date 17623 17627	2005
+T341	Date 17630 17634	2008
+T342	Date 17691 17695	2008
+T343	Date 17734 17738	2014
+T344	Date 19551 19568	October 21 , 2014
+T345	Date 19687 19704	October 21 , 2014
+T346	Date 19849 19866	October 21 , 2014
+T347	Date 20390 20400	10/22/2014
+T348	Date 20513 20529	October 9 , 2014
+T349	Date 20860 20877	October 16 , 2014
+T350	Date 21317 21326	August 25
+T351	Date 21335 21353	September 6 , 2014
+T352	Date 21789 21800	September 3
+T353	Date 21984 22000	October 2 , 2014
+T354	Date 21809 21827	September 9 , 2014
+T355	Date 21852 21864	September 10
+T356	Date 21873 21892	September 21 , 2014
+T357	Date 22092 22109	October 22 , 2014
+T358	Provider_Name 22202 22214	Mary Flowers
+T359	Date 22885 22902	October 21 , 2014
+T360	Date 22958 22972	September 2014
+T361	Date 23093 23101	May 2014
+T362	Date 23437 23446	July 2014
+T363	Date 23493 23504	August 2014
+T364	Date 23574 23590	August 29 , 2014
+T365	Date 23601 23618	October 15 , 2014
+T366	Date 23767 23784	January 29 , 2014
+T367	Date 23967 23975	May 2014
+T368	Date 24224 24241	October 21 , 2014
+T369	Account_Number 24306 24315	CMX - 001
+T370	Account_Number 24349 24353	2718
+T371	Date 25071 25087	October 5 , 2014
+T372	Date 25569 25586	October 23 , 2014
+T373	Date 25751 25761	October 14
+T374	Date 25766 25783	October 21 , 2014
+T375	Date 27908 27925	October 21 , 2014
+T376	Date 28155 28170	August 7 , 2014
+T377	Hospital_Name 28181 28185	SCCA
+T379	Date 28649 28666	October 27 , 2014
+T380	Provider_Name 28566 28588	Laura Connelly - Smith

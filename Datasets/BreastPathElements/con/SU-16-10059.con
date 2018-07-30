@@ -1,0 +1,6 @@
+c="excision" 2:132 2:132||t="pathspecimentype"
+c="breast" 2:128 2:128||t="pathsite"
+c="inflammation" 2:146 2:146||t="benignfinding"
+c="fibrosis" 4:5 4:5||t="benignfinding"
+c="excision" 8:19 8:19||t="pathspecimentype"
+c="breast" 8:16 8:16||t="pathsite"

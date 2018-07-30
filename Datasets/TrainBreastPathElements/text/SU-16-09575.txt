@@ -1,0 +1,40 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    KELLEY , COLEEN MARY MRN :        U3551646      ( UWMC ) DOB :        Aug 14 1959 SEX :        F . 
+CASE :    SU-16 - 09575    COLLECTED :   Apr 13 2016   RECEIVED : Apr 13 2016 * * * * 
+THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : FISH / PCR Results _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A )     Liver mass , biopsy : * High - grade adenocarcinoma , consistent with a metastasis from the patient 's documented breast primary . * 
+Estrogen and Progesterone receptor negative ( Allred scores 0 and 0 of 8) * Androgen receptor positive * Fluorescence in situ hybridization for Her2/neu receptor overexpression has been ordered and will be reported in an Addendum . 
+COMMENT : The current biopsy was compared to the patient 's prior breast biopsy ( SU-16 - 7886 ) and is morphologically and immunophenotypically consistent . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : History of newly diagnosed breast cancer , liver lesion concerning for malignancy . 
+The specimen was collected on 04/13/16 at 10:03 a.m. resulting in approximately 10 hours fixation in formalin IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : A1 Population : Carcinoma cells Interpreted by :   Joshua Lieberman , MD , PhD and Rochelle L Garcia , MD Block     Label     Marker For     Results     Special Pattern or Comments A1     AR     Androgen Receptor [ F39.4.1 ]     99 % positive cells     strong A1     ER     Estrogen Receptor [ SP1 ]     Negative     Allred 0 of 8 ; appropriately stains hepatocytes A1     PR88     Progesterone Receptor [ PR88 ]     
+Negative     Allred 0 of 8 Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IHC INTERPRETATION : The immunohistochemical stains demonstrate no expression of Estrogen Receptor or Progesterone Receptor ( Allred 0 of 8) , but strong diffuse expression of Androgen Receptor . 
+GROSS DESCRIPTION : A )     Received in formalin labeled " Kelley , Coleen Mary " designated per requisition as " liver mass " are two soft tissue cores measuring 1.0 and 1.2 cm in length and 0.1 cm in diameter ; wrapped and submitted entirely in A1 .   
+( HQ / clk ) Joshua   Lieberman MD , PhD AP / CP Resident 04/15/2016 Rochelle L Garcia MD Pathologist Electronically signed 
+04/15/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 
+ADDENDUM REASON : To report results of HER2 gene amplification by fluorescence in - situ hybridization . 
+MICROSCOPIC DESCRIPTION : A recut slide confirms residual invasive carcinoma in the block . 
+DNA ANALYSIS : Source ( Original Label ) : A1 Population : Carcinoma cells Block     Label     Marker For     Results     Special Pattern or Comments A1     FISH H2N/17     ICC FISH Her2Neu PROBE     2.4 signals / cell A1     FISH H2N/17     ICC FISH Chromosome 17 PROBE     2.2 signals / cell Ratio : 1.1         Interpretation : NEGATIVE for gene amplification . 
+Unstained sections are prepared and regions of invasive carcinoma are marked by comparison with H&E - stained sections from the same block .   
+Fluorescence in situ hybridization for the Her-2/neu gene is then carried out using the FDA - approved Vysis Path Vysion HER-2 DNA probe kit .   
+The prepared slides are then viewed under a fluorescent microscope with appropriate filters for the chromosome 17 probe ( green ) , the Her-2/neu probe ( orange ) and DNA ( blue ) to localize nuclei .   
+Signals are counted from up to 60 cells and the ratio of Her-2/neu to chromosome 17 signals is computed .   
+Control slides from non - amplified and low - level amplified tumor cells are prepared simultaneously to ensure reproducibility between assays .   
+Results for this morphometric , multiplex assay are listed in the table above . 
+Note : 
+According to the 2013 ASCO / CAP Guideline Recommendations for HER2 testing in breast cancer ( J Clin Oncol 2013 ; 31 : 3997 - 4013 ) , ratios for HER2/CEP17 of less than 2.0 are interpreted as negative , ratios greater than or equal to 2.0 are interpreted as positive , and ratios less than 2.0 with an average HER2 signals / cell greater than or equal to 4.0 and less than 6.0 are interpreted as equivocal for gene amplification . 
+Alternatively , cancers having single - probe average greater than or equal to 6.0 HER2 signals / cell are interpreted positive and less than 4.0 HER2 signals / cell are interpreted as negative . 
+Suzanne   Dintzis MD , PhD Pathologist Electronically signed 
+04/18/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

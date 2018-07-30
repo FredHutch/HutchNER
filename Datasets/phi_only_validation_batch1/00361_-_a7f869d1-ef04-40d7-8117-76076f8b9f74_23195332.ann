@@ -1,0 +1,45 @@
+T1	Date 88 90	62
+T6	Date 381 393	October 2011
+T11	Address_and_Components 697 705	Puyallup
+T15	Date 964 971	October
+T30	Hospital_Name 1253 1285	MultiCare Regional Cancer Center
+T31	Address_and_Components 1288 1296	Puyallup
+T32	Address_and_Components 1300 1323	00 15 th Ave SE Suite B
+T33	Address_and_Components 1326 1343	Puyallup WA 98372
+T35	Hospital_Name 1367 1371	SCCA
+T50	Date 1647 1651	1972
+T51	Date 1676 1680	1983
+T55	Age 1792 1794	37
+T60	Age 1922 1924	58
+T61	Age 1991 1993	60
+T62	Age 2028 2030	61
+T63	Age 2075 2077	42
+T64	Address_and_Components 2101 2112	Woodinville
+T65	Address_and_Components 2044 2050	Tacoma
+T53	Age 1745 1747	73
+T66	Address_and_Components 2264 2270	Tacoma
+T67	Profession 2288 2314	operates a small gift shop
+T68	Date 2476 2484	01/12/12
+T69	Date 2527 2535	01/12/12
+T70	Date 2568 2576	01/12/12
+T71	Date 2609 2617	01/12/12
+T72	Date 2664 2672	01/12/12
+T73	Date 2773 2783	01/12/2012
+T74	Date 2823 2833	01/12/2012
+T75	Date 3009 3017	01/12/12
+T76	Date 3680 3688	01/12/12
+T77	Age 3990 3992	62
+T84	Hospital_Name 4161 4165	SCCA
+T102	Date 4777 4786	1/12/2012
+T103	Phone_Number 4812 4828	( 253 ) 759-3251
+T104	Provider_Name 5010 5021	Dr. Chen 's
+T105	Date 5051 5061	01/12/2012
+T106	Date 5085 5095	01/13/2012
+T107	Hospital_Name 259 263	SCCA
+T109	Account_Number 4175 4179	2335
+T10	Provider_Name 680 693	Trevor Dennie
+T29	Provider_Name 1232 1245	Trevor Dennie
+T34	Provider_Name 1348 1359	Elihu Estey
+T36	Address_and_Components 1961 1963	OK
+T112	Address_and_Components 2005 2007	TX
+T115	Account_Number 273 277	2335

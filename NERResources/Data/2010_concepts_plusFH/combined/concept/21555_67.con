@@ -1,0 +1,6 @@
+c="biopsy" 1:12 1:12||t="test"
+c="squamous cell carcinoma" 3:24 3:26||t="problem"
+c="left upper lobe mass" 3:11 3:14||t="problem"
+c="Ten alcohol-fixed direct smears" 5:2 5:7||t="test"
+c="malignant cells" 7:3 7:4||t="problem"
+c="non-small carcinoma with features of squamous differentiation" 11:5 11:13||t="problem"

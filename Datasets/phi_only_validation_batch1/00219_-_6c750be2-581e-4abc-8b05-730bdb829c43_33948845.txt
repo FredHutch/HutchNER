@@ -1,0 +1,276 @@
+
+Oncology Team
+Oncology Provider : Martins , MD , Renato
+Oncology Team Details : APP Yelena Brukhis , RN Karen Baker
+.
+Oncology Staging
+
+No problem associated with this Staging form
+
+Onset date unknown
+Oncology Staging ( 10/08/2013 )
+
+Lung Cancer Location
+left upper lobe
+
+( cT ) Primary Tumor
+T2
+
+( cN ) Regional Lymph Nodes
+N3
+
+( cM ) Distant Metastasis
+M1
+
+Stage - Clinical
+IV
+Histology Transcribed ( 10/08/2013 )
+
+Histology Type - Lung
+Adenocarcinoma
+
+Histology Testing Date
+06/25/12
+
+TTF - 1
+Positive
+
+CK7
+Positive
+
+CK5 / 6
+Negative
+
+p63
+Negative
+Oncoplex Transcribed ( 10/08/2013 )
+
+BRAF Mutation - OncoPlex
+Negative
+
+DDR2 - OncoPlex
+Negative
+
+HER2 ( ERBB - 2 ) Mutation - OncoPlex
+Negative
+
+KRAS Mutation - OncoPlex
+Negative
+
+MET - OncoPlex
+Negative
+
+PIK3 - OncoPlex
+Negative
+
+RET Mutation - OncoPlex
+Negative
+
+ROS1 Mutation - OncoPlex
+Negative
+
+Other test type - OncoPlex
+Loss of CDKN2A ( p16 )
+PCR and FISH Transcribed ( 10/08/2013 )
+
+FISH / PCR Performing Lab
+UWMC
+
+EGFR
+Negative
+
+ALK
+EML4 - ALK negative
+
+.
+Current Problem List
+HTN ( hypertension )
+Non-small cell carcinoma of lung
+Ocular migraine
+.
+Procedure History
+Tonsil operation
+.
+Smoking History
+Never smoked : Pt confirms ( 10/08/13 )
+.
+Family History
+
+No qualifying data available
+.
+Treatment Summary
+Current Treatment
+
+Stage IV NSCLC non - squamous - 1 st line PS 0-2 + :
+Maitenance Therapy for stable or responding disease :
+start Pemetrexed
+Stage IV NSCLC non - squamous - 2 nd line PS 0-2 + :
+Erlotinib 2 nd Line PS 0-2 :
+Start Date : 4/9/2013
+Intent of treatment : palliative
+Dose : Erlotinib 100 mg/day
+Dose reduction : 33 %
+
+
+Previous Treatment
+Stage IV NSCLC non - squamous - 1 st line PS 0-2 + :
+Carbo / Pemetrexed - plan for 4 cylces if SD / PR :
+Start Date : 7/17/2012 End Date : 2/19/2013
+Intent of treatment : palliative
+Dose : CarboPEM followed by PEM maintenance
+
+Radiation treatment
+Treatment : administered
+
+Start Date : 7/12/2012
+End Date : 7/12/2012
+Modality : Gamma Knife
+Region treated : brain
+Treatment : administered
+
+Start Date : 7/10/2012
+End Date : 7/14/2012
+Modality : External beam radiotherapy
+Region treated : OTHER
+
+CURRENT THERAPY
+The patient d/c erlotinib and is starting weekly Taxol today .
+
+HISTORY OF THIS VISIT
+Mr. Gallegos is a 46 yo male with progressive , metastatic to the brain , lung cancer .
+He presents to the clinic today for initiation of the Taxol therapy . He is accompanied by his mother .
+
+He continues to struggle with the cough and fevers of unknown origin . He recently completed another course of AB and is using opiates for cough Sx management .
+
+Otherwise , he is doing well , and has no new localized bone pain , no new abdominal pain . He has no unintentional weight loss .
+
+MEDICATIONS
+1 . betamethasone topical ( betamethasone valerate 0.1 % topical lotion ) Dose : 1 application Topical BID
+2 . carisoprodol 350 mg oral tablet Dose : 350 mg PO TID
+3 . cephalexin ( Keflex 500 mg oral capsule ) Dose : 500 mg PO QID for 10 day ( s )
+4 . clindamycin topical ( Cleocin T 1 % topical gel ) Dose : 1 application Topical BID
+5 . erlotinib ( Tarceva 100 mg oral tablet ) Dose : 100 mg PO Daily
+6 . fluconazole ( Diflucan 100 mg oral tablet ) Dose : 100 mg PO Daily for 14 days as needed .
+7 . folic acid 1 mg oral tablet Dose : 1 mg PO Daily
+8 . levoFLOXacin 750 mg oral tablet Dose : 750 mg PO Q24 Hours for 3 day ( s )
+9 . minocycline 100 mg oral capsule Dose : 100 mg PO Q12 Hours
+10 . multivitamin ( Multiple Vitamins oral tablet ) Dose : 1 tab PO Daily
+11 . acetaminophen - hydrocodone ( Vicodin 5 mg - 500 mg oral tablet ) Dose : 1 tab PO Q6 Hours PRN for pain
+12 . benzonatate ( Tessalon Perles 100 mg oral capsule ) Dose : 100 mg - 200 mg PO Q4 Hours PRN for cough for 30 day ( s ) ( Do not exceed 600 mg per day . )
+13 . clotrimazole topical ( Lotrimin AF 1 % topical cream ) Dose : apply to affected area Topical BID PRN for skin / fungal infection
+14 . dexamethasone 2 mg oral tablet Dose : 2 mg PO BID PRN for swelling up to 3 days
+15 . dexamethasone Dose : * * PLEASE CLARIFY STRENGTH * * 5 mL Swish & Spit QID PRN for oral lesions
+16 . hydrocortisone topical ( Anusol - HC 2.5 % rectal cream with applicator ) Dose : 1 application Rectal BID PRN for itching
+17 . lidocaine / diphenhydramine / Al - Mg hydroxide ( Magic mouthwash ( UW Medicine Compounded ) ) Dose : 5 mL Swish & Spit QID PRN for oral pain
+18 . metoclopramide 10 mg oral tablet Dose : 10 mg PO Q4 Hours PRN for nausea / vomiting
+19 . ondansetron ( Zofran 8 mg oral tablet ) Dose : 8 mg PO TID PRN for nausea / vomiting
+20 . oxycodone 5 mg oral tablet Dose : 10 mg to 15 mg PO PRN for pain every 3 to 4 hours
+21 . oxyCODONE 5 mg oral tablet Dose : 5 mg PO Q6 Hours PRN for pain
+22 . prochlorperazine 10 mg oral tablet Dose : 10 mg PO Q4 Hours PRN for nausea / vomiting
+23 . sumatriptan ( Imitrex 25 mg oral tablet ) Dose : 25 mg PO Once PRN for migraine headache . May repeat after 2 hours ; Max dose : 200 mg/day
+24 . tadalafil ( Cialis 2.5 mg oral tablet ) Dose : 2.5 mg PO Daily PRN -
+
+
+PHYSICAL EXAMINATION
+VITAL SIGNS :
+Temperature : 36.8 Pulse : 63 Blood Pressure : 120 / 73 Respirations : 16 Height : 172 . 1cm Weight : 106 . 9kg BMI : 36 . 1kg / m2 Oxygen Saturation : 98 % ( Room air )
+
+GENERAL : WNWD male in NAD . The patient is breathing comfortably on room air . He is A & O x3 and is accompanied by wife .
+HEENT : Normocephalic head . EOMI . PERRL . Oropharynx is clear , no erythema .
+LYMPH : No lymphadenopathy over the cervical or supraclavicular chain .
+LUNGS : Breath sounds diffusely heard and clear .
+CARDIAC : Heart with a regular rhythm ; S1 , S2 .
+ABDOMEN : Soft and nontender .
+EXTREMITIES : No lower extremity edema .
+NEUROLOGIC : Grossly nonfocal .
+SKIN : Overall dryness noted .
+MOOD / AFFECT : Pleasant and interactive . Neatly groomed .
+
+LABORATORY DATA
+01/07/2014
+
+Na
+138
+
+K
+4.4
+
+Cl
+102
+
+CO2
+29
+
+Glucose Level
+102
+
+BUN
+15
+
+Creatinine
+1.50
+High
+
+Ca
+9.2
+
+LD ( Total )
+231
+High
+
+AST ( GOT )
+29
+
+ALT ( GPT )
+17
+
+Alk Phos ( Total )
+70
+
+Bilirubin ( Total )
+1.5
+High
+
+Bilirubin ( Direct )
+0.3
+
+Protein ( Total )
+6.3
+
+Albumin
+3.5
+
+WBC
+3.48
+Low
+
+RBC
+3.99
+Low
+
+Hb
+11.5
+Low
+
+HCT
+33
+Low
+
+PLT
+226
+
+Neutrophils
+2.32
+
+IMPRESSION
+Mr. Gallegos is a 46 yo male with progressive , metastatic to the brain ( treated ) , lung cancer .
+He is in clinic to start therapy with weekly Taxol . .
+Chemotherapy toxicity profile was discussed with patient - - specifically effect on blood counts , alopecia , and peripheral neuropathy . We will have a formal chemoteach session today .
+He was provided with Rx for Regla - - he prefers that over Zofran .
+He will return to the clinic in 1 week for C1 Day 8 of therapy . We will also obtain new base line scans during this week .
+
+In the meantime , the patient was encouraged to stay in touch with the clinical care team and let us know if he has any symptoms , questions or concerns .
+
+This is a shared medical oncology visit with Dr . Renato Martins . Please , refer to his addendum for greater detail , clarification and clinical reasoning related to this patient 's care plan .
+
+

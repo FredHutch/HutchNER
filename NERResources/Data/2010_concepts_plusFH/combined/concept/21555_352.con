@@ -1,0 +1,7 @@
+c="N/V" 1:23 1:24||t="problem"
+c="SOB" 1:18 1:18||t="problem"
+c="chemo (Gemzar)" 1:10 1:13||t="treatment"
+c="COPD/lung CA" 1:33 1:36||t="problem"
+c="any oral anti-nausea medications" 2:6 2:11||t="treatment"
+c="chest pain" 4:1 4:2||t="problem"
+c="fever" 4:4 4:4||t="problem"

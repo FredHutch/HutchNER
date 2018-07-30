@@ -1,0 +1,279 @@
+Hospital Day : 1
+
+Chief Concern ( Required for all billing levels )
+30 yo man with Nonleukemic myeloid sarcoma with monocytic differentiation , positive for MLL rearrangement on forehead biopsy by I - FISH admitted for a fever of 101.2 degrees tonight .
+
+Interval History
+Blood cultures central line and PIV line were positive for gram neg cocci in chains and pairs identified this am as strep veridans . Before admission he was starte on vancomycina on ceftazidime . His fever resolved in early mornig last night . Today he feels well w / o chills myalgias SOB cough rhinitis congestion abd pai bruising or bleeding _
+
+Problem List
+Irradiated blood product
+
+1 ) Added by Discern Expert
+Myeloid sarcoma
+
+Allergies
+iodinated radiocontrast dyes
+
+Scheduled Medications
+Acyclovir 800 mg tab Dose : 800 mg = 1 tab PO Q12 Hours
+cefTAZidime Dose : 2 g IVPB Q8 Hours
+Enoxaparin 120mg / 0 . 8mL inj . Dose : 110 mg = 0.73 mL Subcutaneous Daily
+Fluconazole 200 mg tab Dose : 200 mg = 1 tab PO Daily
+Vancomycin / Dextrose 5 % Dose : 1 g = 200 mL IVPB Q12 Hours
+
+Infusions
+Sodium Chloride 0.9 % 1 , 000 mL + Potassium chloride 20 mEq Dose : 1 , 000 mL IV Infusion
+
+PRN Medications
+Acetaminophen 325 mg tab Dose : 650 mg = 2 tab PO Q6 Hours PRN
+Docusate 100 mg cap Dose : 100 mg = 1 cap PO BID PRN
+Lidocaine / Diphenhydra / Al - Mg hydrox 180 mL Dose : 5 mL Swish & Spit Q6 Hours PRN
+LORazepam 0 . 5mg tab Dose : 0.5 mg = 1 tab PO Q6 Hours PRN
+Ondansetron 8 mg tab Dose : 8 mg = 1 tab PO Q8 Hours PRN
+Oxycodone 5 mg tab Dose : 5-10 mg PO Q3 Hours PRN
+Prochlorperazine 5 mg tab Dose : 5 mg = 1 tab PO Q6 Hours PRN
+Senna 8 . 6mg tab Dose : 8.6 mg = 1 tab PO QHS PRN
+
+Vitals ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+09/15/14 16:06
+Temp C :
+36.3
+36.3
+- 37.3
+09/15/14 16:06
+HR :
+78
+78
+- 106
+09/15/14 16:06
+RR :
+18
+18
+- 20
+09/15/14 16:06
+SBP Non - Inv :
+102
+102
+- 115
+09/15/14 16:06
+DBP Non - Inv :
+63
+61
+- 73
+
+Respiratory Data ( Most recent and 24 hour range . )
+Date
+09/15/14 16:06
+O2 Sat :
+100
+O2 Delivery Device :
+Room air
+
+Reason devices remain in
+PICC ( Day 51 ) , R arm , Double Lumen , Power Injectable , At bedside : Planned long-term vascular access
+
+I & O Data
+Height : 170 ( cm ) 5 ' 7 " ( ft / in ) ( 09/14/2014 )
+Admit Wt : 74 ( kg ) 163 ( lbs ) ( 09/14/2014 )
+BMI : 25.6 ( kg / m2 ) ( 09/14/2014 )
+Last Daily Wt : 73 ( kg ) 161 ( lbs ) ( 09/15/14 08:29 )
+Previous Daily Wt : No Results Found .
+
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day )
+Result
+09/12/2014
+09/13/2014
+09/14/2014
+09/15/2014
+09/16/2014
+Total
+
+Intake Total ( 0600 )
+0
+241
+601
+3944
+999
+5785
+
+Output Total ( 0600 )
+0
+0
+0
+650
+1500
+2150
+
+Net I & O Total ( 0600 )
+0
+241
+601
+3294
+- 501
+3635
+
+Daily weight
+
+
+
+
+73
+N / A
+
+
+Neurophysiology Data ( Most recent , lowest and highest for 24 hour range )
+Date
+Result
+Last
+MIN
+- MAX
+09/15/14 08:29
+GCS Total
+15
+15
+- 15
+
+Physical Exam
+GENERAL : The patient is conscious , alert , oriented times 3 , lying comfortably in bed , not in any acute distress .
+VITAL SIGNS : Temperature 37.1 degrees , heart rate 107 per minute , blood pressure 122 / 83 mmHg , respiratory rate 18 per minute , saturation 98 % on room air .
+HEENT : Eyes : Pupils bilateral normal size . Mouth : Mucous membranes are hydrated . No oral lesions appreciated .
+NECK : No JVD .
+CHEST : Bilateral air entry positive . No rhonchi or crepitations .
+CARDIAC : S1 , S2 normal . No murmur or rubs .
+ABDOMEN : Soft , nontender . Bowel sounds normal .
+EXTREMITIES : No edema . PICC line site in the right arm is healthy without any discharge or redness .
+NEUROLOGIC : Grossly nonfocal with power 5 / 5 in all 4 extremities .
+
+Laboratory Studies ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+09/15/14 00:01
+09/14/14 04:32
+
+
+| - ICa - - -
+| - ICa - - -
+136
+105
+9
+| - Ca 8.7
+
+129
+98
+10
+| - Ca 8.6
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 91
+| - Mg 2.0
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 124
+| - Mg - - -
+3.8
+21
+0.75
+| - Phos 4.4
+
+3.3
+25
+0.85
+| - Phos - - -
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+09/15/14 00:01
+09/14/14 04:32
+
+
+8.9
+| - PT - - -
+9.2
+| - PT 13.0
+0.23 ] - - - - - - - - - - - - - - - - - - - - - - [ 53
+| - INR - - -
+0.18 ] - - - - - - - - - - - - - - - - - - - - - - [ 39
+| - INR 1.0
+
+25
+| - PTT - - -
+26
+| - PTT 42
+
+Last 6 Hematocrits in Preceding 24 Hours
+( NOTE : Comments / notes for Labs are viewable on Flowsheet )
+09/15/14
+09/14/14
+
+00:01
+04:32
+
+25
+26
+
+Other Laboratory Studies ( Most recent and 24 hour range . )
+Date
+09/14/14 04:32
+AST ( GOT ) :
+15
+ALT ( GPT ) :
+17
+Alk Phos ( Total ) :
+64
+Bilirubin ( Total ) :
+0.7
+Albumin :
+3.3
+
+Radiological Studies
+XR CHEST 1VIEW
+09/14/2014
+Indication :
+Suspected pneumonia .
+Comparison :
+08/29/2014
+Findings / Impression :
+Stable right PICC terminates in the low SVC .
+The lungs are clear . No large pleural effusion or pneumothorax .
+ATTENDING RADIOLOGIST AND PAGER NUMBER
+502249 Allison Stephen Killefer MD
+
+Problems / Assessment / Plan
+Mr. Delaye is a 30 - year - old gentleman with nonleukemic myeloid sarcoma status post recent G - CLAM admission from 8/29/2014 to 09/03/2014 , presenting with fever .
+
+# Neutropenic fever :
+Fever to 101.2 with chills and myalgias . Chest x-ray normal lung Urinalysis - neg Blood cultures now positive for strep veridans currently receiving vancomycin 1 gm IV q 12 hrs and ceftazidime and vancomycin initiated in the ED last night
+- - cont current antibiotics until sensitivities are revealed
+- - vanco trough level tonight - - will dose adjust accordingly .
+- - consider dc PICC if cultures remain positive
+
+# Mucositis :
+Due to chemotherapy toxicity . He has two small ulcers with gingival inflammation the likely source of his bacteremia
+- - Will prescribe Magic Mouthwash .
+- - additional pain meds may be needed
+- - oral saline rinses and oral cleanliness
+
+# Hypokalemia .
+- - Will supplement tonight
+- - Daily BMP replete as necessary _
+
+# Anemia :
+Due to chemotherapy and anemia of disease .
+- - ordered 1 u PRBCs today
+- - Daily CBC
+- - platelet threshold of > 50 , 000 due to DVT treatment doses
+- - Hct threshold of 25-26 %
+
+VTE prophylaxis :
+Risk Level : At Risk
+Treatment ( s ) ordered : Patient Fully Anticoagulated ; Enoxaparin 80mg / 0 . 8mL inj . 70 mg , 0.7 mL , Subcutaneous , Q12 Hours
+Contacts : Father at bedside
+Code status : Full
+Discharge plan : Home to Woodenville with family after cxs neg , afeb and clinically stable

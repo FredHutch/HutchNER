@@ -1,0 +1,65 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    PETERSEN , YUIKO MRN :        U4008765      ( UWMC ) DOB :        Aug 22 1967 SEX :        F . 
+CASE :    SU-16 - 08740    COLLECTED :   Apr   4 2016   RECEIVED : Apr   5 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : E ) Right breast , mastectomy : 1 . 
+Ductal carcinoma in situ with micropapillary features and the following : a. Intermediate nuclear grade , with comedo - type necrosis . 
+b. Size : 1.8 cm c. Microcalcifications present in association with DCIS . 
+d. All margins > 0.5 cm . 
+e. No residual invasive carcinoma identified .   
+See comment . 2 . 2 incidental axillary lymph nodes , negative for carcinoma . 
+3 . 
+Focal fibrocystic and lactational changes present . 
+4 . 
+See summary cancer data for overall staging ( including biopsy , SU-16 - 4509 ) A - D ) Right axillary sentinel lymph node # 1-#4 , excisions : 4 lymph nodes ( 1 in each part ) , negative for carcinoma . 
+COMMENT : The previous biopsy SU-16 - 04509 is re - reviewed with the current mastectomy specimen with Dr. Dintzis .   
+In the biopsy specimen there are foci of neoplasm that share morphologic similarity to adjacent DCIS , however , lack a definitive myoepithelial layer when evaluated by immunohistochemistry for SMMHC , Calponin , and P63 .   
+Therefore , these foci are interpreted as an invasive component , despite their similar appearance to the remainder of the DCIS and the DCIS present in the mastectomy specimen .   
+Additional IHC is performed on the mastectomy specimen and does not identify an invasive component in the sections examined .   
+Therefore , the component interpreted as invasive carcinoma on the biopsy is used in the staging template below 
+. SUMMARY CANCER DATA : Specimen and procedure Procedure :     Mastectomy Specimen laterality :     Right Invasive carcinoma with the following features : Histologic type :     Invasive ductal carcinoma , NOS ( 85003 ) Size ( largest focus ) :     0.2 cm Comment about size determination : Invasive component seen only on the biopsy ( SU-16 - 4509 ) after immunohistochemical studies ; no residual carcinoma identified in mastectomy specimen . Focality of invasive carcinoma :     Single contiguous focus Nottingham Grade :     Grade I : 3 - 5 points - Tubule Formation :     2   points ( 10 - 75% ) - Nuclear Pleomorphism :     2 points ( moderate ) - Mitotic Activity :     1 point Ancillary Studies Source :     Previous UW Medicine biopsy Accession number :     SU-16 - 4509 Estrogen receptor :     Positive Allred score :     8 of 8 Progesterone receptor :     Positive Allred score :     8 of 8 c - erb - B2 ( her 2 ) by IHC :     Negative for her 2 overexpression by IHC Ki-67 proliferative index :     5% HER 2 by FISH :     Not performed / reported Skin status :     Not involved Nipple status :     Not involved Skeletal muscle status :     Skeletal muscle not present Ductal carcinoma in - situ ( DCIS ) :     Present ( 85002 ) Nuclear grade of DCIS :     Intermediate Necrosis associated with DCIS : Present and central ( expansive " comedo " necrosis ) Distance spanned by DCIS :     1.8 cm DCIS qualifies as " extensive intraductal component " ? :     
+Yes 
+Changes consistent with previous biopsy site :     Present Microcalcifications :     Present in DCIS Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Not applicable ( no invasive carcinoma present ) Invasive carcinoma margin detail : Invasive carcinoma only identified on previous biopsy specimen ; not present in mastectomy . 
+DCIS margin :     DCIS > = 0.5 cm from all margins DCIS Margins : There is a focus of DCIS adjacent to orange ink on slide E7 which is interpreted as not a true margin . 
+Lymph node involvement Sentinel nodes :     Sentinel nodes with carcinoma 0     / Total sentinel nodes 4 Non - sentinel nodes :     Non - sentinel nodes with carcinoma : 0     / Total non - sentinel nodes : 2 - Total number of nodes with macrometastases :     0 - Total number of nodes with micrometastases :     0 - Total number of nodes with isolated tumor cells :     0 Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) 
+TNM descriptors :     none Primary tumor [ pT ] :     PT1a : Tumor > 0.1 cm and < = 0.5 cm - greatest dimension Regional nodes [ pN ] :     pN0 : 
+No regional lymph node metastasis histologically ( ITCs may be present ) N stage modifier :     none _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ INTRAOPERATIVE CONSULTATION : A )     Right axillary sentinel lymph node # 1 ( touch prep ) :   No carcinoma identified .   
+( Mark Kilgore , M.D. , 5:43 p.m. , 4/4/2016 ) .   
+( CXH / pwt ) B )     Right axillary sentinel lymph node # 2 ( touch prep ) :   No carcinoma identified .   
+( Mark Kilgore , M.D. , 5:43 p.m. 4/4/2016 ) .   
+( CXH / pwt ) C )     Right axillary sentinel lymph node # 3 ( touch prep ) :   No carcinoma identified .   
+( Mark Kilgore , M.D. , 5:43 p.m. 4/4/2016 ) .   
+( CXH / pwt ) D )     Right axillary sentinel lymph node # 4 ( touch prep ) :   No carcinoma identified .   
+( Mark Kilgore , M.D. , 5:43 p.m. 4/4/2016 ) .   
+( CXH / pwt ) CLINICAL DATA : Right DCIS . 
+IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : E4 , E5 , E7 Population : Cells of interest Interpreted by :   Mark R Kilgore , MD Block     Label     Marker For     Results     Special Pattern or Comments E4     CALPONIN     Calponin [ 3(16 ) ]     Positive , see comment E4     P63     P 63 , ( BC4A4 )     Positive , see comment E4     SMHC     Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     Positive , see comment E5     CALPONIN     Calponin [ 3(16 ) ]     Positive , see comment E5     P63     P 63 , ( BC4A4 )     Positive , see comment E5     SMHC     Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     Positive , see comment E7     CALPONIN     Calponin [ 3(16 ) ]     Positive , see comment E7     P63     P 63 , ( BC4A4 )     Positive , see comment E7     SMHC     Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     Positive , see comment Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IHC COMMENT : Immunoreactivity for SMHC , P63 and Calponin is present in myoepithelial cells surrounding nests of neoplasm , supporting the interpretation of in - situ neoplasia ( DCIS ) and arguing against invasive carcinoma in the mastectomy specimen . 
+GROSS DESCRIPTION : A )     Received fresh labeled " Petersen , Yuiko , A. right axillary sentinel lymph node # 1 " is a 2 x 0.6 x 0.6 cm lymph node candidate that is bisected and a touch preparation is performed .   
+The remainder of the specimen is serially sectioned and it is entirely submitted in A1-A2 .   
+( CXH / pwt ) B )     Received fresh labeled " Petersen , Yuiko , B. right axillary sentinel lymph node # 2 " is a 4 x 0.5 x 0.6 cm lymph node candidate that is bisected and a touch preparation is performed .   
+The remainder of the specimen is serially sectioned and it is entirely submitted in B1-B2 .   
+( CXH / pwt ) C )     Received fresh labeled " Petersen , Yuiko , C. right axillary sentinel lymph node # 3 " is a 1 x 0.3 x 0.3 cm portion of yellow lobular fatty tissue .   
+There is a 0.3 cm blue locating dyed lymph node candidate that is bisected and a touch preparation is performed .   
+The specimen is entirely submitted in C1 .   
+( CXH / pwt ) D )     Received fresh labeled " Petersen , Yuiko , D. right axillary sentinel lymph node # 4 " is a 1 x 0.8 x0.6 cm lymph node candidate that is bisected and a touch preparation is performed .   
+The specimen is entirely submitted in D1 .   
+( CXH / pwt ) E ) Received :   Fresh in a container designated " Petersen , Yuiko " " right breast , short stitch superior skin , long stitch axillary tail mastectomy . " 
+Specimen type :   Modified radical mastectomy Formalin time :   8:30 a.m. , 4/5/2016 Tissue obtained for tumor banking : No Weight :   160 g 
+Overall size :   15.5 cm ML x 8.3 cm SI x 2.8 cm AP Axillary tail :   3 x 3 x 0.5 m Skin :   Unremarkable tan ellipse of skin measuring 12.0 x 3.8 cm Nipple and Areola :   Unremarkable appearing areola measuring 2.6 cm in diameter with an unremarkable nipple measuring 1.3 x 3 x 1.0 cm Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Sectioning :   The specimen is sectioned into 11 slices of approximately 0.5 cm average thickness Findings : Lesion # 1 :     Tan , somewhat irregular lesion measuring 1.8 x 1.6 x 1.6 cm , at approximately 11:00 , 3.0 cm from the nipple . 
+Located 0.4 cm from the nearest posterior margin , 0.5 cm from the anterior superior margin , 4.5 cm from the anterior inferior margin .   
+There is a clip identified within this lesion . 
+Lesion # 2 :     A somewhat irregular , partially hemorrhagic tan firm area measuring 1.5 x 1.0 x 1.0 cm located at approximately 3:00 , 1.5 cm from the nipple .   
+This area is 0.2 cm from the nearest posterior margin , 2.5 cm from the nearest anterior superior margin , and 3.5 cm from the nearest anterior inferior margin . 
+Background breast :   Approximately 30% unremarkable yellow lobulated tissue with intervening white fibrous bands and somewhat dense fibrous areas . 
+Axillary tail :   Four firm areas identified within the axillary tail region . 
+Submitted :   Representative sections are submitted as follows : Cassette key : E1-E8 - lesion # 1 in entirety from medial to lateral , including deep and anterior superior margins E9 - tissue lateral to lesion # 1 E10- tissue medial to lesion # 1 E11 - lesion # 1 anterior inferior margin E12 - tissue between lesion # 1 and lesion # 2 E13-E16 - lesion # 2 in entirety from medial to lateral , including nearest posterior margin E17 - nearest anterior superior and inferior margins to lesion # 2 E18 - axillary tail firm areas E19 - upper outer quadrant representative sections E20 lower outer quadrant representative sections E21 - lower inner quadrant representative sections E22 - upper inner quadrant representative sections E23 - nipple ( SM / pwt ) Simon   Meykler DO Fellow 04/06/2016 Mark R Kilgore MD Pathologist Electronically signed 
+04/08/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

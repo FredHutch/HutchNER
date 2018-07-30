@@ -1,0 +1,20 @@
+T1	Hospital_Name 2 30	SEATTLE CANCER CARE ALLIANCE
+T3	Patient_or_Family_Name 127 131	Ryan
+T4	Patient_or_Family_Name 132 139	Gabriel
+T5	Age 159 161	37
+T7	Date 309 323	April 5 , 2012
+T8	Provider_Name 335 341	Steven
+T9	Provider_Name 342 349	Medwell
+T10	Hospital_Name 353 375	Swedish Medical Center
+T20	Date 1013 1029	August 16 , 2012
+T21	Provider_Name 1074 1079	James
+T22	Provider_Name 1080 1087	at Park
+T23	Hospital_Name 1095 1119	University of Washington
+T34	Date 1965 1983	September 7 , 2012
+T40	Patient_or_Family_Name 2124 2128	Ryan
+T45	Patient_or_Family_Name 3031 3035	Ryan
+T46	Patient_or_Family_Name 3036 3043	Gabriel
+T47	Age 3049 3051	37
+T53	Patient_or_Family_Name 3248 3252	Ryan
+T61	Date 3629 3635	August
+T74	Patient_or_Family_Name 5284 5288	Ryan

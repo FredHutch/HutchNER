@@ -1,0 +1,244 @@
+
+
+MEDICINE INPATIENT PROGRESS NOTE
+
+Hospital Day : 3
+
+IDENTIFICATION / CHIEF CONCERN
+Mr. Isaac is a 37 y.o. male with metastatic epithelioid sarcoma , who presents with worsening dyspnea and leukocytosis , likely secondary to progressive pneumonia vs chemo side effect .
+
+INTERVAL HISTORY
+- breathing comfortably on 50 % highflo facemask
+- bronch yesterday : PCP and CMV negative
+- no new issues
+
+
+ALLERGIES
+morphine
+prochlorperazine
+sertraline
+hydrocodone
+Tape
+
+Scheduled Medications
+Albuterol 0.083 % 3 mL inhalation soln Dose : 2.5 mg = 3 mL Nebulized Inh Q4 Hours
+Citalopram 20 mg tab Dose : 40 mg = 2 tab PO QDay
+Docusate 100 mg cap Dose : 200 mg = 2 cap PO BID
+Ganciclovir Dose : 350 mg IVPB Q12 Hours ( non std )
+Heparin 5 , 000units / mL inj Dose : 5 , 000 units = 1 mL Subcutaneous Q8 Hours
+Imipenem-cilastatin Dose : 500 mg IVPB Q6 Hours
+Ipratropium 0.02 % 2 . 5mL inhalation soln Dose : 0.5 mg = 2.5 mL Nebulized Inh Q4 Hours
+MethylPREDNISolone Na succ 125mg / 2mL inj Dose : 75 mg = 1.2 mL IV QDay
+Oxycodone CR 20 mg tab Dose : 80 mg = 4 tab PO Q8 Hours
+Senna 8 . 6mg tab Dose : 1-2 tab PO QHS
+Vancomycin ( Add - Vant ) Dose : 1 g IVPB Q12 Hours
+Voriconazole Dose : 300 mg IVPB Q12 Hours
+
+Infusions
+No Infusion Medications Found .
+
+PRN Medications
+Albuterol 0.083 % 3 mL inhalation soln Dose : 2.5 mg = 3 mL Nebulized Inh Q1 Hour PRN
+Fentanyl 200 mcg lozenge Dose : 400 mcg = 2 each Mucosal Q12 Hours PRN
+Ipratropium 0.02 % 2 . 5mL inhalation soln Dose : 0.5 mg = 2.5 mL Nebulized Inh Q1 Hour PRN
+Lorazepam 1 mg tab Dose : 1 mg = 1 tab PO Q8 Hours PRN
+Lorazepam 2 mg/mL inj Dose : 1 mg = 0.5 mL IV Push Q8 Hours PRN
+Magnesium sulfate Dose : 16 mEq = 3.94 mL IVPB Q6 Hours PRN
+Magnesium sulfate Dose : 8 mEq = 1.97 mL IVPB Q6 Hours PRN
+Ondansetron 4mg / 2mL inj Dose : 8 mg = 4 mL IV Q8 Hours PRN
+Oxycodone 15 mg tab Dose : 15-3 0 mg PO Q4 Hours PRN
+Polyethylene glycol 3350 - NF powder 17 g Dose : 17 g = 1 packet PO QDay PRN
+Potassium chloride / Diluent Dose : 40 mEq = 100 mL IVPB Q6 Hours PRN
+Potassium chloride / Diluent Dose : 20 mEq = 50 mL IVPB Q6 Hours PRN
+Potassium phosphate Dose : 40 mEq = 9.09 mL IVPB Q6 Hours PRN
+Sodium phosphate Dose : 40 mEq = 10 mL IVPB Q6 Hours PRN
+
+PHYSICAL EXAM
+VS : ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+06/03/10 12:00
+Temp C :
+36.4
+36.2
+- 36.4
+06/03/10 15:00
+HR :
+111
+97
+- 120
+06/03/10 15:00
+RR :
+30
+17
+- 30
+06/03/10 12:00
+SBP Non - Inv :
+126
+103
+- 160
+06/03/10 12:00
+DBP Non - Inv :
+65
+57
+- 90
+06/03/10 12:00
+MAP Non - Inv :
+80
+72
+- 108
+
+NAD
+B crackles
+Tachycardic , regular , no m / r / g
+Soft , NT , ND
+No LE edema
+
+I & O
+Height : 170.0 ( cm ) 5 ' 7 " ( ft / in ) ( 06/02/2010 )
+Admit Wt : 70.20 ( kg ) 154 ( lbs ) ( 06/02/2010 )
+Last Daily Wt : 70.2 ( kg ) 154 ( lbs ) ( 06/02/10 11:00 )
+Previous Daily Wt : No Results Found .
+
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day )
+Result
+05/31/2010
+06/01/2010
+06/02/2010
+06/03/2010
+06/04/2010
+Total
+
+Intake Total ( 0600 )
+0
+0
+704
+4099
+733
+5536
+
+Output Total ( 0600 )
+0
+700
+2275
+1875
+1200
+6050
+
+Net I & O Total ( 0600 )
+0
+- 700
+- 1571
+2224
+- 467
+- 514
+
+Daily weight
+
+
+
+70.2
+
+N / A
+
+
+LABS ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+06/03/10 04:00
+06/02/10 06:19
+
+
+| - ICa - - -
+| - ICa - - -
+138
+99
+13
+| - Ca 9.1
+
+137
+99
+10
+| - Ca 8.7
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 149
+| - Mg 2.3
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 190
+| - Mg - - -
+3.9
+32
+0.6
+| - Phos 2.1
+
+3.8
+30
+0.9
+| - Phos - - -
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+06/03/10 04:00
+06/02/10 06:19
+
+
+9.8
+| - PT - - -
+10.5
+| - PT 14.9
+25.78 ] - - - - - - - - - - - - - - - - - - - - - - [ 406
+| - INR - - -
+21.96 ] - - - - - - - - - - - - - - - - - - - - - - [ 421
+| - INR 1.2
+
+31
+| - PTT - - -
+33
+| - PTT - - -
+
+
+Assessment :
+Mr. Isaac is a 37 y.o. male with metastatic epithelioid sarcoma , who presents with worsening dyspnea and leukocytosis , likely secondary to progressive pneumonia vs chemo side effect .
+
+Plan :
+Hypoxia : High suspicion for chemo toxicity although covering broadly for infections and awaitng bronch PCR / culture results .
+- continue empiric vancomycin , imipenem , voriconazole , ganciclovir
+- stopped bactrim given neg . PCP
+- will stop ganciclovir if VZV returns neg .
+- Continue daily solumedrol
+- Continue high flo O2 ; wean as tolerates
+- Appreciate pulmonary help
+
+Metastatic epithelioid sarcoma :
+- Was in Milennium clinical trial : Stopped and possible medication toxicity will be reported per Dr. Rodler
+- Currently on a 10 - day break from his protease inhibitor treatment . Next infusion due 1-8/10
+- Home oxycodone , oxycontin , fentanyl for chronic pain ( will double check on oxycontin doses per Palliative Care input )
+
+FENGI :
+- Soft mechanical diet
+
+PPx :
+SQ Heparin
+
+Dispo :
+- Continued ICU care ; potential floor transfer in near future if O2 reqs decrease
+
+Code :
+- FULL CODE
+- APpreciate palliative care input today
+
+ATTENDING STATEMENT :
+I saw and evaluated the patient and agree with Dr. Huetsch 's note .
+
+He tolerated the bronchoscopy well . Dr. Rodler to check on toxicity related to Phase I drug . Since MOA is similar to velcade , it is possible this could represent drug toxicity if cultures are negative .
+
+Date of Service : 6/3/10
+
+Today 's Date is : 06/04/2010
+

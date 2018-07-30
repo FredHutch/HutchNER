@@ -1,0 +1,4 @@
+c="37" 1:4 1:4||t="age"
+c="Josh" 1:1 1:1||t="patient_or_family_name"
+c="6 / 2" 1:12 1:14||t="date"
+c="06/05/2010" 16:4 16:7||t="date"

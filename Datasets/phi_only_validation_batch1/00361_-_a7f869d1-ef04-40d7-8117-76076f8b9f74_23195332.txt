@@ -1,0 +1,169 @@
+Hospital Day : 0
+
+ID & Chief Concern / Problem ( required for all billing levels )
+62 F ( depression , HL ) with new diagnosis of AML ( FLT3 , NPM1 , CEBP negative ) here for scheduled admit for induction GCLAC therapy plus expanded umbilical cord cells SCCA protocol 2335 .
+
+History of Present Illness
+The patient reports that she was in her usual state of health until October 2011 , when she began experiencing increasing fatigue . She presented to her PCP , who collected a CBC with WBC 3.25 , Hct 30 , MCV 109 , and Plt 132K . She was then started on B12 , iron , and had a colonoscopy to evaluate for occult bleeding which was negative . At this point she saw Dr. Trevor Dennie in Puyallup , heme / onc , who obtained a bone marrow biopsy that revealed dysplastic changes . Blasts were elevated at 11 % by morphology and 17 % by flow cytometry .
+
+On ROS the patient reports chronic constipation ( 1 BM q3 - 4d ) , weight loss of 10 pounds since October , but otherwise denies infections , bleeding , lymphadenopathy , pain , gum hypertrophy , orthopnea , weakness , numbeness , change in vision or hearing , dysuria , radiation exposure or exposure to other toxic agents including Agent Orange .
+
+Physicians
+Trevor Dennie , MD
+MultiCare Regional Cancer Center - Puyallup
+400 15 th Ave SE Suite B
+Puyallup WA 98372
+
+Elihu Estey , MD
+SCCA
+
+Allergies
+cephalexin - ? neurologic changes
+Latex - whole body rash
+Shrimp - throat swelling
+
+Home Medications
+zoloft dose unknown
+simvastatin dose unknown
+
+Past Medical History
+- depression
+- hyperlipidemia
+
+Past Surgical History
+- hysterectomy 1972
+- breast reduction in 1983
+
+Family History
+- mother who had lung cancer , died at age 73
+- cousin with breast cancer , died at age 37
+- stepfather with lung cancer
+- denies FHx of HTN and DM , MI in brother at unknown age
+- patient has one brother who is 58 , has had bypass surgery , lives in OK
+- another brother who is 60 , lives in TX
+- a sister who is 61 and lives in Tacoma
+- one daughter who is 42 years old and lives in Woodinville
+
+Social History
+- smoked for 10 years 1 / 2ppd
+- quit in the 70 s , drinks 3 glasses of wine / week
+- no IVDU , no illicit drugs
+- lives in Tacoma with husband
+- operates a small gift shop , worked in retail form ost of her life
+
+Review of Systems ( as above )
+
+Vitals ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+01/12/12 10:09
+Temp C :
+37.1
+37.1
+- 37.1
+01/12/12 12:15
+HR :
+76
+68
+- 78
+01/12/12 12:15
+RR :
+14
+14
+- 20
+01/12/12 12:15
+SBP Non - Inv :
+130
+116
+- 135
+01/12/12 12:15
+DBP Non - Inv :
+70
+64
+- 78
+
+I & O Data
+Height : 162 ( cm ) 5 ' 4 " ( ft / in ) ( 01/12/2012 )
+Admit Wt : 62 ( kg ) 136 ( lbs ) ( 01/12/2012 )
+Last Daily Wt : No Results Found .
+Previous Daily Wt : No Results Found .
+
+No I & O Results Found .
+
+Respiratory Data ( Most recent and 24 hour range . )
+Date
+01/12/12 12:15
+O2 Sat :
+93
+O2 Flow Rate :
+3
+O2 Delivery Device :
+Room air
+
+Physical Exam ( include 8 or 2 with one in detail )
+CONSTITUTIONAL / GENERAL APPEARANCE : middle aged white woman in NAD
+MENTAL STATUS / PSYCH : AAOx3 , appropriate affect , good mood
+NEURO : moving all extremities spontaneously
+EYES : PERRL , anicteric sclera
+EARS , NOSE , THROAT : OP clear
+RESPIRATORY : CTAB
+CARDIOVASCULAR ( heart , pulses , edema ) : RRR , nl S1 / S2
+ABDOMEN / GI : NTND , NABS
+SKIN : no rashes
+
+Laboratory Studies ( Most recent results in 24 hour range . )
+No CHEM 7 Results Found .
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+01/12/12 10:10
+- - -
+
+
+- - -
+| - PT 14.0
+- - -
+| - PT - - -
+- - - ] - - - - - - - - - - - - - - - - - - - - - - [ - - -
+| - INR 1.1
+- - - ] - - - - - - - - - - - - - - - - - - - - - - [ - - -
+| - INR - - -
+
+- - -
+| - PTT 33
+- - -
+| - PTT - - -
+
+Problems / Assessment / Plan
+
+62 F ( depression , HL ) with new diagnosis of AML ( FLT3 , NPM1 , CEBP negative ) here for scheduled admit for induction GCLAC therapy plus expanded umbilical cord cells SCCA protocol 2335 .
+
+# ) AML ( FLT3 , NPM1 , CEBP negative ) : patient here for induction GCLAC therapy . Patient likely will commence therapy tomorrow . Will monitor for chemotherapy toxicities .
+{ } admission labs including CBC with diff , BMP
+[ ] GCLAC therapy to start tomorrow .
+[ ] transfusion threshold : Hct < 26 , plt < 10
+
+# ) Other issues stable and unchanged :
+- HL : continue simvastatin 10 mg PO qhs
+- depression : continue sertraline 50 mg PO qday
+
+# ) FEN : regular diet , replete lytes PRN
+# ) PPX : TEDs / SCDs , GI deferred at this time
+# ) T / L / D : Hickman line placed 1/12/2012
+# ) Contacts : Husband ( 253 ) 759-3251
+# ) Code : FULL
+# ) Dispo : to home pending completion of chemotherapy , likely early discharge
+
+
+
+
+ATTENDING STATEMENT :
+I saw and evaluated the patient and agree with Dr. Chen 's note .
+
+Date of Service : 01/12/2012
+
+Today 's Date is : 01/13/2012

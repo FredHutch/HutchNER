@@ -1,0 +1,288 @@
+Hospital Day : 9
+
+ID & Chief Concern / Problem ( required for all billing levels )
+62 F ( depression , HL ) with new diagnosis of AML ( FLT3 , NPM1 , CEBP negative ) here for scheduled admit for induction GCLAC therapy plus expanded umbilical cord cells SCCA protocol 2335 .
+
+Interval History / Major Events ( past 24 hours )
+- patient persistently febrile overnight to 38.7
+- this morning , reports that she 's not feeling so good : headache consistent with chemo headache , nausea and vomiting , diarrhea x 2 BM yesterday , abdominal cramping somewhat relieved by BM
+- denies cough / difficulty breathing
+- reports that rash is somewhat itchy , unsure whether it has changed or not .
+- nasal swab sent for panel after sinus congestion at shift change
+- received 1 U PRBC , platelet transfusion
+- this morning , patient found to be slightly more groggy than usual , VSS , non focal exam , sent for head CT
+
+Allergies
+cephalexin
+Zofran
+Latex
+Shrimp
+
+Scheduled Medications
+Acyclovir 800 mg tab Dose : 800 mg = 1 tab PO Q12 Hours
+Aminocaproic acid Dose : 2 g = 8 mL IVPB Q6 Hours
+cefTAZidime Dose : 2 g IVPB Q8 Hours
+Chlorhexidine gluconate 2 % topical cloth Dose : 1 application Topical QAM
+Filgrastim 300 mcg/mL inj Dose : 300 mcg = 1 mL Subcutaneous Q24 Hours
+Lorazepam 0 . 5mg tab Dose : 1 mg = 2 tab PO Q6 Hours
+Prochlorperazine 10 mg tab Dose : 10 mg = 1 tab PO Q8 Hours
+Ranitidine 150 mg tab Dose : 150 mg = 1 tab PO Q12 Hours
+Scopolamine 1 . 5mg patch Dose : 1.5 mg = 1 patch Transdermal Q72 Hours
+Sertraline 25 mg tab Dose : 50 mg = 2 tab PO QDay
+
+Infusions
+Sodium Chloride 0.9 % 1 , 000 mL Dose : 1 , 000 mL IV Infusion
+
+PRN Medications
+Acetaminophen 325 mg tab Dose : 325-650 mg PO Q6 Hours PRN
+Bisacodyl EC 5 mg tab Dose : 30 mg = 6 tab PO QDay PRN
+Calcium carb 500 mg chewtab ( 200 mg elem ) Dose : 500-1000 mg Chew Q6 Hours PRN
+DiphenhydrAMINE 25 mg tab Dose : 25-5 0 mg PO Q6 Hours PRN
+DiphenhydrAMINE 50 mg/mL inj Dose : 25-5 0 mg IV Q6 Hours PRN
+Docusate 100 mg cap Dose : 200 mg = 2 cap PO BID PRN
+Granisetron 1 mg tab Dose : 1 mg = 1 tab PO BID PRN
+Lactulose 20g / 30mL soln Dose : 15-30 mL PO Q4 Hours PRN
+Loperamide 2 mg cap Dose : 2 mg = 1 cap PO Q3 Hours PRN
+Lorazepam 0 . 5mg tab Dose : 0.5-1 mg PO Q6 Hours PRN
+Lorazepam 2 mg/mL inj Dose : 0.5-1 mg IV Push Q6 Hours PRN
+Metoclopramide 10mg / 2mL inj Dose : 10 mg = 2 mL IV Q6 Hours PRN
+Oxycodone 5 mg tab Dose : 5-15 mg PO Q4 Hours PRN
+Polyethylene glycol 3350 - NF powder 17 g Dose : 17 g = 1 packet PO QDay PRN
+Prochlorperazine 5 mg tab Dose : 5-10 mg PO Q6 Hours PRN
+Senna 8 . 6mg tab Dose : 1 tab PO QHS PRN
+
+Vitals ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+01/21/12 04:45
+Temp C :
+38.7
+36.0
+- 38.7
+01/21/12 06:14
+HR :
+100
+76
+- 100
+01/21/12 04:45
+RR :
+18
+14
+- 20
+01/21/12 06:14
+SBP Non - Inv :
+126
+98
+- 126
+01/21/12 06:14
+DBP Non - Inv :
+68
+58
+- 68
+
+I & O Data
+Height : 162 ( cm ) 5 ' 4 " ( ft / in ) ( 01/14/2012 )
+Admit Wt : 61.4 ( kg ) 135 ( lbs ) ( 01/14/2012 )
+Last Daily Wt : 62.9 ( kg ) 138 ( lbs ) ( 01/20/12 13:00 )
+Previous Daily Wt : 62.7 ( kg ) 138 ( lbs ) ( 01/18/12 08:00 )
+
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day )
+Result
+01/18/2012
+01/19/2012
+01/20/2012
+01/21/2012
+01/22/2012
+Total
+
+Intake Total ( 0600 )
+2907
+1100
+820
+4604
+308
+9739
+
+Output Total ( 0600 )
+2600
+2900
+2700
+2100
+0
+10300
+
+Net I & O Total ( 0600 )
+307
+- 1800
+- 1880
+2504
+308
+- 561
+
+Daily weight
+63
+62.7
+
+62.9
+
+N / A
+
+
+Respiratory Data ( Most recent and 24 hour range . )
+Date
+01/20/12 16:00
+O2 Sat :
+98
+O2 Delivery Device :
+Room air
+
+Physical Exam ( include 8 or 2 with one in detail )
+CONSTITUTIONAL / GENERAL APPEARANCE : NAD , slightly groggy
+MENTAL STATUS / PSYCH : month " november ? march ? february ? " year " 2012 " place " UW "
+NEURO : nonfocal , PERRL , EOMI , extremities moving spontaneously , strength symmetric
+EARS , NOSE , THROAT : palatal petechiae
+RESPIRATORY : CTAB
+CARDIOVASCULAR ( heart , pulses , edema ) : RRR
+ABDOMEN / GI : NTND
+SKIN : diffuse blanching maculopapular erythematous rash on trunk , back , legs , and feet
+
+Laboratory Studies ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+01/21/12 00:30
+01/20/12 18:55
+
+
+| - ICa - - -
+| - ICa - - -
+129
+101
+15
+| - Ca 7.1
+
+131
+101
+12
+| - Ca 7.5
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 124
+| - Mg - - -
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 116
+| - Mg 1.9
+3.5
+24
+0.67
+| - Phos - - -
+
+3.7
+24
+0.55
+| - Phos 3.0
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+01/21/12 00:30
+01/20/12 00:30
+
+
+8.0
+| - PT - - -
+9.7
+| - PT - - -
+cmt ] - - - - - - - - - - - - - - - - - - - - - - [ 4
+| - INR - - -
+cmt ] - - - - - - - - - - - - - - - - - - - - - - [ 10
+| - INR - - -
+
+23
+| - PTT - - -
+29
+| - PTT - - -
+
+Other Laboratory Studies ( Most recent and 24 hour range . )
+Date
+01/21/12 00:30
+AST ( GOT ) :
+52
+ALT ( GPT ) :
+164
+Alk Phos ( Total ) :
+119
+Bilirubin ( Total ) :
+0.6
+Albumin :
+2.3
+
+Last 6 Hematocrits in Preceding 24 Hours
+( NOTE : Comments / notes for Labs are viewable on Flowsheet )
+01/21/12
+01/20/12
+
+00:30
+00:30
+
+23
+29
+
+Imaging
+CT Head 1/21/12
+Preliminary Impression :
+1 . No acute intracranial abnormality . Specifically there is no acute
+infarct , hemorrhage , mass or edema .
+
+Problems / Assessment / Plan
+62 F with h/o depression , HLD and recent diagnosis of AML ( FLT3 , NPM1 , CEBP negative ) admitted for induction GCLAC therapy plus expanded umbilical cord cells SCCA protocol 2335 , now with neutropenic fever
+
+# ) Neutropenic fever , rash , AMS : only localizing symptom is abdominial discomfort , which has been present for several days , correlated with chemo . Patient initially received one dose of meropenem , then ceftazidime , now on vanc / aztreonam given rash and possibility of cephalosporin allergic crossreactivity . Possibly related to umbilical cord cell infusion . VSS. CT Head negative
+[ ] monitor BCx and further sx .
+[ ] will discuss possibility of acute GVHD
+
+# ) AML ( FLT3 , NPM1 , CEBP negative ) : patient here for induction GCLAC therapy . NOW DAY 7 / 5 . patient now with an undetectable white count , stable Hct and decreasing platelets . Completed GCLAC therapy ( filgrastim , cytarabine , clofarabine ) and umbilical cord cells transfusion . Now eligible for discharge per protocol but not feeling well and logistical issues are not yet figured out . Patient will ultimately need a bone marrow biopsy on Day 14 , which is 1/25/12 . At that time , she will require morphology , flow , and cyto / FISH if clinically indicated .
+[ ] transfusion threshold : Hct < 26 , plt < 10
+
+[ ] continue filgrastim 300 mcg subcutaneous injection qday until ANC > 2000 for 2 days
+[ ] continue neutropenia prophylaxis antibiotics today , including :
+
+acyclovir 800 mg PO bid
+
+hold fluconazole ppx for now given transaminitis ; plan to start in next 1-2 days
+
+# ) Nausea and diarrhea : symptoms persistent today , likely still related to chemo . Also with discomfort c / t reflux
+- ctn Tums , started ranitidine yesterday
+- Scheduled compazine and ativan ,
+- c diff negative loperamide ok if negative
+
+# ) transaminitis : unclear etiology , likely 2 / 2 chemotherapy toxicities . resolving .
+[ ] holding hepatotoxic drugs
+
+# ) Other issues stable and unchanged :
+- HL : holding simvastatin 10 mg PO qhs given transaminitis
+- depression : continue sertraline 50 mg PO qday
+
+# ) FEN : regular diet , replete lytes PRN , continue bowel regimen including docusate , senna , and miralax PRN .
+# ) PPX : TEDs / SCDs , GI deferred at this time
+# ) T / L / D : Hickman line placed 1/12/2012
+# ) Contacts : Husband ( 253 ) 759-3251
+# ) Code : FULL
+# ) Dispo : discharge delayed for fever
+
+
+
+
+
+
+
+
+ATTENDING STATEMENT :
+I saw and evaluated the patient and agree with Dr. Chen 's note . Persistently febrile . Very acute development of diffuse erythematous rash , initially mostly affecting trunk and flank but later extending to face and other body areas ; with progression development of pain in erythematous areas . Hyperacute GVHD unlikely as expanded CB cells should not contain any mature T lymphocytes . Possible allergic reaction to medication or beginning cytarabine toxicity ; in favor of the latter is the worsening pain associated with the rash . Will obtain CT scan because of altered mental status in setting of severe thrombocytopenia and consider diagnostic LP at later time point . Will give systemic steroids if allowed by study protocol .
+
+Date of Service : 01/21/2012
+
+Today 's Date is : 01/21/2012

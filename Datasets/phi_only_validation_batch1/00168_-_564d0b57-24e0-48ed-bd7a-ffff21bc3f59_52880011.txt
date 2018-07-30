@@ -1,0 +1,141 @@
+INPATIENT PROGRESS NOTE
+
+HOSPITAL DAY : 4
+
+IDENTIFICATION / CHIEF CONCERN :
+83 year old female who presents with second relapse of AML , admitted for salvage therapy w / mini - GCLAM .
+
+INTERVAL HISTORY :
+- No acute events overnight
+- Feeling well today , eager to return home tomorrow
+
+ALLERGIES :
+NKA
+
+SCHEDULED MEDICATIONS :
+acyclovir 800 mg PO Q12 Hours
+allopurinol 300 mg PO Daily
+amLODIPine 10 mg PO Daily
+cladribine 3.5 mg IVPB Q24 Hours
+cytarabine 180 mg IVPB Q24 Hours
+filgrastim 300 mcg Subcutaneous Q24 Hours
+fluconazole 200 mg PO Daily
+levoFLOXacin 750 mg PO Q48 Hours
+omeprazole 40 mg PO Daily Empty Stomach
+ondansetron 8 mg IV Q12 Hours ( non std )
+senna 8.6 mg PO QHS
+sodium chloride 0.9 % - Flush 10 mL IV Daily
+
+PRN MEDICATIONS : ( only those given in the last 24 hours are displayed )
+MiraLax 17 g PO Daily PRN
+
+REASON DEVICES REMAIN IN :
+PICC ( Day 52 ) , R arm , Double Lumen , Power Injectable , Other : 39/9/27 / 3CG , At bedside : In place for chemotherapy , Planned long-term vascular access
+
+PHYSICAL EXAM :
+04/28/17 11:55 : T 36.4 HR 70 RR 16 BP 122 / 71 O2 Sat 94 % on RA
+In : 523.3 ; Out : 3250 ; Net : -2726.7 ( last 24 hours )
+Gen : pleasant , NAD , sitting up at bedside
+Pulm : breathing comfortably on ambient air
+Neuro : Alert and oriented x4
+
+LABS : ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+04/28/17 00:30
+04/27/17 00:05
+
+
+| - ICa - - -
+| - ICa - - -
+139
+107
+19
+| - Ca 8.8
+
+139
+106
+20
+| - Ca 8.8
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 87
+| - Mg 1.9
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 80
+| - Mg 1.8
+3.8
+26
+1.56
+| - Phos 2.8
+
+3.7
+23
+1.47
+| - Phos - - -
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+04/28/17 00:30
+04/27/17 00:05
+
+
+8.8
+| - PT 13.5
+9.1
+| - PT 14.0
+3.14 ] - - - - - - - - - - - - - - - - - - - - - - [ 86
+| - INR 1.1
+4.85 ] - - - - - - - - - - - - - - - - - - - - - - [ 103
+| - INR 1.1
+
+26
+| - PTT 30
+26
+| - PTT 31
+
+MICRO :
+_
+
+IMAGING :
+_
+
+ASSESSMENT & PLAN :
+Ms Pauline Ingersoll is a 83 yo woman with second relapse of AML , admitted for salvage mini - GCLAM .
+
+# AML - now in second relapse s/p mini - GCLAM , with plan to undergo second course of mini - GCLAM .
+- chemo orders per Estey .
+- TLS / DIC labs spacing to q24h
+- CBC q day
+- levofloxacin 750 mg q48 hrs , acyclovir 800 mg BID , fluconazole 200 mg daily
+- allopurinol 300 mg qday
+- mIVF at 45 ml/hr w / initiation of chemo
+
+# renal dysfunction , CKD - patient currently at her baseline creatinine of 1.2-1.6 , with elevation into the 2 s during prior admission , thought secondary to chemotherapy toxicity .
+- CTM , can consider extra hydration with initiation of chemotherapy as needed
+
+# hypertension
+- amlodipine 10 mg daily
+
+Checklist
+FEN : immunosuppressed diet
+TLD : R arm PICC
+VTE prophylaxis :
+Risk Level : At Risk
+Treatment ( s ) ordered : Sequential Compression Device
+Contacts : Chuck Petersen ( boyfriend ) , Connie ( daughter and DPOA ) 360-966 - 5544
+Code status : FULL CODE
+
+Discharge plan : HemeOnc for mini - GCLAM , likely discharge home 4 / 29
+
+ATTENDING STATEMENT :
+I saw and evaluated the patient and agree with Dr. Yuh 's note .
+Additional diagnoses : none
+
+Likely discharge tomorrow after completion of chemotherapy .
+
+Date of Service : 4/28/2017
+
+Today 's Date is : 04/28/2017

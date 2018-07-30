@@ -1,0 +1,43 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    LARKIN , DIANE L MRN :        U5818758      ( UWMC ) DOB :        Oct 13 1944 SEX :        F . 
+CASE :    SU-16 - 07436    COLLECTED :   Mar 22 2016   RECEIVED : Mar 22 2016 * * * * THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : Additional Studies _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A )   Left breast , 5:00 , core needle biopsy : Ductal carcinoma in situ with the following : 1 . 
+Nuclear grade high , without necrosis . 
+2 . 
+Extent : Involving a single ductal profile . 3 . 
+Microcalcifications : Present     , associated with DCIS and non - neoplastic tissue . 4 . 
+Negative for invasive carcinoma . 
+5 . 
+Prognostic / predictive markers will be performed and the results reported as an addendum . 
+COMMENT : Drs . 
+Kilgore and Rendi have reviewed selected slides and agree with the interpretation . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : Left focal NME at 5:00 .   
+The specimen is collected 03/22/16 at 10:00 a.m.   Total fixation time is 22 hours . 
+GROSS DESCRIPTION : A )     Received in formalin labeled " Larkin , Diane L , A. L MRI - guided needle biopsy NME 5:00 " are approximately ten 0.2 - 0.3 cm diameter elongated , cylindrical portions of fibrofatty tissue , 0.2 - 2.0 cm long , inked blue and entirely submitted in A1-A2 .   
+( MUA / kc ) Nicholas   Reder MD , MPH AP / CP Resident 03/23/2016 Suzanne   Dintzis MD , PhD Pathologist Electronically signed 03/23/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+ADDENDUM REASON : To report the results of immunohistochemical staining for estrogen receptors in in - situ ductal carcinoma . 
+ADDENDUM : IMMUNOHISTOCHEMISTRY REPORT : Source ( Original Label ) : A1 Population : In - situ ductal carcinoma cells Interpreted by :   Sania Shuja , MD , PhD Block     Label     Marker For     Results     Special Pattern or Comments A1     ER     Estrogen Receptor [ SP1 ] , Quantitative Evaluation     0 % positive cells Negative result     Controls appropriately positive , internal control present ER / PR and HER2 immunohistochemical analyses are performed in accordance with 2013 CAP / ASCO guidelines [ Wolff , Hammond et al ] . 
+Department of Pathology protocols dictate that breast cancer containing tissue will be fixed in neutral buffered formalin for a minimum of 6 hours to a maximum of 72 hours for HER2 , ER and PR , unless otherwise noted in this report . 
+ER and PR stains are interpreted using a modified H - score system ( Allred ) based on the proportion of cells staining and intensity of staining : > 1% of cells with weak staining intensity ( Allred score 3 of 8) is the clinically validated threshold for a positive result [ Harvey et al ] HER2 interpretative criteria are those recommended by CAP / ASCO , where 3 + staining ( intense , uniform , homogeneous circumferential membrane staining in > 10% of tumor cells ) is required for a positive ( " high over - expression " ) result . 
+Cases with 2 + ( equivocal ) HER2 staining will be tested for gene amplification using a validated fluorescent in - situ hybridization ( FISH ) technique . 
+These assays have not been validated on decalcified tissues . 
+Results using decalcified tissues should be interpreted with caution , given the likelihood of false negativity in this testing environment . 
+When the above stain result indicates ' Quantitative Evaluation ' , a manual morphometric scoring of the stain was performed . 
+Grimm EE , et al . 
+Am J Clin Pathol ( 2010 ) 14 ; 284 - 92 . 
+Hammond ME , et al . 
+J Clin Oncol ( 2010 ) 28 ; 2784 - 95 . 
+Harvey et al . 
+J Clin Oncol ( 1999 ) 17 ; 1474 - 81 . Wolff AC , 
+et al . 
+Arch Pathol Lab Med ( 2013 ) 137 . 
+Note :   The detection system used is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+Sania   Shuja MD , PhD Pathologist Electronically signed 
+03/29/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 

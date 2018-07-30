@@ -1,0 +1,37 @@
+T1	Hospital_Name 6 10	SCCA
+T2	Date 58 68	11/15/2009
+T3	Date 71 81	11/30/2009
+T4	Patient_or_Family_Name 107 112	Fobes
+T5	Age 118 120	54
+T9	Patient_or_Family_Name 410 415	Fobes
+T10	Account_Number 445 449	2272
+T13	Date 565 582	October 30 , 2009
+T14	Patient_or_Family_Name 621 626	Fobes
+T20	Date 1260 1277	November 6 , 2009
+T21	Date 1295 1313	November 26 , 2009
+T22	Date 1422 1440	November 24 , 2009
+T23	Date 1445 1463	November 30 , 2009
+T26	Patient_or_Family_Name 1684 1689	Fobes
+T35	Date 2048 2066	November 12 , 2009
+T36	Date 2071 2089	November 24 , 2009
+T38	Date 2230 2247	November 5 , 2009
+T39	Date 2250 2268	November 12 , 2009
+T40	Date 2275 2293	November 20 , 2009
+T46	Date 2658 2676	November 16 , 2009
+T48	Date 2727 2738	November 20
+T49	Date 2771 2789	November 24 , 2009
+T50	Date 2816 2827	November 16
+T53	Date 2938 2956	November 18 , 2009
+T54	Account_Number 2985 2989	2327
+T58	Date 3081 3092	November 26
+T68	Date 3804 3822	November 15 , 2009
+T73	Date 3949 3967	November 20 , 2009
+T82	Date 4119 4137	November 15 , 2009
+T98	Date 4557 4575	November 20 , 2009
+T99	Patient_or_Family_Name 4838 4843	Fobes
+T104	Date 5462 5480	November 30 , 2009
+T105	Date 5663 5681	November 28 , 2009
+T198	Patient_or_Family_Name 6772 6777	Fobes
+T199	Age 6783 6785	54
+T241	Hospital_Name 8458 8486	Seattle Cancer Care Alliance
+T242	Provider_Name 8506 8521	Marco Mielcarek

@@ -1,0 +1,106 @@
+SEATTLE CANCER CARE ALLIANCE MEDICAL ONCOLOGY CLINIC NOTE IDENTIFICATION Mr. Smith is a 64-year - old male ex - smoker with left upper lobe squamous cell carcinoma of the lung , stage IIIA , here for followup visit prior to starting carboplatin / Taxol chemotherapy . 
+CURRENT THERAPY Carboplatin Taxol starting today . 
+PREVIOUS THERAPY None . 
+INTERVAL HISTORY Since last seen by Dr. Chow on January 11 , 2012 , the patient has been doing quite well . 
+Today he is seen without oxygen . 
+He denies any chest pain , shortness of breath or abdominal pain . 
+He is accompanied by his wife Kathy . 
+MRI of the brain on January 18 , 2012 , which showed no brain metastases . 
+CURRENT MEDICATIONS 1 . 
+Lisinopril 5 mg PO daily . 2 . 
+Levaquin 500 mg PO daily for 7 days . 3 . 
+Advair . 4 . 
+Jalyn 1 capsule PO daily . 
+REVIEW OF SYSTEMS Complete review of systems was reviewed with the patient and was positive for history of coronary artery disease , probable moderate to severe aortic stenosis . 
+He also has pulmonary function tests with severe obstruction . 
+The rest of the system was negative . 
+Denies any current pain . 
+ECOG status is 1 . 
+PHYSICAL EXAMINATION VITAL SIGNS : Temperature 36.8 degrees , heart rate 92 , respiratory rate 16 , blood pressure 120/78 . 
+Pain is 0/10 . 
+Weight is 107.8 kg . 
+GENERAL : Well - appearing male , not in distress . 
+HEENT : Normocephalic , atraumatic . 
+Pupils equal , round , reactive to light and accommodation . 
+Extraocular movements intact . 
+Pharynx is without lesions , and the palate elevates in the midline . 
+NECK : Supple and free of thyromegaly or jugular venous distention . 
+CHEST : There are no palpable chest wall lesions . 
+The chest elevates symmetrically with respirations and is clear to percussion and auscultation . 
+Very soft breath sounds , no crackles , no wheezes . 
+CARDIAC : S1 and S2 are normal . 
+He had a late peak systolic murmur at aortic area radiating to carotid . 
+No gallops . 
+The point of maximal impulse is not displaced . 
+ABDOMEN : Nontender , without palpable masses or hepatosplenomegaly . 
+EXTREMITIES : Full range of motion , without clubbing , cyanosis , or edema . 
+No petechiae . 
+NEUROLOGIC : Cranial nerves II - XII grossly intact . 
+Gait is normal . 
+MENTAL STATUS : Alert and oriented times three . 
+Mood is normal . 
+NODES : There are no palpable cervical , supraclavicular , axillary , or inguinal lymph nodes . 
+LABORATORY Sodium 138 , potassium 3.9 , chloride 103 , bicarb 26 , glucose 174 , BUN 22 , creatinine 1.4 , and calcium 9.4 . 
+LDH 131 , AST 11 , ALT 10 , alkaline phosphatase 88 , total bilirubin 0.3 , total protein 6.9 , albumin 3.7 . 
+White count 9 , hematocrit 43 , platelets 220,000 , ANC 480 . 
+RADIOLOGY Patient had MRI of the brain on January 18 , 2012 , which showed no brain metastases . 
+ASSESSMENT AND PLAN Mr. Smith is a 64-year - old male exsmoker with stage IIIA squamous cell carcinoma of the lung here for systemic chemotherapy . 
+He has a followup visit prior to his first dose of chemotherapy . 
+We discussed with the patient that he had a stage IIIA lung cancer . 
+He is an ex - smoker , he had multiple comorbidities with moderate to severe aortic stenosis , renal dysfunction insufficiency and one kidney due to history of renal cell carcinoma , as well as severe COPD . 
+He is likely not a surgical candidate because of the comorbidities , but surgery is not completely ruled out of the question . 
+We plan to initiate 2 cycles of carboplatin Taxol chemotherapy ( Taxol 175 mg / m(2 ) and carboplatin AUC of 5 every 3 weeks ) and address response . 
+If he has excellent response , that would decrease his radiation field , and then we would recommend to have low - dose carboplatin at AUC of 2 and Taxol 50 mg / m(2 ) weekly , with concurrent radiation therapy . 
+Afterwards , he might consider additional 2 cycles of carbo Taxol chemotherapy . 
+This will be quite difficult because of his comorbidity . 
+We will also get a baseline CT scan of the chest . 
+His last CT of the chest was about 2 months ago . 
+We did spend a lot of time today talking about the side effects of chemotherapy , in general will be losing hair , decreased blood counts , decreased red cells , white cells , and platelets . 
+We would prophylactically use Neulasta to increase white cells , but if white cell count goes down , the patient might have an increased chance of infection or neutropenic fever . 
+The patient was advised to call us 24/7 if he has fever or chills . 
+Chemotherapy also targets rapidly dividing cells , so might have diarrhea , as well as nausea and vomiting . 
+If he has low red cell , he might need red cell transfusion . 
+He will feel tired and fatigued . 
+Chemotherapy can cause thrombocytopenia or low platelet count , with increased chance of infection , or necessitate a platelet transfusion . 
+Taxol may also cause neuropathy cumulatively and he may also have allergic reactions , myalgia , mucositis . 
+The patient was also given Decadron to take 1 to 3 days after chemotherapy , as well as given prescription for Zofran , Compazine and Ativan with Imodium as needed . 
+The patient was advised to call us for any questions . 
+The patient and his wife asked many excellent questions that were answered to their satisfaction . 
+They showed excellent grasp of current situation and treatment options , and they agree with the current plan . 
+The patient was seen and discussed with Dr. Laura Chow . 
+ATTENDING ADDENDUM Mr. Bruce Smith is a very complicated , 64-year - old man with a history of a stage IIIA left upper lobe squamous cell carcinoma with cavitation . 
+Mr. Smith is a 64-year - old man who comes today for his first cycle of induction chemotherapy with Taxol and carboplatin . 
+He has a number of comorbidities including COPD , pneumonia , critically severe aortic stenosis , a very poor pulmonary reserve due to COPD and has required oxygen . 
+He has had a previous nephrectomy and has a solitary kidney and has renal dysfunction with creatinine ranging from 1.5 to 1.7 . 
+He has sleep apnea , multiple disk herniations and a history of foot drop . 
+He has hypertension and benign prostatic hypertrophy . 
+He also has a 60 pack - year smoking history and quit 1 year ago . 
+Mr. Bruce Smith and I discussed that we would plan for induction chemotherapy with Taxol and carboplatin for 2 cycles . 
+We would like to try and limit the amount of lung volume that is being irradiated due to his very significant COPD and poor pulmonary reserve that puts his FEV1 near 1.0 . 
+He has a good performance status , but has a large number of comorbidities . 
+Therefore , we discussed that Taxol at 175 mg / m(2 ) would be hepatically cleared , not renally cleared , and the carboplatin dose will be adjusted as per his renal clearance and the dosing of both drugs would be relatively safe in renal dysfunction . 
+We also discussed today that he will have an increased risk of infection and pneumonia and likely exacerbation of COPD , as well as the fact that there is a cavitation with an increased risk of infection . 
+Therefore , he has just completed a cycle of antibiotics that I prescribed for him and the green sputum has resolved . 
+However , he is still having some hemoptysis which is minor . 
+However , this is likely unavoidable as he does have a cavitation . 
+We reviewed his x - ray today which did not look worse and looks to be stable . 
+There is no signs of any obvious infection . 
+The mass is not dramatically larger in the left upper lobe . 
+We also reviewed with him today his lab work which does show worsening renal function ; however , this has not dramatically worsened since his MRI with gadolinium . 
+We also reviewed with him his MRI of the brain which did not demonstrate any metastatic spread . 
+We spent a lot of time discussing the side effects of chemotherapy , including myalgias and allergic reactions as well as thrombocytopenia and the risk of increased bleeding . 
+He is aware to avoid all aspirin or NSAIDs . 
+We also discussed febrile neutropenia , the risk of pneumonia , COPD exacerbation , diarrhea , constipation secondary to antiemetics , nausea and vomiting , hair loss , neuropathy as well as mouth sores . 
+Mr. Smith is well aware of these side effects . 
+We did prescribe him a number of antiemetics today . 
+He will receive Aloxi intravenously and will receive dexamethasone as prophylaxis for emesis for 3 days posttreatment . 
+He will also receive 20 mg IV premedication prior to the Taxol . 
+Zofran , Compazine and Ativan have been prescribed as well as Imodium if needed . 
+Mr. Smith and I and Dr. Xie spent a considerable amount of time discussing the side effects as well as the antiemetics and in reviewing his imaging . 
+I saw and assessed Mr. Bruce Smith alongside with Dr. Bin Xie . 
+I answered all of his questions to his satisfaction . 
+We have written his chemotherapy orders with Taxol at 175 mg / m(2 ) and carboplatin AUC of 5 . 
+I feel this would be a very reasonable dose . 
+The patient is well aware and has received extensive teaching regarding antiemetics as well as the side effects of chemotherapy . 
+He has consented and wishes to proceed today . 
+Please refer to Dr. Xie 's note which I have extensively reviewed and agree with . 

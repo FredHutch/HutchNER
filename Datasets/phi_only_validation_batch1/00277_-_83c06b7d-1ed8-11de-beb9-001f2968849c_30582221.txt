@@ -1,0 +1,60 @@
+SEATTLE CANCER CARE ALLIANCE
+
+HEMATOLOGY CLINIC
+
+DATE OF SERVICE
+June 3 , 2013
+
+IDENTIFICATION
+Ms. Roberts - Hoskins is a 59 - year - old woman with newly diagnosed de novo high-risk MDS ( IPSS score 5 ) , normal karyotype by conventional cytogenetics ; FISH analysis was not performed . Blast percentage at diagnosis was 12 % to 15 % by morphology and 13 % by flow . The patient comes in today to sign consent for protocol 2592 which is a phase 1B - 2 open - label multicenter trial to evaluate the safety and preliminary efficacy of an oral hedgehog inhibitor in combination with chemotherapy ( 7 + 3 with 60 mg of daunorubicin m ( 2 ) on days 1 through 3 , and ara-C at 100 mg / m ( 2 ) as a continuous infusion from days 1 through 7 ) .
+
+INTERVAL HISTORY
+The patient reports that she is overall feeling well . At her initial visit , we discussed randomization between AML - like therapy versus MDS - like therapy for her newly-diagnosed high-risk MDS with refractory anemia with excess blasts . The patient elected to undergo AML treatment for her disease . She reports no new events since last visit . She is overall feeling well . She has chronic joint pain for which she is taking anti-inflammatories and an opiate agonist - buprenorphine . She is accompanied by her daughter - in - law . She moved to Seattle to her ex - husband 's house to be closer to the SCCA for the duration of her leukemia treatment . She reports some concern as her room had some moist mold . She claims that she did some cleaning , but most of it was done by her daughter - in - law . Currently , the room has no visible molds . The room is well ventilated and gets partial sun light .
+
+MEDICATIONS
+1 .
+Cymbalta .
+2 .
+Armour Thyroid .
+3 .
+Estradiol .
+4 .
+Combivent .
+5 .
+Trazodone .
+6 .
+Buprenorphine .
+
+PHYSICAL EXAMINATION
+GENERAL : This is a well-appearing woman , very pleasant , in no distress .
+VITAL SIGNS : Temperature 36.7 Celsius , pulse 80 , respiratory rate 14 , blood pressure 142 / 70 . Weight 78.5 kilos .
+HEENT : Oropharynx is clear . Good dentition . No lesions .
+NECK : Supple . No lymphadenopathy appreciated on exam .
+CARDIOVASCULAR : Regular rhythm and rate . No murmurs , rubs , or gallops .
+LUNGS : Clear bilaterally .
+ABDOMEN : Soft , nontender . No hepatosplenomegaly .
+EXTREMITIES : No edema .
+
+LABORATORIES
+None from today .
+
+STUDIES
+A pre-treatment EKG performed today showed normal sinus rhythm with a ventricular rate of 66 , a PR interval 170 , QT of 420 , QTc 440 msec . There is no ST elevation or TO wave abnormalities noted .
+
+ASSESSMENT AND PLAN
+Ms. Kevin Roberts - Hoskins is a 59 - year - old woman with a history of asthma , depression , and pain , presumably from osteoarthritis , who was recently diagnosed with de novo MDS - refractory anemia excess blasts , high-risk disease with IPSS score of 5 , normal karyotype , but no FISH analysis performed ( blast percentage by morphology estimated 12 % to 15 % , and by flow at 13 % ) . ECOG is 1 . Path slides from outside had been requested , but not reviewed at the University of Washington yet . The patient comes in today to learn more about protocol 2592 , possibly signing consents for initiation of treatment .
+
+I had a long discussion with the patient and her daughter-in-law today in regards to her diagnosis , prognosis , and treatment options . This was also carefully discussed with the patient on her initial visit ; please refer to my note from May 20 , 2013 . The patient was offered randomization between MDS versus AML - like therapy for high-risk MDS . Nonetheless , she elected to undergo AML treatment . Given the fact high-risk MDS is a difficult disease to treat and results from standard therapy are poor , participation in clinical trial eis very resonable . I explained to her that this trial includes the back - bone of 7 + 3 , which is the standard therapy for AML modified by hedgehog inhibitor . The hedgehog inhibitor is given orally starting 3 days prior to initiation of chemotherapy ; this can be done as outpatient . Three days after hedgehog , she is admitted to the hospital for administration of chemotherapy , which includes daunorubicin at 60 mg / m ( 2 ) from days 1 through 3 and ara-C at 100 mg / m ( 2 ) as continuous infusion from days 1 through 7 . Hedgehog is given continuously throughout chemotherapy . She will continue on hedgehog after completion of chemotherapy as well . We discussed the toxicities from this regimen . Hedgehog , in general , is a well - tolerated drug . Side-effects include mostly fatigue , gastrointestinal upset , and taste change including a metallic taste . It is also associated with QTc prolongation , which would be closely monitored throughout her treatment by regular ECGs . If QTc is significantly prolonged , hedgehog will need to be withheld . If chemotherapy administration is uneventful , she can be discharged home to continue counts , monitoring as an outpatient . We discussed the side effects from chemotherapy , which include cytopenias requiring blood and platelet transfusions , fevers , and infectious complications , which can be life - threatening . I also discussed with her that in the event she develops a fever , with temperature greater than 100.4 Fahrenheit , she should go immediately to the nearest emergency department . She has the contact information to also call the SCCA or University of Washington . Hair loss , nausea and vomiting , which can be well-controlled with current antiemetics available were also discussed .
+
+I then explained to her the additional studies required on this clinical trial , including pharmacokinetic studies that will be performed frequently throughout this study . Tara , the study coordinator , was also present to further elucidate the schedule of pharmacokinetic studies and EKGs required on this protocol . The patient also is going to have a MUGA scan prior to initiation of anthracycline . We went over the cardiac toxicities from anthracycline , which is often secondary to cumulative doses of anthracycline .
+
+In terms of disease assessment , a bone marrow aspirate will be performed as per protocol on day 21 + 7 days . If she is in remission , then consolidation with ara-C at 1 gram / m ( 2 ) twice a day on days 1 , 3 and 5 , will be given according to the protocol . Hedgehog is also given continuously without interruption . This post - remission chemotherapy is given in 2 to 4 cycles depending on how well the treatment is tolerated . This protocol also has a maintenance component that follows the completion of consolidation and is given up to 6 months after consolidation .
+
+The patient is young and eligible for curative therapy with allogeneic stem cell transplantation . HLA typing and donor search have been initiated . Of note , the patient has no sibling donors .
+
+I also discussed infectious prophylaxis with antibiotics once ANC is below 500 . Antivirals with acyclovir , as well as antifungals . Given the fact that azoles also increase QTc prolongation , we will caspofungin or micafungin infusion while ANC < 500 for antifungal prophylaxis to avoid additional QTc prolongation .
+
+We plan to complete the pre-chemo workup tomorrow . She is scheduled to have a Hickman line placement tomorrow after which she will start hedgehog . We will plan to admit her to the hospital on Friday for chemotherapy . The patient signed consent for involvement of this clinical protocol . Of note , she was given the consent form and protocol information to take home on her visit on May 20 , 2013 . She had a number of appropriate questions , which I answered in detail .
+
+TIME STATEMENT
+I spent 45 minutes face - to - face with the patient . The majority of time was in counseling and coordination of care in regards to the treatment of newly diagnosed de novo MDS and chemotherapy toxicities as described above .
