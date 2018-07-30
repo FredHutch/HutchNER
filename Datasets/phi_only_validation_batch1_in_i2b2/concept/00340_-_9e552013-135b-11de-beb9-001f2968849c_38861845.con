@@ -1,0 +1,5 @@
+c="SEATTLE CANCER CARE ALLIANCE CLINIC" 1:0 1:4||t="hospital_name"
+c="54" 1:12 1:12||t="age"
+c="Allen" 1:8 1:8||t="patient_or_family_name"
+c="Karen" 3:4 3:4||t="patient_or_family_name"
+c="Spain" 20:8 20:8||t="address_and_components"

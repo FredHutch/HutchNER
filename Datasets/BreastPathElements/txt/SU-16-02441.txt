@@ -1,0 +1,108 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    ANGELOS , JULIE ANN MRN :        U3761284      ( UWMC ) DOB :        Dec   4 1976 SEX :        F . 
+CASE :    SU-16 - 02441    COLLECTED :   Jan 28 2016   RECEIVED : Jan 29 2016 * * * * 
+THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : IHC / IF Results Revision # 2 ( See end of report for new text ) : FISH / PCR Results _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A ) Left breast , mastectomy : * Multifocal invasive ductal carcinoma ( 3 separate foci ) ; please see comment and Summary Cancer Data below . 
+B ) Left axillary lymph nodes , dissection : * 1 of 27 lymph nodes positive for carcinoma ( 1.5 cm ) with focal extracapsular extension with associated biopsy site changes . 
+C ) Left breast implant , removal : * Medical device , consistent with breast prosthesis ( gross diagnosis only ) . 
+D ) Additional left breast skin , excision * Skin and subcutaneous tissue with no neoplasm identified COMMENT : Lesions # 1 and # 2 ( 5:00 , 6 cm from nipple and 4:00 , 4.5 cm from nipple , respectively ) and morphologically similar with the same grade ( Nottingham III ) .   
+Lesion # 3 ( 3:00 , 3.0 cm from nipple ) has somewhat different morphology and is overall Nottingham grade II .   
+Therefore , it is favored that given the same morphology and close proximity to one another , lesions # 1 and # 2 are likely representative of the same primary , and that lesion # 3 is a separate primary . 
+This is further supported by the absence of neoplasm in intervening breast parenchyma between masses .   
+However , given the documented metastasis to the lymph node , it is quite possible that all three lesions are representative of the same primary with direct extension and/or deposits along lymphatics .   
+The largest contiguous focus ( lesion # 2 ) is 1.3 cm and will be used for staging purposes below ; however , if all 3 lesions were considered 1 contiguous process , the overall span would be an estimated 6.3 cm which would change the stage from a pT1N1a to a pT3N1a .     
+Lesions # 1 and # 2 are previously reported as positive for estrogen and progesterone receptor expression ( Allred scores 8 and 8 of 8) and negative for HER2 protein overexpression by IHC , Ki-67 15 - 25% .   
+Prognostic markers can be performed on lesion # 3 or the lymph node metastasis upon request if clinically indicated . 
+SUMMARY CANCER DATA : Specimen and procedure Procedure :     Total mastectomy ( including nipple and skin ) Specimen laterality :     Left Invasive carcinoma with the following features : Histologic type :     Invasive ductal carcinoma , NOS ( 85003 ) Size ( largest focus ) :     1.3 cm Focality of invasive carcinoma :     Multiple biologically separate invasive carcinomas Histologic type of separate invasive carcinoma : Invasive ductal carcinoma Size of separate invasive carcinoma(s ) : 1.0 cm ( 5:00 mass , lesion # 1 )   and 0.7 cm ( 3:00 mass , lesion # 3 ) Nottingham grade of separate invasive carcinoma(s ) : 3 and 2 , respectively Separate carcinoma(s ) comment : : Corresponds with radiographic findings . 
+Stage is based on largest mass ( 4:00 , lesion # 2 ) Ancillary studies of separate invasive carcinomas : SU15 - 233040 : 5:00 mass : ER and PR positive ( Allred scores of 8 and 8) , negative for Her2 by IHC ( 1 + ) , Ki-67 proliferation index : 25% Prognostic & predictive markers for 3:00 mass can be performed if indicated , upon request . 
+Nottingham Grade :     Grade III : 8 - 9 points - Tubule Formation :     3 points ( < 10% ) - Nuclear Pleomorphism :     2 points ( moderate ) - Mitotic Activity :     
+3 points Ancillary Studies Source :     Previous UW Medicine biopsy Accession number :     SU15 - 233040 Estrogen receptor :     Positive Allred score :     8 of 8 Progesterone receptor :     Positive Allred score :     8 of 8 c - erb - B2 ( her 2 ) by IHC :     Negative for her 2 overexpression by IHC Ki-67 proliferative index :     15% HER 2 by FISH :     Not performed / reported Skin status :     Not involved Nipple status :     Not involved Skeletal muscle status :     Skeletal muscle not present Ductal carcinoma in - situ ( DCIS ) :     Present ( 85002 ) Nuclear grade of DCIS :     Intermediate Necrosis associated with DCIS :     Not identified DCIS qualifies as " extensive intraductal component " ? :     
+No Comment about DCIS : DCIS is present in association with invasive carcinoma ( predominately lesions # 2 and # 3 ) Additional findings :     Other finding(s ) papilloma Changes consistent with previous biopsy site :     Present Comment about previous biopsy site : Biopsy sit changes are present in association with lesions # 1 and # 2 and the positive lymph node . 
+Microcalcifications :     
+Present in invasive carcinoma Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Invasive carcinoma > = 0.2 cm and < 0.5 cm from at least one margin Invasive carcinoma margin detail : Lesion # 1 is 0.3 cm to inferior and posterior margins , lesion # 2 is 0.3 cm from posterior margin , and lesion # 3 is 0.1 cm from posterior margin ; remainder of margins > 0.5 cm . 
+DCIS margin :     DCIS > = 0.5 cm from all margins Lymph node involvement Sentinel nodes :     Sentinel nodes with carcinoma 0     / Total sentinel nodes 0 Non - sentinel nodes :     Non - sentinel nodes with carcinoma : 1     / Total non - sentinel nodes : 27 Non - sentinel node comment : Given size of metastasis and biopsy site changes , this most likely represents the same lymph node biopsied as SU15 - 233040 - Total number of nodes with macrometastases :     1 - Total number of nodes with micrometastases :     0 - Total number of nodes with isolated tumor cells :     0 
+Size of largest metastatic focus :     1.5 cm Extracapsular Extension :     Present Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) 
+TNM descriptors :     m ( multiple ipsilateral independent primaries ) Primary tumor [ pT ] :     pT1c : Tumor > 1.0 cm and < = 2.0 cm - greatest dimension Regional nodes [ pN ] : pN1a : Metastasis in 1 to 3 axillary lymph nodes ( at least 1 tumor deposit greater than 2.0 mm ) N stage modifier :     none _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : C50.912 left breast cancer . 
+Per Mindscape , 3 irregular masses in lower quadrant : " lower outer quadrant at 4:00 o'clock and 5:00 o'clock , with two irregular masses measuring 16 and 11 mm in maximum dimension respectively . 
+Biopsy marker clips are site . 
+The total span of biopsy - proven malignancy measures 40 mm . " 
+In addition : " irregular mass in the lower outer quadrant at 3:00 o'clock , abutting the intact subpectoral silicone implant , which measures 10 mm in maximum dimension . 
+Findings represent a suspicious abnormality ... 
+If positive for disease this would increase the total span of disease to 60 mm . " 
+GROSS DESCRIPTION : A )     Received :   Fresh in a container designated " Angelos , Julie Ann " and " A , left breast - short superior , long lateral . " Specimen type :   Skin - sparing mastectomy Formalin time :   7:55 a.m. on January 29 , 2016 Tissue obtained for tumor banking : 
+No Weight :   557 g 
+Overall size :   21.0 SI x 18.0 ML x 2.5 AP cm Axillary tail :   Not present . 
+Skin :   Tan - pink , elliptical , 4.0 x 3.0 cm .   
+No lesions or scars . 
+Nipple and Areola : Unremarkable 4.0 x 3.0 cm areola with unremarkable 2.0 x 1.7 cm nipple Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Sectioning :   Medial to lateral in 18 slices of 0.5 cm average thickness Findings : Lesion # 1 :   White , somewhat well - circumscribed nodule near inferior superficial edge of specimen . 
+Location :   5:00 , 6 cm from nipple 
+Size : 0.8 x 1.0 x 0.9 cm Distance to deep margin : 0.5 cm Distance to anterior superficial margin :   7.0 cm Distance to inferior superficial margin : 0.2 cm Relationship to other lesions / structures :   3.5 cm from Lesion # 2 Evidence of prior biopsy or procedure :   Present , needle tract site identified Submitted :   Entirely Lesion # 2 :   Pink - white well - circumscribed lesion involving slices 7 & 8 . 
+Location :   4:00 , 4.5 cm from nipple 
+Size : 1.3 x 0.6 x 0.7 cm Distance to deep margin : 1.5 cm Distance to superior superficial margin : 4.0 cm Distance to inferior superficial margin : 0.8 cm Relationship to other lesions / structures :   2.5 cm from Lesion # 3 and 3.5 cm from Lesion # 1 Evidence of prior biopsy or procedure :   Needle tract biopsy site present Submitted :   Entirely Lesion # 3 :   White , firm well - circumscribed lesion at mid - depth location Location :   3:00 , 3.0 cm from nipple 
+Size : 0.5 x 0.6 x 0.7 cm Distance to deep margin : 2.0 cm Distance to superior superficial margin : 2.5 cm Distance to inferior superficial margin : 1.3 cm Relationship to other lesions / structures :   2.5 cm from Lesion # 2 and 3.8 cm from Lesion # 1 Background breast :   90% unremarkable yellow lobulated tissue with intervening white fibrous bands .   
+There is a small site of increased nodularity in the inner upper quadrant , mid depth , slice # 11 , which is sampled as mentioned below .   
+There is an area of smooth surface on the posterior inferior margin , consistent with implant capsule . 
+Axillary tail :   Not present . 
+Submitted :   Representative sections are submitted as follows : A1 - nodular parenchyma in slice 11 A2-A5 - Lesion # 1 entirely submitted A6 - inferior to Lesion # 1 , slice 13 A7 - lateral to Lesion # 1 , slice 12 A8 - medial to Lesion # 1 , slice 15 A9 - tissue between lesions 1 , 2 and 3 with part of needle tract to Lesion # 2 , slice 13 A10-A13 - Lesion # 2 , entirely submitted , slices 12 and 13 , lateral to medial A14 , A15 - Lesion # 3 , entirely submitted , slice 14 A16 - medial to Lesion # 3 in slice 15 A17 - tissue lateral to Lesion # 2 in slice # 11 A18 - tissue somewhat between Lesions 1 and 2 in slice # 12 A19 - upper outer quadrant A20 - outer lower quadrant A21 - inner lower quadrant A22 - upper inner quadrant A23 - nipple The specimen is reviewed with Melissa Ardales , Pathology Assistant . ( PDS / kc ) B )     
+Received fresh labeled " Angelos , Julie , B , left axillary node dissection , stitch at level II " is a 10.0 x 6.0 x 2.5 cm portion of yellow , lobulated adipose tissue with a suture marking level II lymph node .   
+The specimen is bisected and serial sections are made and numerous lymph node candidates are identified and submitted as follows : B1 - four individual lymph nodes B2 - two possible lymph nodes B3 - two possible lymph nodes B4 , B5 - one trisected lymph node Cassettes B1 and B5 are level I lymph nodes . 
+B6 - one bisected lymph node B7 - four possible lymph nodes B8 - four possible lymph nodes B9 - five possible lymph nodes B10 - four possible lymph nodes B11 - one bisected lymph node B12 - one bisected lymph node ( ANS / kc ) C )     Received fresh labeled " Angelos , Julie Ann , C. left breast implant " is a 12.5 x 12.5 x 4.0 cm intact breast prosthesis filled with silicone - like material .   
+The manufacturer 's markings are " MENTOR 5751648 400 CC " .   
+No soft tissue is identified for microscopic evaluation .   
+Photograph is taken .   
+( MUA / kc ) D )     Received fresh labeled " Angelos , Julie , D. breast skin " is a 21.0 x 0.6 cm fragment of skin and associated fibroadipose tissue .   
+The skin is tan - white , tan - pink and appears edematous .   
+There are no lesions or scars identified .   
+Representative sections are submitted in cassettes D1-D3 .   
+( ANS / kc ) Nicole K Andeen MD Resident 02/01/2016 Mark R Kilgore MD Pathologist Electronically signed 02/02/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+ADDENDUM REASON : To report results of breast prognostic markers ( requested by treating clinician ) . 
+Fluorescence in - situ hybridization for HER2 gene amplification in the node metastasis will be reported in a separate addendum . 
+IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : B5 Population : Carcinoma from node metastasis in part B Interpreted by :   Colin P NewBill , MD and Mark R Kilgore , MD Block     Label     Marker For     Results     Special Pattern or Comments B5     ER     Estrogen Receptor [ SP1 ]     > 95 % positive cells     Intensity : Strong ; Allred score 8 of 8 B5     PR88     Progesterone Receptor [ PR88 ]     > 95 % positive cells     Intensity : Strong ; Allred score 8 of 8 Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IMMUNOHISTOCHEMISTRY REPORT : Source ( Original Label ) : A15 Population : Carcinoma from Lesion # 3 in part A Interpreted by :   Colin P NewBill , MD and Mark R Kilgore , MD Block     Label     Marker For     Results     Special Pattern or Comments A15     ER     Estrogen Receptor [ SP1 ] , Quantitative Evaluation     > 95 % positive cells     Intensity : Strong ; Allred score 8 of 8 A15     HER2 ( w / HIER )     HER2   ( w/ HIER ) , Quantitative Evaluation     No over - expression ( 0 - 1 + ) A15     Ki-67     Ki-67 [ MIB-1 ] , Quantitative Evaluation     15 % positive cells A15     PR88     Progesterone Receptor [ PR88 ] , Quantitative Evaluation     > 95 % positive cells     Intensity : Strong ; Allred score 8 of 8 ER / PR and HER2 immunohistochemical analyses are performed in accordance with 2013 CAP / ASCO guidelines [ Wolff , Hammond et al ] . 
+Department of Pathology protocols dictate that breast cancer containing tissue will be fixed in neutral buffered formalin for a minimum of 6 hours to a maximum of 72 hours for HER2 , ER and PR , unless otherwise noted in this report . 
+ER and PR stains are interpreted using a modified H - score system ( Allred ) based on the proportion of cells staining and intensity of staining : > 1% of cells with weak staining intensity ( Allred score 3 of 8) is the clinically validated threshold for a positive result [ Harvey et al ] HER2 interpretative criteria are those recommended by CAP / ASCO , where 3 + staining ( intense , uniform , homogeneous circumferential membrane staining in > 10% of tumor cells ) is required for a positive ( " high over - expression " ) result . 
+Cases with 2 + ( equivocal ) HER2 staining will be tested for gene amplification using a validated fluorescent in - situ hybridization ( FISH ) technique . 
+These assays have not been validated on decalcified tissues . 
+Results using decalcified tissues should be interpreted with caution , given the likelihood of false negativity in this testing environment . 
+When the above stain result indicates ' Quantitative Evaluation ' , a manual morphometric scoring of the stain was performed . 
+Grimm EE , et al . 
+Am J Clin Pathol ( 2010 ) 14 ; 284 - 92 . 
+Hammond ME , et al . J Clin Oncol ( 2010 ) 
+28 ; 2784 - 95 . 
+Harvey et al . 
+J Clin Oncol ( 1999 ) 17 ; 1474 - 81 . 
+Wolff AC , et al . 
+Arch Pathol Lab Med ( 2013 ) 137 . 
+Note :   The detection system used is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+Mark R Kilgore MD Pathologist Electronically signed 
+02/11/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+ADDENDUM REASON : To report results of HER2 gene amplification by fluorescence in - situ hybridization . MICROSCOPIC DESCRIPTION : A recut slide confirms residual invasive carcinoma in the block . 
+DNA ANALYSIS : Source ( Original Label ) : B5 Population : Carcinoma cells in lymph node metastasis Interpreted by :   Colin NewBill , MD and Suzanne Dintzis , MD , PhD Block     Label     Marker For     Results     Special Pattern or Comments B5     FISH H2N/17     ICC FISH Her2Neu PROBE     1.96 signals / cell B5     FISH H2N/17     ICC FISH Chromosome 17 PROBE     1.69 signals / cell Ratio : 1.2         Interpretation : NEGATIVE for gene amplification Unstained sections are prepared and regions of invasive carcinoma are marked by comparison with H&E - stained sections from the same block .   
+Fluorescence in situ hybridization for the Her-2/neu gene is then carried out using the FDA - approved Vysis Path Vysion HER-2 DNA probe kit .   
+The prepared slides are then viewed under a fluorescent microscope with appropriate filters for the chromosome 17 probe ( green ) , the Her-2/neu probe ( orange ) and DNA ( blue ) to localize nuclei .   
+Signals are counted from up to 60 cells and the ratio of Her-2/neu to chromosome 17 signals is computed .   
+Control slides from non - amplified and low - level amplified tumor cells are prepared simultaneously to ensure reproducibility between assays .   
+Results for this morphometric , multiplex assay are listed in the table above . 
+Note : 
+According to the 2013 ASCO / CAP Guideline Recommendations for HER2 testing in breast cancer ( J Clin Oncol 2013 ; 31 : 3997 - 4013 ) , ratios for HER2/CEP17 of less than 2.0 are interpreted as negative , ratios greater than or equal to 2.0 are interpreted as positive , and ratios less than 2.0 with an average HER2 signals / cell greater than or equal to 4.0 and less than 6.0 are interpreted as equivocal for gene amplification . 
+Alternatively , cancers having single - probe average greater than or equal to 6.0 HER2 signals / cell are interpreted positive and less than 4.0 HER2 signals / cell are interpreted as negative . 
+Suzanne   Dintzis MD , PhD Pathologist Electronically signed 
+02/11/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 

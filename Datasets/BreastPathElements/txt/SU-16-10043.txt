@@ -1,0 +1,45 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    KATZ , BARBARA JEAN MRN :        U0178003      ( UWMC ) DOB :        May 31 1949 SEX :        F . 
+CASE :    SU-16 - 10043    COLLECTED :   Apr 18 2016   RECEIVED : Apr 18 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A )     Right axillary sentinel lymph node # 1 , excision : Two lymph nodes , negative for carcinoma , ( 0/2 ) . 
+B )     Right axillary sentinel lymph node # 2 , excision : One lymph node , negative for carcinoma , ( 0/1 ) . 
+C )     Right axillary sentinel lymph node # 3 , excision : One lymph node , negative for carcinoma , ( 0/1 ) . 
+D )     Right breast , lumpectomy : Invasive ductal carcinoma ; see Cancer Summary Data . 
+E )     Right breast , true medial - posterior margin , excision : Ductal carcinoma in - situ with the following features : Intermediate nuclear grade with no necrosis identified . 
+Span of In - situ carcinoma 0.2 cm . 
+Margin : In - situ carcinoma at least 0.5 cm from the inked margin . 
+Microcalcifications : Not identified . 
+Negative for invasive carcinoma . 
+SUMMARY CANCER DATA : Specimen and procedure Procedure :     Excision with wire - guided localization Specimen laterality :     Right Invasive carcinoma with the following features : Histologic type :     Invasive ductal carcinoma , NOS ( 85003 ) 
+Size ( largest focus ) :     2.5 cm Comment about size determination :     Greatest dimension is medial to lateral Focality of invasive carcinoma :     Single contiguous focus Nottingham Grade :     Grade II : 6 - 7 points - Tubule Formation :     3 points ( < 10% ) - Nuclear Pleomorphism :     3 points ( severe ) - Mitotic Activity :     1 point Ancillary Studies Source :     Previous UW Medicine biopsy Accession number :     SU-16 - 6609 Estrogen receptor :     Positive Allred score :     8 of 8 Progesterone receptor :     Positive Allred score :     7 of 8 c - erb - B2 ( her 2 ) by IHC :     Equivocal for her 2 overexpression by IHC Ki-67 proliferative index :     20% HER 2 by FISH :     
+Negative for HER 2 gene amplification by FISH Ancillary studies comment : Neoplastic cells stained positive on immunohistochemical staining for E - cadherin , consistent with ductal origin ( slide D7 ) . 
+Angiolymphatic Space Invasion :     Not identified Skin status :     Not involved Nipple status :     Can not assess ( nipple not present ) Skeletal muscle status :     Skeletal muscle not present Ductal carcinoma in - situ ( DCIS ) :     Present ( 85002 ) Nuclear grade of DCIS :     Intermediate Necrosis associated with DCIS :     Not identified Distance spanned by DCIS :     2.5 cm DCIS qualifies as " extensive intraductal component " ? :     
+No Changes consistent with previous biopsy site :     Present Microcalcifications :     Present in non - neoplastic tissue Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Invasive carcinoma < 0.2 cm from at least one margin Invasive carcinoma margin detail : Invasive carcinoma < 0.1 cm from medial margin of lumpectomy specimen ( slide D2 ) , however , > 0.5 cm from final surgical margin ( re - excised medial posterior margin , specimen E ) . 
+Invasive carcinoma > 0.5 cm from all other margins DCIS margin :     DCIS present at an inked margin DCIS Margins : DCIS is preset < 0.1 cm from medial margin of lumpectomy specimen , however , > 0.5 cm from final surgical margin ( re - excised posterior medial margin specimen E ) . 
+DCIS > 0.5 cm from all other margins . 
+Lymph node involvement Sentinel nodes :     Sentinel nodes with carcinoma 0     / Total sentinel nodes 4 Non - sentinel nodes :     Non - sentinel nodes with carcinoma : 0     / Total non - sentinel nodes : 0 - Total number of nodes with macrometastases :     0 - Total number of nodes with micrometastases :     0 - Total number of nodes with isolated tumor cells :     0 Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) 
+TNM descriptors :     none Primary tumor [ pT ] :     pT2 : Tumor > 2.0 cm and < = 5.0 cm - greatest dimension Regional nodes [ pN ] :     pN0 : No regional lymph node metastasis histologically ( ITCs may be present ) N stage modifier :     ( sn ) : 
+Only sentinel node(s ) evaluated . _ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ INTRAOPERATIVE CONSULTATION : A.   Right axilla sentinel lymph node # 1 ( ATP1 and ATP2 ) :   Negative for carcinoma .   
+Per Dr. Thomas Long and Matthew Yeh at 4:30 p.m. on 04/18/2016   ( CXH / clk ) 
+B.   Right axilla sentinel lymph node # 2 ( touch preparation ) :   Negative for carcinoma .   
+Per Dr. Thomas Long and Matthew Yeh at 4:30 p.m. on 04/18/2016   ( CXH / clk ) C.   Right axilla sentinel lymph node # 3 ( touch prep ) :   Negative for carcinoma .   
+Per Dr. Thomas Long and Matthew Yeh at 4:30 p.m. on 04/18/2016   ( CXH / clk ) CLINICAL DATA : Right sentinel lymph node biopsy .   
+Right needle localized lumpectomy . 
+GROSS DESCRIPTION : A )     Received fresh labeled " Katz , Barbara ; A. right axillary sentinel lymph node # 1 " is a 2.5 x 1.5 x 0.6 cm portion of fibroadipose tissue and lymphoid with two lymph node candidates identified , 0.8 - 0.9 cm .   
+Each is bisected and a touch preparation is performed .   
+The specimen is submitted in A1-A2 ( A1 = 0.8 cm lymph node candidate and A2 = 0.9 cm lymph node candidate ) .   
+( CXH / clk ) B )     Received fresh labeled " Katz , Barbara ; B. right axillary sentinel lymph node # 2 " is a 1.2 x 1.1 x 0.4 cm portion of fibroadipose tissue and lymphoid with a 0.5 cm lymph node candidate identified that is bisected and a touch prep is performed .   
+The specimen is submitted in B1 .   
+( CXH / clk ) C )     Received fresh labeled " Katz , Barbara ; C. right axillary sentinel lymph node # 3 " is a 1.2 x 1 x 0.3 cm portion of fibroadipose tissue and lymphoid with a 0.9 cm lymph node candidate identified that is bisected and a touch preparation is performed .   
+The specimen is submitted in C1 .   
+( CXH / clk ) D )     Received :   Fresh in a container designated " Katz , Barbara " and " right breast lumpectomy " Specimen type :   Lumpectomy Formalin time :   7:25 a.m. on 04/19/2016 , total fixation 10.5 hours Tissue obtained for tumor banking : No Weight :   66 
+g Size :   3.2 cm SI by 6.4 cm ML by 6.4 cm AP Oriented With :   Inking protocol Ink :   Per protocol by the surgeon :   superior = red , inferior = blue , anterior = green , posterior = black , medial = yellow , lateral = orange . 
+Sectioning :   Medial to lateral in eight sections of 0.5 cm average thickness with the first and last slices measuring 0.8 - 0.9 cm Findings :   Lesion # 1 : Size : 2.3 x 1.9 x 1.8 cm Biopsy site :   Identified with clip in slice 2 , lateral side Distance to margins : 0.3 cm to medial margin , > 0.5 cm to all margins Relationship to other structures :   Lesion present in slices 2 - 4 , with possible extension into medial aspect of slice 5 Submitted : As follows Cassettes submitted : D1-D3 - perpendicular medial margins at closest approach to lesion ( central 80% of slice 1 ) D4 - cross section of mass in slice 2 , medial side D5 - flanking sections and remainder of medial surface of slice 2 D6-D9 - complete cross section of slice 3 , complete cross section of mass in D7 and 8 D10-D13 - complete cross section of slice 4 with composite of mass in D11 and 12 D14 - medial face of slice 5 D15 - lateral face of slice 5 D16 - bracketing section from middle of slice 6 D17 , D18 - perpendicular sections through lateral margin ( JL / clk ) E )     Received in formalin labeled " Katz , Barbara ; E. true medial - posterior margin right breast " is an 8 x 4.5 x 0.9 cm irregular and lobular portion of oriented fibrofatty tissue .   
+One side of the specimen is approximately 80% inked yellow with the remainder inked 
+black and the opposite side is uninked .   
+The specimen is serially sectioned perpendicular to the long axis and the cut surface is tan - yellow , lobular and homogenous .   
+No masses or other lesions are identified .   
+The specimen is entirely submitted sequentially in E1-E7 .   
+( CXH / clk ) Joshua   Lieberman MD , PhD AP / CP Resident 04/20/2016 Sania   Shuja MD , PhD Pathologist Electronically signed 
+04/22/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

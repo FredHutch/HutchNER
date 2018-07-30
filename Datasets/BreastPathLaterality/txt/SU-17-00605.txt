@@ -1,0 +1,86 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    WINTERS , NANCY GALE MRN :        U3976102      ( UWMC ) DOB :        Dec 18 1959 SEX :        F . 
+CASE :    SU-17 - 00605    COLLECTED :   Jan   9 2017   RECEIVED : Jan   9 2017 * * * * 
+THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : 
+Other _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A )   Right breast , 9:30 o'clock , excisional biopsy : - Breast parenchyma with cyst cavity lined by foreign body - type giant cell reaction , consistent with previous procedure site 
+. - Stromal fibrosis , focal mild ductal hyperplasia , and mild dilatation of ducts . 
+- Microcalcifications associated with benign breast parenchyma . 
+- Negative for in - situ or invasive carcinoma . 
+B )   Right breast , 11:30 o'clock , excisional biopsy : - Breast parenchyma with cyst cavity lined by foreign body - type giant cell reaction , consistent with previous procedure site . 
+- Stromal fibrosis and multiple foci of sclerosing adenosis . 
+- Microcalcifications associated with benign breast parenchyma . 
+- Negative for in - situ or invasive carcinoma . 
+C )   Right breast , 10 o'clock , lumpectomy : - Ductal carcinoma in - situ , high nuclear grade with comedo necrosis . 
+- The in - situ ductal carcinoma is present adjacent to biopsy site in an approximate area of 2 x 1.5 cm . 
+- Biopsy site identified with organizing blood , granulation tissue , hemosiderin deposition and fibrosis . 
+- Fibrocystic changes including apocrine metaplasia , sclerosing adenosis , cystic dilatation of ducts and stromal fibrosis 
+. - Microcalcifications are noted in in - situ carcinoma and in benign ducts 
+. - Margins : Closest margin ; Ductal carcinoma in - situ is focally present within 0.1 cm of superior margin . - 
+No definitive invasive carcinoma seen ( see comment ) . 
+D )   
+Right breast , superior margin , excision : - Ductal carcinoma in situ , high nuclear grade with comedo necrosis . 
+- Microcalcifications associated with benign ducts 
+. - Microcalcifications are noted in in - situ carcinoma and in benign ducts 
+. - Margins : Ductal carcinoma in - situ focally involves superior ( red ink ) margin . - 
+No definite invasive carcinoma is seen ( see comment ) . 
+COMMENT : Parts C and D : Immunohistochemical staining for smooth muscle myosin heavy chain and p63 highlights myoepithelial cells around neoplastic foci ( blocks C9 , C11 and D3 ) , supporting the impression of ductal carcinoma in - situ , with no invasive carcinoma . 
+Selected slides were reviewed by Dr. Mark Kilgore , who concurs with the above impression . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : Right breast lumpectomy x1 , and right breast excisional biopsy x2 .   
+Prior needle core biopsy of right breast non - mass enhancement at 10:00 ( 12/15/2016 ) showed high - grade ductal carcinoma in situ .   
+A right breast needle core biopsies at 11:30 and 4.0 cm from the nipple and 9:30 and 3 cm from the nipple ( 10/24/2016 ) revealed a complex sclerosing lesion .   
+Per MINDscape :   MRI showed right breast non - mass enhancement at 10:00 spanning 2.6 cm . 
+GROSS DESCRIPTION : A )     Received :   In formalin labeled " Winters , Nancy " and designated " right breast 9:30 excisional biopsy " . Specimen type :   Lumpectomy . 
+Formalin time :   Approximately 24 hours . 
+Tissue obtained for tumor banking :   No . Weight :   8 
+g. Size :   3.0 SI x 3.0 ML x 1.3 AP cm . 
+Oriented With :   Ink placed by the surgeon . 
+Ink :   Per protocol by the surgeon :   superior = red , inferior = blue , anterior = green , posterior = black , medial = yellow , lateral = orange . 
+Sectioning :   Medial to lateral in 7 slices , with a 0.4 cm average thickness . 
+Findings : Lesion # 1 :   0.6 x 0.5 x 0.4 cm tan - brown firm nodule in slices 2 and 3 . 
+Biopsy site :   Not grossly identified . 
+Distance to margins :   Abutting posterior ( black ) , 0.5 cm to superior ( red ) and inferior ( blue ) .   
+Widely free of remaining margins . 
+Lesion # 2 :   Cystically dilated lesion with gelatinous contents involving slices 6 and 7 . 
+Size :   0.5 x 0.4 x 0.3 cm . 
+Biopsy site :   A clip is identified in slice 6 . 
+Distance to margins :   0.3 cm to posterior ( black ) , 0.4 cm to anterior ( green ) , and 0.3 cm to lateral ( orange ) .   
+Widely free of remaining margins . 
+Cassettes submitted :   The specimen is entirely submitted from medial to lateral as follows : A1 - slice 1 , sectioned perpendicular to medial margin A2 - slice 2 A3 - slice 3 A4 - slice 4 A5 - slice 5 A6 - slice 6 A7-A8 - slice 7 , sectioned perpendicular to the lateral margin . 
+B )     Received :   Fresh labeled " Winters , Nancy " and designated " right breast 11:30 excisional biopsy " . 
+Specimen type :   Lumpectomy . 
+Formalin time :   Approximately 20 hours . 
+Tissue obtained for tumor banking :   No . 
+Weight :   12 g. 
+Size :   4.5 SI x 3.5 ML x 1.5 AP cm . Oriented With :   Ink placed by the surgeon . 
+Ink :   Per protocol by the surgeon : superior = red , inferior = blue , anterior = green , posterior = black , medial = yellow , lateral = orange . 
+Sectioning :   Medial to lateral in 7 slices , with a 0.4 cm average thickness . 
+Findings : Lesion # 1 :   Ill - defined tan - white nodular area centered on slice 5 . 
+Size :   0.7 x 0.6 x 0.4 cm . 
+Biopsy site :   Grossly identified as focal hemorrhage and fibrosis , slice 5 . 
+Distance to margins :   0.3 cm to superior ( red ) , 0.5 cm to inferior ( blue ) , widely free of remaining margins . 
+Cassettes submitted :   The specimen is entirely submitted from medial to lateral as follows : B1-B2 - slice 1 , sectioned perpendicular to medial margin B3 - slice 2 B4-B5 - composite slice 3 B6-B7 - composite slice 4 B8-B9 - composite slice 5 B10 - slice 6 B11-B12 - slice 7 , sectioned perpendicular to the lateral margin . 
+C )     Received :   Fresh labeled " Winters , Nancy " and designated " right breast 10:00 lumpectomy " . 
+Specimen type :   Lumpectomy . 
+Formalin time :   Approximately 20 hours . 
+Tissue obtained for tumor banking :   No . 
+Weight :   23 
+g. Size :   4.8 SI x 3.8 ML x 1.5 AP cm . 
+Oriented With :   Ink placed by the surgeon . 
+Ink :   Per protocol by the surgeon : superior = red , inferior = blue , anterior = green , posterior = black , medial = yellow , lateral = orange . 
+Sectioning :   Medial to lateral in 10 slices , with a 0.4 cm average thickness . 
+Findings : Lesion # 1 :   Ovoid well - circumscribed tan - brown nodular lesion , involving slices 3 - 6 . 
+Size :   1.0 x 0.9 x 0.5 cm . 
+Biopsy site :   Grossly identified with focal hemorrhage , slice 3 . 
+Distance to margins :   0.1 cm to superior ( red ) , 0.2 cm to posterior ( black ) , widely free of remaining margins . 
+Cassettes submitted :   The specimen is entirely submitted from medial to lateral as follows : C1-C2 - slice 1 , sectioned perpendicular to medial margin C3-C4 - composite slice 2 C5-C6 - composite slice 3 , with wire C7-C8 - composite slice 4 C9-C10 - composite slice 5 C11-C12 - composite slice 6 C13-C14 - composite slice 7 C15-C16 - composite slice 8 C17 - slice 9 C18-C19 - slice 10 , sectioned perpendicular to the lateral margin . 
+( DEB / ch ) D )     Received in formalin labeled " Winters , Nancy " and designated " right breast superior margin " is a 3.1 x 2.5 x 1.3 cm portion of yellow lobulated adipose tissue with admixed tan - white fibrous bands .   
+One surface is inked red by the surgeon .   
+The specimen is serially sectioned perpendicular to the inked margin and entirely submitted in cassettes D1-D4 .   
+( DEB / ch ) Dustin E Bosch MD , PhD Resident 01/11/2017 Sania   Shuja MD , PhD Pathologist Electronically signed 
+01/18/2017 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 
+ADDENDUM REASON : This addendum is to report additional comment on margins of Part C ( Right breast 10 o'clock ) . ADDENDUM : C ) Right breast 10 o'clock : Margins : Additional finding : Ductal carcinoma in - situ is present within 0.1 cm of anterior ( green ink margin ) along a span of 0.25 cm ( slide C7 ) . 
+Sania   Shuja MD , PhD Pathologist Electronically signed 
+01/18/2017 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

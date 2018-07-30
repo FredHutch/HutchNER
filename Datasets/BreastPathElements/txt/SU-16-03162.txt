@@ -1,0 +1,52 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    BAIRD , KIMBERLY G MRN :        U2238548      ( UWMC ) DOB :        Nov 24 1957 SEX :        F . 
+CASE :    SU-16 - 03162    COLLECTED :   Feb   5 2016   RECEIVED : Feb   5 2016 * * * * 
+THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : Additional Studies _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A ) Left breast , 11:30 mass UIQ 8 cm from nipple , core biopsy : Invasive ductal carcinoma with the following features : * Nottingham grade 1 : good tubule formation , low nuclear grade , low mitotic activity . 
+* Extent : Involving multiple tissue cores with a maximum contiguous length of 0.7 cm in this sample . 
+* Associated atypical ductal hyperplasia . 
+* Microcalcifications : present , associated with invasive carcinoma . 
+* Angiolymphatic invasion : Not identified . 
+* Prognostic / predictive markers will be performed and the results reported as an addendum . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : Left breast biopsy , irregular mass in upper inner quadrant 11:30 .   
+The specimen was collected 02/05/16 at 3:00 p.m. 
+Total fixation time :   66 hours . 
+GROSS DESCRIPTION : A )     Received in formalin labeled " Baird , Kimberly G , A. L MRI - guided needle biopsy mass 11 o'clock " are multiple 0.3 cm diameter elongated , cylindrical portions of fibrofatty tissue , 0.2 - 3.0 cm long , inked blue and entirely submitted in A1-A4 .   
+( MUA / kc ) Nicole K Andeen MD Resident 02/08/2016 Suzanne   Dintzis MD , PhD Pathologist Electronically signed 
+02/08/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+ADDENDUM REASON : To report results of prognostic and predictive markers ADDENDUM IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : A1 Population : Invasive carcinoma Interpreted by :   Nicole K Andeen , MD and Suzanne Dintzis , MD , PhD Block     Label     Marker For     Results     Special Pattern or Comments A1     SMHC     Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     
+Absent around tumor nests Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IMMUNOHISTOCHEMISTRY REPORT : Source ( Original Label ) : A1 Population : Invasive carcinoma Interpreted by :   Nicole K Andeen , MD and Suzanne Dintzis , MD , PhD Block     Label     Marker For     Results     Special Pattern or Comments A1     ER     Estrogen Receptor [ SP1 ] , Quantitative Evaluation     100 % positive cells     Intensity : Strong . 
+Allred 8 of 8 A1     HER2 ( w / HIER )     HER2   ( w/ HIER ) , Quantitative Evaluation     No over - expression ( 1 + ) A1     Ki-67     Ki-67 [ MIB-1 ] , Quantitative Evaluation     5 % positive cells A1     PR88     Progesterone Receptor [ PR88 ] , Quantitative Evaluation     90 % positive cells     Intensity : Strong . 
+Allred 8 of 8 ER / PR and HER2 immunohistochemical analyses are performed in accordance with 2013 CAP / ASCO guidelines [ Wolff , Hammond et al ] . 
+Department of Pathology protocols dictate that breast cancer containing tissue will be fixed in neutral buffered formalin for a minimum of 6 hours to a maximum of 72 hours for HER2 , ER and PR , unless otherwise noted in this report . 
+ER and PR stains are interpreted using a modified H - score system ( Allred ) based on the proportion of cells staining and intensity of staining : > 1% of cells with weak staining intensity ( Allred score 3 of 8) is the clinically validated threshold for a positive result [ Harvey et al ] HER2 interpretative criteria are those recommended by CAP / ASCO , where 3 + staining ( intense , uniform , homogeneous circumferential membrane staining in > 10% of tumor cells ) is required for a positive ( " high over - expression " ) result . 
+Cases with 2 + ( equivocal ) HER2 staining will be tested for gene amplification using a validated fluorescent in - situ hybridization ( FISH ) technique . 
+These assays have not been validated on decalcified tissues . 
+Results using decalcified tissues should be interpreted with caution , given the likelihood of false negativity in this testing environment . 
+When the above stain result indicates ' Quantitative Evaluation ' , a manual morphometric scoring of the stain was performed . 
+Grimm EE , et al . 
+Am J Clin Pathol ( 2010 ) 14 ; 284 - 92 . 
+Hammond ME , et al . J Clin Oncol ( 2010 ) 28 ; 2784 - 95 . 
+Harvey et al . 
+J Clin Oncol ( 1999 ) 17 ; 1474 - 81 . Wolff AC , et al . Arch Pathol Lab Med ( 2013 ) 
+137 . 
+Note :   The detection system used is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+Nicole K Andeen MD Resident 02/09/2016 Suzanne   Dintzis MD , PhD Pathologist Electronically signed 
+02/09/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 

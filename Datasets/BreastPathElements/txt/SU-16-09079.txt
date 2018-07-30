@@ -1,0 +1,45 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    PERKOVICH , LYNETTE MRN :        U4103588      ( UWMC ) DOB :        Jan 24 1950 SEX :        F . 
+CASE :    SU-16 - 09079    COLLECTED :   Apr   7 2016   RECEIVED : Apr   7 2016 * * * 
+* THIS IS AN AMENDED REPORT   * * * * Revision # 1 ( See end of report for new text ) : Additional Clinical Information Revision # 2 ( Amendment ) : Synoptic Summary Revised AMENDMENT REASON : Correct overall grade from I to II in synoptic template .   
+The remainder of the report is unchanged . _ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A - C ) Left axillary sentinel node # 1 - 3 , excision : Three lymph nodes negative for neoplasm . 
+D ) Left breast , mastectomy : Invasive ductal carcinoma , multifocal . 
+See Summary Cancer Data . 
+SUMMARY CANCER DATA : Specimen and procedure Procedure :     Total mastectomy ( including nipple and skin ) Specimen laterality :     Left Invasive carcinoma with the following features : Histologic type :     Invasive ductal carcinoma , NOS ( 85003 ) Size ( largest focus ) :     1 cm Comment about size determination : 
+This is the size of the lesion at 10:00 o'clock , 7 cm from the nipple , the separate lesion is largely biopsy cavity with approximately 0.1 cm of invasive carcinoma , no invasive carcinoma is identified between the lesions ; focal possible DCIS is present between the lesions . 
+Focality of invasive carcinoma :     Single dominant invasive carcinoma with smaller satellite foci of invasion Nottingham Grade :     Grade II : 6 - 7 points - Tubule Formation :     3 points ( < 10% ) - Nuclear Pleomorphism :     2 points ( moderate ) - Mitotic Activity :     1 point Ancillary Studies Source :     Previous UW Medicine biopsy Accession number :     SU-16 - 7273 Estrogen receptor :     Positive Allred score :     8 of 8 Progesterone receptor :     Positive Allred score :     8 of 8 c - erb - B2 ( her 2 ) by IHC :     Negative for her 2 overexpression by IHC Ki-67 proliferative index :     10% HER 2 by FISH :     Not performed / reported Ancillary studies comment :     Prognostic markers were performed on 10:00 o'clock core biopsy . 
+Skin status :     Not involved Nipple status :     Not involved Skeletal muscle status :     Skeletal muscle not present Ductal carcinoma in - situ ( DCIS ) :     Present ( 85002 ) Nuclear grade of DCIS :     Intermediate Necrosis associated with DCIS :     Not identified DCIS qualifies as " extensive intraductal component " ? :     No Changes consistent with previous biopsy site :     Present Microcalcifications :     Present in non - neoplastic tissue Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Invasive carcinoma > = 0.5 cm from all margins DCIS margin :     DCIS > = 0.5 cm from all margins Lymph node involvement Sentinel nodes :     Sentinel nodes with carcinoma 0     / Total sentinel nodes 3 Non - sentinel nodes :     Non - sentinel nodes with carcinoma : 0     / Total non - sentinel nodes : 0 - Total number of nodes with macrometastases :     0 - Total number of nodes with micrometastases :     0 - Total number of nodes with isolated tumor cells :     0 Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) 
+TNM descriptors :     none Primary tumor [ pT ] :     pT1b : Tumor > 0.5 cm and < = 1.0 cm - greatest dimension Regional nodes [ pN ] :     pN0 : No regional lymph node metastasis histologically ( ITCs may be present ) N stage modifier :     ( sn ) : Only sentinel node(s ) evaluated . 
+_ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ INTRAOPERATIVE CONSULTATION : A )     Left axillary sentinel node # 1 ( frozen section ) :   No overt carcinoma .   ( MUA / pwt ) 
+B )     Left axillary sentinel node # 2 ( touch preparation ) :   No overt carcinoma .   
+( MUA / pwt ) C )     Left axillary sentinel node # 3 ( touch preparation ) :   No overt carcinoma ( Camtu Truong , M.D. , Mark Kilgore , M.D. , John Scarborough , M.D. ) .   
+( MUA / pwt ) CLINICAL DATA : Left breast cancer . 
+GROSS DESCRIPTION : A )     Received fresh labeled " Perkovich , Lynnette , A. left axillary SLN # 1 " is 1.5 x 1.2 x 1.0 cm blue - dyed possible lymph node with surrounding adipose tissue .   
+Touch preparations are performed .   
+The tissue is sectioned and entirely submitted in A1 .   
+( MUA / pwt ) B )     Received fresh labeled " Perkovich , Lynnette , B. left axillary SLN # 2 " is a 1 x 0.7 x 0.4 cm possible lymph node with a small amount of surrounding adipose tissue .   
+Touch preparations are performed .   
+The tissue is sectioned and entirely submitted in B1 .   
+( MUA / pwt ) C )     Received fresh labeled " Perkovich , Lynnette , C. left axillary SLN # 3 " is a 0.5 cm diameter possible lymph node with surrounding adipose tissue .   
+Touch preparations are performed .   
+The tissue is bisected and entirely submitted in C1 .   
+( MUA / pwt ) D ) Received :   Fresh in a container designated " Perkovich , Lynnette " and " left breast " Specimen type :   Mastectomy Formalin time :   5:40 p.m. on 04/07/2016 Tissue obtained for tumor banking : No . 
+Weight :   1149 g 
+Overall size :   22.5 cm medial to lateral , 19.0 cm inferior to superior , and 5.0 cm anterior to posterior Axillary tail :   Not identified . 
+Skin :   Tan - pink , ellipse of skin measuring 21.5 x 14.9 cm . 
+Nipple and Areola : 3.2 cm areola with nipple measuring 1.2 x 1.2 x 1.0 cm . 
+Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Sectioning :   medial to lateral in 15 slices of approximately 0.7 cm average thickness Findings : Lesion # 1 : At approximately 9:00 , 1.0 cm from nipple there is a tan irregular area measuring 1.3 x 1.3 x 1.2 cm , 6.3 cm from the nearest posterior margin , 4.2 cm from the nearest anterior inferior margin and 9.8 cm from the nearest anterior superior margin .   
+A clip was identified within lesion # 1 . 
+Lesion # 2 : Location :   At approximately 10:00 , 7.0 cm from the nipple , there is a firm , partially hemorrhagic tan area measuring 1.0 x 1.0 x 0.8 cm located approximately 6.0 cm from lesion # 1 , 2.3 cm from the nearest posterior margin , 5.0 cm from the nearest anterior inferior margin , and 3.5 cm from the nearest anterior superior margin .   
+A metallic clip is present within lesion # 2 . 
+Sectioning through the breast between these two lesions and through the remainder of the breast tissue reveals no grossly identifiable lesions .   
+The background breast is composed of greater than 90% unremarkable yellow lobulated tissue with few intervening white fibrous bands . 
+Representative sections are submitted as follows : Lesion # 1 : D1-D5 - Lesion # 1 in entirety D6 - Lesion # 1 closest posterior margin D7 - closest anterior superior and anterior inferior margins Lesion # 2 : D8-D12 - Lesion # 2 in entirety D13 - nearest posterior margin D14 - nearest anterior inferior and anterior superior margin Tissue between Lesion # 1 and # 2 : D15 - breast tissue approximately 1.0 cm medial to lesion # 1 D16 - breast tissue medial to lesion # 1 , 2.0 cm from lesion # 1 ( uninked ) and 3.0 cm from lesion # 1 ( inked green ) D17 - breast tissue 4.0 cm medial to lesion # 1 ( uninked ) and 5.0 cm medial to lesion # 1 ( inked green ) D18 - upper outer quadrant , representative sections D19 - lower outer quadrant , representative sections D20 - lower inner quadrant , representative sections D21 - upper inner quadrant , representative sections D22 - nipple ( SM / kc ) ADDENDUM REASON : There is focal skeletal muscle present posteriorly , not involved by neoplasm ; the remainder of the report is unchanged . 
+Anshu   Bandhlish MD Fellow 04/11/2016 Rochelle L Garcia MD Pathologist Electronically signed 
+05/05/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 
+In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

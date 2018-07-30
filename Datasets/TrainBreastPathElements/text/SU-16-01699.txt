@@ -1,0 +1,80 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    LEWIS , JERRY STUBBLEFIELD MRN :        U2320442      ( UWMC ) DOB :        Feb 14 1953 SEX :        F . 
+CASE :    SU-16 - 01699    COLLECTED :   Jan 21 2016   RECEIVED : Jan 21 2016 * * * * THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : Additional Studies Revision # 2 ( See end of report for new text ) : IHC / IF Results _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A )     Left breast , 2:00 , focal NME , Invasive mammary carcinoma with the following features : 1 . 
+Nottingham grade II : poor tubule formation , intermediate to high nuclear grade , low mitotic activity . 2 . 
+Extent : Involving multiple tissue cores with a maximum contiguous length of 0.3 cm in this sample . 3 . Associated in situ 
+component : intermediate to high grade carcinoma in situ without necrosis . 4 . Microcalcifications : not identified . 
+5 . 
+Angiolymphatic invasion : not identified . 
+6 . 
+Prognostic / predictive markers and E - cadherin will be performed and the results reported as an addendum . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : Left focal NME , 8.0 mm in maximum dimension , 2:00 .   
+The specimen is collected 01/21/2016 at approximately 3:00 p.m.   
+Total fixation time :   Approximately 18 hours . 
+GROSS DESCRIPTION : A )     Received in formalin labeled " Lewis , Jerry Stubblefield , A. L MRI - guided needle core biopsy NME 2:00 focal " are approximately 15 0.3 cm diameter elongated cylindrical portions of fibrofatty tissue , 0.4 to 3.0 cm long .   Entirely submitted in cassettes A1-A5 .   
+( MUA / ch ) Paul Dennis Simonson MD , PhD AP / CP Resident 01/22/2016 Mara   Rendi MD , PhD Pathologist Electronically signed 01/22/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+ADDENDUM REASON : 
+This addendum is issued to report the results of immunohistochemical studies . 
+IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : A5 Population : Neoplastic cells Interpreted by :   Paul Dennis Simonson , MD , PhD and Mark R Kilgore , MD Block     Label     Marker For     Results     Special Pattern or Comments A5     E.CADHERIN     E - Cadherin [ EC - C ]     Negative Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IHC INTERPRETATION : The membranous E - cadherin staining of the neoplastic cells supports lobular differentiation ( invasive lobular carcinoma ) . 
+d is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IMMUNOHISTOCHEMISTRY REPORT : Source ( Original Label ) : A5 Population : Neoplastic cells Interpreted by :   Paul Dennis Simonson , MD , PhD and Mark R Kilgore , MD Block     Label     Marker For     Results     Special Pattern or Comments A5     ER     Estrogen Receptor [ SP1 ] , Quantitative Evaluation     0 % positive cells     Positive internal and external controls A5     Fixation time QA     Fixation time QA on predictive markers     Meets requirements A5     HER2 ( w / HIER )     HER2   ( w/ HIER ) , Quantitative Evaluation     Equivocal for over - expression ( 2 + ) A5     Ki-67     Ki-67 [ MIB-1 ] , Quantitative Evaluation     1 % positive cells A5     PR88     Progesterone Receptor [ PR88 ] , Quantitative Evaluation     0 % positive cells     Positive internal and external controls ER / PR and HER2 immunohistochemical analyses are performed in accordance with 2013 CAP / ASCO guidelines [ Wolff , Hammond et al ] . 
+Department of Pathology protocols dictate that breast cancer containing tissue will be fixed in neutral buffered formalin for a minimum of 6 hours to a maximum of 72 hours for HER2 , ER and PR , unless otherwise noted in this report . 
+ER and PR stains are interpreted using a modified H - score system ( Allred ) based on the proportion of cells staining and intensity of staining : > 1% of cells with weak staining intensity ( Allred score 3 of 8) is the clinically validated threshold for a positive result [ Harvey et al ] HER2 interpretative criteria are those recommended by CAP / ASCO , where 3 + staining ( intense , uniform , homogeneous circumferential membrane staining in > 10% of tumor cells ) is required for a positive ( " high over - expression " ) result . 
+Cases with 2 + ( equivocal ) HER2 staining will be tested for gene amplification using a validated fluorescent in - situ hybridization ( FISH ) technique . 
+These assays have not been validated on decalcified tissues . 
+Results using decalcified tissues should be interpreted with caution , given the likelihood of false negativity in this testing environment . 
+When the above stain result indicates ' Quantitative Evaluation ' , a manual morphometric scoring of the stain was performed . 
+Grimm EE , et al . 
+Am J Clin Pathol ( 2010 ) 14 ; 284 - 92 . 
+Hammond ME , et al . 
+J Clin Oncol ( 2010 ) 28 ; 2784 - 95 . 
+Harvey et al . 
+J Clin Oncol ( 1999 ) 17 ; 1474 - 81 . Wolff AC , 
+et al . 
+Arch Pathol Lab Med ( 2013 ) 137 . 
+Note :   The detection system used is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+Mark R Kilgore MD Pathologist Electronically signed 
+01/26/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+ADDENDUM REASON : 
+This addendum is issued to report the results of HER2 fluorescence in - situ hybridization studies and to clarify grade / phenotype and in - situ carcinoma . 
+ADDENDUM COMMENT : Upon reviewing with Dr. Suzanne Dintzis , we agree that this invasive neoplasm is best categorized as invasive pleomorphic lobular carcinoma , which is supported by the lack of membranous E - cadherin staining by IHC .   
+In addition , there is high - grade in - situ neoplasm present which may either represent high - grade DCIS or pleomorphic lobular carcinoma in - situ ( favored , given the patchy granular membranous staining by E - cadherin IHC ) .   
+The overall Nottingham grade ( II ) and the remainder of the above report remain unchanged .   
+HER2 FISH results are as follows : MICROSCOPIC DESCRIPTION : A recut slide confirms residual invasive carcinoma in the block . 
+DNA ANALYSIS : Source ( Original Label ) : A5 Population : Neoplastic cells Interpreted by :   Mark R Kilgore , MD Block     Label     Marker For     Results     Special Pattern or Comments A5     FISH H2N/17     ICC FISH Her2Neu PROBE     3.9 signals / cell A5     FISH H2N/17     ICC FISH Chromosome 17 PROBE     4.6 signals / cell Ratio : 0.85         Interpretation : NEGATIVE Unstained sections are prepared and regions of invasive carcinoma are marked by comparison with H&E - stained sections from the same block .   
+Fluorescence in situ hybridization for the Her-2/neu gene is then carried out using the FDA - approved Vysis Path Vysion HER-2 DNA probe kit .   
+The prepared slides are then viewed under a fluorescent microscope with appropriate filters for the chromosome 17 probe ( green ) , the Her-2/neu probe ( orange ) and DNA ( blue ) to localize nuclei .   
+Signals are counted from up to 60 cells and the ratio of Her-2/neu to chromosome 17 signals is computed .   
+Control slides from non - amplified and low - level amplified tumor cells are prepared simultaneously to ensure reproducibility between assays .   
+Results for this morphometric , multiplex assay are listed in the table above . 
+Note : 
+According to the 2013 ASCO / CAP Guideline Recommendations for HER2 testing in breast cancer ( J Clin Oncol 2013 ; 31 : 3997 - 4013 ) , ratios for HER2/CEP17 of less than 2.0 are interpreted as negative , ratios greater than or equal to 2.0 are interpreted as positive , and ratios less than 2.0 with an average HER2 signals / cell greater than or equal to 4.0 and less than 6.0 are interpreted as equivocal for gene amplification . 
+Alternatively , cancers having single - probe average greater than or equal to 6.0 HER2 signals / cell are interpreted positive and less than 4.0 HER2 signals / cell are interpreted as negative . 
+Mark R Kilgore MD Pathologist Electronically signed 
+01/28/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 

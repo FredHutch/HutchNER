@@ -1,0 +1,25 @@
+T1	Hospital_Name 0 28	SEATTLE CANCER CARE ALLIANCE
+T2	Patient_or_Family_Name 80 95	Kenneth Vickers
+T3	Age 101 103	63
+T5	Date 213 228	April 15 , 2015
+T9	Date 457 472	March 20 , 2015
+T11	Date 637 652	March 20 , 2015
+T16	Date 1014 1029	March 23 , 2015
+T17	Date 1111 1126	March 26 , 2015
+T19	Date 1191 1206	April 15 , 2015
+T23	Date 1343 1356	July 9 , 2015
+T24	Date 1446 1460	July 24 , 2015
+T45	Address_and_Components 2524 2530	Manila
+T65	Date 3204 3208	2008
+T71	Age 3473 3475	65
+T73	Patient_or_Family_Name 3636 3642	Bonnie
+T74	Address_and_Components 3646 3656	Mill Creek
+T75	Profession 3756 3768	fire captain
+T78	Patient_or_Family_Name 4242 4248	Bonnie
+T79	Date 4800 4810	11/25/2015
+T80	Date 5349 5357	07/09/15
+T81	Date 5377 5385	11/20/15
+T82	Date 5395 5403	09/18/15
+T83	Date 5413 5421	08/21/15
+T114	Employer 3772 3784	medic unit 7
+T115	Profession 3836 3850	digital design

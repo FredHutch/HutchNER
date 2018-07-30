@@ -1,0 +1,62 @@
+T1	Provider_Name 118 121	Lee
+T2	Provider_Name 234 238	Paul
+T3	Provider_Name 239 245	Sutton
+T4	Provider_Name 273 277	Bill
+T5	Provider_Name 278 284	Harris
+T6	Patient_or_Family_Name 295 300	Steve
+T7	Age 306 308	55
+T15	Date 689 696	6/16/14
+T16	Patient_or_Family_Name 724 729	Steve
+T17	Patient_or_Family_Name 741 746	Effie
+T18	Provider_Name 780 783	Stu
+T19	Provider_Name 784 790	Farber
+T20	Provider_Name 795 799	Jeff
+T21	Provider_Name 800 804	Beck
+T22	Patient_or_Family_Name 830 835	Steve
+T24	Patient_or_Family_Name 840 845	Effie
+T23	Patient_or_Family_Name 866 870	Nick
+T25	Patient_or_Family_Name 873 879	Andrew
+T26	Patient_or_Family_Name 886 892	Collin
+T27	Patient_or_Family_Name 915 920	Steve
+T33	Patient_or_Family_Name 1200 1205	Steve
+T36	Patient_or_Family_Name 1308 1316	Steve 's
+T37	Patient_or_Family_Name 1560 1565	Steve
+T38	Patient_or_Family_Name 1667 1672	Effie
+T39	Patient_or_Family_Name 1684 1689	Steve
+T40	Patient_or_Family_Name 1829 1837	Steve 's
+T42	Patient_or_Family_Name 1951 1959	Effie 's
+T43	Patient_or_Family_Name 2067 2072	Steve
+T44	Patient_or_Family_Name 2119 2127	Steve 's
+T45	Patient_or_Family_Name 2339 2347	Steve 's
+T48	Patient_or_Family_Name 2582 2590	Steve 's
+T49	Patient_or_Family_Name 2736 2744	Steve 's
+T52	Patient_or_Family_Name 2905 2910	Steve
+T55	Patient_or_Family_Name 3093 3098	Steve
+T56	Age 3104 3106	55
+T62	Date 3286 3292	6 / 16
+T63	Date 3330 3336	6 / 18
+T64	Patient_or_Family_Name 3352 3360	Steve 's
+T65	Patient_or_Family_Name 3482 3487	Steve
+T66	Patient_or_Family_Name 3556 3561	Steve
+T67	Patient_or_Family_Name 3566 3571	Effie
+T68	Patient_or_Family_Name 3659 3664	Steve
+T69	Patient_or_Family_Name 3788 3793	Steve
+T71	Patient_or_Family_Name 3900 3908	Steve 's
+T72	Patient_or_Family_Name 4045 4053	Steve 's
+T74	Provider_Name 4130 4135	Marie
+T75	Provider_Name 4136 4142	Nelson
+T76	Provider_Name 4156 4160	Bill
+T77	Provider_Name 4161 4167	Harris
+T78	Provider_Name 4191 4195	Paul
+T79	Provider_Name 4196 4202	Sutton
+T81	Patient_or_Family_Name 4369 4374	Steve
+T82	Patient_or_Family_Name 4485 4490	Effie
+T83	Patient_or_Family_Name 4764 4780	Effie Petersdorf
+T84	Phone_Number 4808 4824	( 206 ) 522-9089
+T85	Address_and_Components 4845 4884	3716 47 TH PL NE SEATTLE , WA 98105 USA
+T87	Provider_Name 5124 5128	Jeff
+T88	Provider_Name 5129 5133	Beck
+T89	Date 5426 5433	6/13/14
+T90	Date 5483 5490	6/17/14
+T29	Hospital_Name 3680 3690	Providence
+T46	Hospital_Name 3950 3960	Providence

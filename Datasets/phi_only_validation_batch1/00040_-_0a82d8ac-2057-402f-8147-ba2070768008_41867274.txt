@@ -1,0 +1,216 @@
+
+
+
+CHIEF COMPLAINT :
+Chief Complaint
+Chronic pain stable
+
+INTERVAL HISTORY :
+Details since last clinic visit :
+Her chronic pain is stable on her current analgesia regimen . She is eating better . She is feeling well enough that they have purchased plane tickets to go home next week . She denies fevers , chills , sweats , acute weight change . .
+Pain Assessment
+Include pt 's pain assessment
+7/2/2015 11:31 Pain Descriptor Scale Mild
+Location of Pain Chronic Back Pain .
+
+TRANSPLANT STATUS :
+Transplant Diagnosis Multiple myeloma ( ICD9 203.00 , Discharge , Medical ) .
+Date of Transplant : 6/9/2015 .
+Protocol / Treatment Plan : 1137 .
+Transplant Type : autologous peripheral blood stem cell transplant .
+Preparative Regimen : Myeloablative melphalan .
+
+
+REVIEW OF SYSTEMS :
+A complete review of systems was conducted and was negative in detail except as described in the Interval History .
+
+HEALTH STATUS :
+Current Medications :
+1 . amoxicillin - clavulanate 875 mg - 125 mg oral tablet Dose : 1 tab PO Q12 Hours Continue through 7 / 7 .
+2 . fluoride topical ( fluoride 1.1 % topical gel ) Dose : 1 application Topical QHS
+3 . labetalol 200 mg oral tablet Dose : 200 mg PO Q12 Hours
+4 . levothyroxine 150 mcg ( 0.15 mg ) oral tablet Dose : 150 mcg PO Daily Empty Stomach
+5 . loratadine 10 mg oral tablet Dose : 10 mg PO Daily
+6 . magnesium oxide 400 mg ( 241.3 mg elemental magnesium ) oral tablet Dose : 800 mg PO BID
+7 . morphine 100 mg / 12 hours oral tablet , extended release Dose : 200 mg PO Q8 Hours
+8 . multivitamin with minerals , no iron Dose : 1 tab PO Daily
+9 . mupirocin topical ( mupirocin 0.03 % nasal irrigation ) Dose : 1 application Topical BID Continue through 7 / 7 then stop
+10 . potassium chloride 20 mEq oral tablet , extended release Dose : 20 mEq PO BID
+11 . sodium chloride ( Sodium Chloride 0.9 % intravenous solution Rx ) Dose : 500 mL , with KCL 20 mEq + MagSulfate 28 mEq IV Infusion Daily Infuse 500 cc of previously dispensed 1000 cc bag . Continue until further notice . Rate 250 cc/hr
+12 . sulfamethoxazole-trimethoprim ( Bactrim DS 800 mg - 160 mg oral tablet ) Dose : 1 tab PO BID on QMTu
+13 . valACYclovir 500 mg oral tablet Dose : 500 mg PO Q12 Hours
+14 . warfarin 1 mg oral tablet Dose : 1 mg PO QHS
+15 . codeine-guaiFENesin 10 mg - 100 mg / 5 mL oral syrup Dose : 10 mL PO Q6 Hours PRN Cough
+16 . lidocaine / nystatin / vitamin A & D / zinc oxide topical Dose : 1 application Topical TID PRN skin breakdown
+17 . loperamide 2 mg oral capsule Dose : 2 mg PO Q3 Hours PRN Diarrhea
+18 . LORazepam 0.5 mg oral tablet Dose : 0.5-2 mg PO Q4 Hours PRN nausea / vomiting / anxiety
+19 . morphine 15 mg oral tablet Dose : 60 mg PO Q4 Hours PRN Pain No more than 5 doses per day
+20 . prochlorperazine 10 mg oral tablet Dose : 10 mg PO Q4 Hours PRN nausea / vomiting
+
+
+Allergic Reactions ( Selected )
+Severe
+Contrast media ( iodine - based ) - Chest tightness . .
+Allergies ( 1 ) Active
+Reaction
+contrast media
+Chest tightness
+( iodine - based
+. Problem list
+All Problems
+Irradiated blood product / 38310015 / Confirmed .
+Active Problems ( 1 )
+Irradiated blood product
+.
+PHYSICAL EXAMINATION :
+Vital Signs / Measurements
+Vital Signs Data
+7/2/2015 11:31 Temperature - C 37.1 degC
+Temperature Source - Outpt Oral
+Heart Rate 79 bpm
+Respiratory Rate 16 br / min
+SBP - Noninvasive 121 mmHg
+DBP - Noninvasive 79 mmHg
+
+General : No acute distress .
+Eye : Vision unchanged .
+HENT : Oral mucosa is moist .
+Respiratory : Lungs are clear to auscultation , Respirations are non - labored .
+Cardiovascular : Normal rate , Regular rhythm .
+Gastrointestinal : Soft , Non-tender , Non - distended .
+Musculoskeletal : No swelling .
+Integumentary : Warm , Dry , No rash .
+Neurologic : No focal deficits .
+Cognition and Speech : Speech clear and coherent , Functional cognition intact .
+Psychiatric : Appropriate mood & affect , Normal judgment .
+Lines and Tubes : Central venous catheter .
+Performance Score : Karnofsky scale : 80 % .
+.
+
+LABORATORY STUDIES :
+
+Laboratory Studies ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+07/02/15 10:28
+- - -
+
+
+| - ICa - - -
+| - ICa - - -
+136
+102
+3
+| - Ca 8.8
+
+- - -
+- - -
+- - -
+| - Ca - - -
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 108
+| - Mg 2.1
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < - - -
+| - Mg - - -
+4.9
+30
+0.59
+| - Phos 3.6
+
+- - -
+- - -
+- - -
+| - Phos - - -
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+07/02/15 10:28
+- - -
+
+
+9.5
+| - PT - - -
+- - -
+| - PT - - -
+4.29 ] - - - - - - - - - - - - - - - - - - - - - - [ 357
+| - INR - - -
+- - - ] - - - - - - - - - - - - - - - - - - - - - - [ - - -
+| - INR - - -
+
+29
+| - PTT - - -
+- - -
+| - PTT - - -
+
+
+( Most recent results for 24 hour range . )
+Individual Labs
+07/02/2015 10:28
+LD ( Total )
+281
+07/02/2015 10:28
+AST ( GOT )
+28
+07/02/2015 10:28
+ALT ( GPT )
+23
+07/02/2015 10:28
+Bilirubin ( Total )
+0.3
+07/02/2015 10:28
+Bilirubin ( Direct )
+0.1
+07/02/2015 10:28
+Protein ( Total )
+6.0
+07/02/2015 10:28
+Albumin
+3.4
+07/02/2015 10:28
+MCV
+97
+07/02/2015 10:28
+Neutrophils
+1.33
+
+Antibiotics
+No Results Found .
+
+( Most Recent Results for Prior 7 Days . )
+Immunosuppressant
+No Results Found .
+
+( Most Recent Results for Prior 14 Days . )
+CMV Results
+No Results Found .
+
+
+Viral / CMV Monitoring
+Viral Culture And Antigen Detection
+6/29/2015 9:10 CMV Positive Cells / Slide 0.0 .
+
+
+IMPRESSION AND PLAN :
+Primary Disease :
+Myeloma : IgG Kappa Myeloma . Auto transplant on 6/9/15 after Melphalan 200 mg / m2 . .
+Hematologic :
+Anemia : Otherwise well engrafted . Thresholds 26 / 10k . No premeds . CBC twice a week , transfuse as appropriate . .
+Infectious Disease :
+Rhinovirus URI : Detected on nasal swab 6 / 22 . Recheck Nasal swab 7 / 2 . .
+Sinusitis : Seen on sinus CT 6 / 24 . Augmentin 6 / 24-7 / 7 . .
+Infection Prophylaxis : Valacyclovir .
+Regimen Related Toxicity :
+Anorexia : Likely due to chemotherapy toxicity and improving . Monitor . .
+Cardiovascular :
+Hypertension : Previously on Amlodipine which has been discontinued . BP now stable on Labetalol . .
+Fluids , Electrolytes , Nutrition :
+Dehydration , hypokalemia , hypomagnesemia : Improving as diarrhea resolved . Continue IV repletion and wean to PO as able . .
+Rehabilitation :
+Back Pain : Due to myeloma . Stable . Continue MS contin and short acting Morphine for breakthrough pain control . .
+Other Problems :
+Hypothyroidism : Stable , continue Levothyroxine . .
+Details : = = = Improving as she recovers from transplant related toxicities . Continue PO KCl and Magnesium and decrease IV fluids . Plan for discharge home to Alaska within the next 7 days as her recovery allows . .

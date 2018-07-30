@@ -1,0 +1,52 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    GOTTSCHALK , MICHELLE LEIGH MRN :        U3069226      ( UWMC ) DOB :        Nov   7 1972 SEX :        F . 
+CASE :    SU-16 - 11126    COLLECTED :   Apr 28 2016   RECEIVED : Apr 28 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A ) Left chest port ( explant ) , gross diagnosis : Prosthesis consistent with port . 
+B , C ) Right axillary sentinel , lymph nodes # 1 and 2 , excisions : 2 of 2 lymphs node positive for carcinoma . 
+D ) Right axillary sentinel , lymph node # 3 , biopsy : One lymph node negative for neoplasm E ) Right partial mastectomy : Invasive ductal carcinoma . 
+See summary cancer data . 
+F ) Right breast new medial margin , excision : Breast parenchyma , negative for atypical ductal hyperplasia , in - situ or invasive carcinoma . 
+G ) Right levels I and II axillary nodes , dissection : Eighteen lymph nodes , negative for neoplasm SUMMARY CANCER DATA : Specimen and procedure Procedure :     Partial mastectomy Specimen laterality :     Right Primary tumor ( status post pre - surgical therapy ) Residual invasive carcinoma S / P neoadjuvant therapy Histologic type :     Invasive ductal carcinoma , NOS ( 85003 ) Extent / focality of carcinoma :     Single contiguous residual mass / focus Span of residual invasive carcinoma ( tumor bed ) :     3.5 cm    x 1.5 cm Size of largest residual focus of carcinoma :     1.5 cm Comment about size determination : Size of 3.5 cm is based on number of slices involved .   1.5 cm is largest size by gross and slide measurement . 
+Overall cellularity ( invasive carcinoma only ) :     10% Grade of residual carcinoma :     Deferred because of prior therapy Skin status :     Not involved Nipple status :     Can not assess ( nipple not present ) Skeletal muscle status :     Skeletal muscle not present Pre - treatment tumor characteristics Pre - treatment Nottingham grade :     Grade III : 8 - 9 points Pre - treatment ER :     Positive Allred score :     8 of 8 Pre - treatment PR :     Positive Allred score :     8 of 8 Pre - treatment her 2 by IHC :     Positive for her 2 overexpression by immunohistochemistry Pre - treatment Ki-67 :     30% Additional findings DCIS ( ductal carcinoma in situ ) :     Residual DCIS present ( 85002 ) Nuclear grade of DCIS :     Intermediate Necrosis in DCIS :     Not identified Changes consistent with previous biopsy site :     Present Microcalcifications :     Present in DCIS Microcalcifications comment :     Present Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Invasive carcinoma > = 0.5 cm from all inked margins Invasive carcinoma margin detail : Invasive carcinoma extends to the disrupted medial margin in the original lumpectomy , but is free of additional medial margin . 
+DCIS margin :     DCIS > = 0.5 cm from all inked margins Lymph node involvement ( S / P neoadjuvant therapy ) Non - sentinel nodes :     Non - SLNs with carcinoma : 0     / Total non - SLNs 18 Sentinel lymph nodes :     SLNs with carcinoma : 2     / Total SLNs : 3 - Total number of nodes with macrometastases :     2 - Total number of nodes with micrometastases :     0 - Total number of nodes with isolated tumor cells :     0 
+Size of largest metastatic focus :     0.6 cm Extracapsular Extension :     Indeterminate Evidence of nodal treatment response :     Changes present consistent with treatment response Number of negative nodes with treatment effect :     0 Number of positive nodes with treatment effect :     1 Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) Primary tumor [ pT ] :     ypT2 : Tumor > 2.0 cm and < = 5.0 cm - greatest dimension Regional nodes [ pN ] : ypN1a : Metastasis in 1 to 3 axillary lymph nodes ( at least 1 tumor deposit greater than 2.0 mm ) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ INTRAOPERATIVE CONSULTATION : B )     Right axillary sentinel lymph node 
+# 1 ( touch preparation and frozen section ) :   Positive for adenocarcinoma on frozen section .   
+( Rajnish Bharadwaj , M.D./ Maria Westerhoff , M.D. )   ( MUA / pwt ) C )     Right axillary sentinel lymph node # 2 ( frozen section and touch preparation ) :   Positive for adenocarcinoma on frozen section .   
+( Rajnish Bharadwaj , M.D./ Maria Westerhoff , M.D. )   ( MUA / pwt ) D )     Right axillary sentinel lymph node # 3 ( touch preparation and frozen section ) :   
+No definite neoplasm on representative frozen section .   
+Defer to permanents .   
+( Rajnish Bharadwaj , M.D./ Maria Westerhoff , M.D. )   ( MUA / pwt ) CLINICAL DATA : Right breast cancer . 
+GROSS DESCRIPTION : A )     Received fresh labeled " Gottschalk , Michelle Leigh , A. left chest port ( explanted ) " is a 2.5 x 2.2 x 1.2 cm purple metallic port with an attached 23.0 cm long x 0.2 cm diameter white plastic tube .   
+The manufacturer 's markings are " BARD T C AP15464 " .   
+No sections are submitted for microscopic evaluation .   
+A photograph is taken .   
+( MUA / kc ) B )     Received fresh labeled " Gottschalk , Michelle Leigh ; B. right axillary sentinel lymph node # 1 " is a 0.6 cm blue - dyed possible lymph node with surrounding adipose tissue .   
+Touch preparations are performed .   
+One half of the node is frozen and entirely submitted in B1FS .   
+The remaining node is entirely submitted in B2 .   
+( MUA / clk ) C )     Received fresh labeled " Gottschalk , Michelle Leigh ; C. right axillary sentinel lymph node # 2 " is a 0.5 cm fibrotic possible lymph node with surrounding adipose tissue .   
+Touch preparations are performed .   
+One half of the node is frozen and entirely submitted in C1FS .   
+The remaining tissue is entirely submitted in C2 .   
+( MUA / clk ) D )     Received fresh labeled " Gottschalk , Michelle Leigh ; D. right axillary sentinel lymph node # 3 " is a 0.5 cm possible lymph node with surrounding adipose tissue .   
+Touch preparations are performed .   
+One half of the node is frozen and entirely submitted in D1FS .   
+The remaining node is submitted in D2 .   
+( MUA / clk ) E )     Received :   Fresh in a container designated " Gottschalk , Michelle " and " right partial mastectomy . " 
+Specimen type :   Partial mastectomy Formalin time :   6:20 p.m. on 04/28/2016 , total formalin time is 23.7 hours . 
+Tissue obtained for tumor banking : No . 
+Weight :   80 
+g Size :   3.8 SI x 7.0 ML x 9.0 AP cm Oriented With :   Inking scheme . 
+Ink :   Per protocol " by the surgeon " :   superior = red , inferior = blue , anterior = green , posterior = black , medial = yellow , lateral = orange . 
+Sectioning :   Anterior to posterior in 10 sections of 0.5 cm average thickness with the first section measuring 0.8 cm thick and the last slice being 1.1 cm thick . 
+Findings : Lesion # 1 :   Firm , white stellate mass in the inferomedial aspect of the specimen . 
+Size : 1.4 x 0.9 x 1.6 cm ( slices 5 - 8 , primarily slices 6 and 7 ) , there is 2.6 x 0.6 cm skin Biopsy site :   In slices 5 and 6 with coil clip in slice 5 Distance to margins : 0.4 cm to medial margin , 0.7 cm to inferior margin and greater than 1.5 cm to all other margins Submitted : Emphasizing fibrous tissue following the cassette map as dictated below and as detailed in document images . Cassettes submitted : E1 - every third section through anterior margin , perpendicular section , slice 1 E2 , E3 - composite cross section of entire slice 2 E4-E6 - composite cross section of entire slice 3 E7-E10 - complete cross section of thinned slice 4 E11 , E12 - composite cross section of half of slice 5 , including biopsy site E13 , E14 - inked margins of remaining slice 5 E15-E18 - complete cross section of thinned slice 6 with lesion in E15 E19 , E20 - composite of one - half of slice 7 , thinned , lesion in E19 E21 , E22 - remaining margins of slice 7 E23 , E24 - representative section of slice 8 including posterior extent of lesion E25-E27 - representative sections of slice 9 including fibrous tissue , and posterior bracketing slice of lesion in E26 E28 , E29 - every third perpendicular section through posterior margin , slice 10 ( JL / kc ) F )     Received in formalin labeled " Gottschalk , Michelle Leigh ; F. right breast new medial margins " is a 3.7 g , 4.2 x 2.5 x 1.0 cm breast reexcision specimen previously inked yellow on one surface designating the true medial margin .   
+The opposite surface is uninked .   
+It is sectioned from one end to the opposite into twelve slices numbered respectively ( slices 1 and 12 are 0.5 cm thick and the remaining slices are 0.3 cm thick ) .   
+The cut surface is yellow , lobulated adipose tissue ( 90% ) intermixed with thin white fibrous tissue ( 10% ) .   
+No discrete mass or lesion is identified .   
+Tissue is entirely submitted : F1 - slice 1 F2 - slices 2 and 3 F3 - slices 4 and 5 F4 - slices 6 and 7 F5 - slices 8 and 9 F6 - slices 10 and 11 F7 - slice 12 ( MUA / clk ) G )     Received fresh labeled " Gottschalk , Michelle , G. right levels I and II axillary nodes " is an oriented 18.5 x 5.3 x 2.2 cm portion of fibroadipose tissue and lymphoid that is oriented with a suture at apex level II .   
+The specimen is arbitrarily divided into levels I and II .   
+There are no lymph node candidates identified in level I.   Level II has 18 lymph node candidates identified , 0.2 - 2 cm .   
+The lymph node candidates are submitted entirely as follows : G1 - six lymph node candidates G2 - seven lymph node candidates G3 - four lymph node candidates G4-G5 - one lymph node candidate , bisected ( CXH / pwt ) Anshu   Bandhlish MD Fellow 05/02/2016 Rochelle L Garcia MD Pathologist Electronically signed 
+05/03/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

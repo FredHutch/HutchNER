@@ -1,0 +1,93 @@
+T1	Date 46 55	9/14/2016
+T3	Provider_Name 135 139	Wong
+T4	Provider_Name 145 159	Kaylyn Kit Man
+T6	Provider_Name 372 376	Wong
+T7	Provider_Name 382 396	Kaylyn Kit Man
+T8	Provider_Name 413 420	Stecher
+T9	Provider_Name 426 435	Heidi A .
+T10	Provider_Name 480 501	Sanders Laura
+T11	Patient_or_Family_Name 524 547	James " Jim " Chenoweth
+T12	Age 553 555	54
+T13	Address_and_Components 561 568	Seattle
+T15	Date 871 890	September 14 , 2016
+T16	Patient_or_Family_Name 1253 1268	QIN ( DUMA ) DU
+T17	Phone_Number 1274 1290	( 206 ) 565-9879
+T18	Patient_or_Family_Name 1921 1925	Duma
+T36	Provider_Name 3259 3278	Kaylyn " Kit " Wong
+T48	Provider_Name 3995 3999	Wong
+T52	Address_and_Components 4941 4963	John Bastyr University
+T53	Hospital_Name 5242 5286	Seattle Cancer Treatment and Wellness Center
+T54	Provider_Name 5943 5947	Wong
+T55	Patient_or_Family_Name 6194 6203	Chenoweth
+T56	Address_and_Components 6216 6223	Seattle
+T57	Patient_or_Family_Name 6459 6463	Duma
+T58	Age 6475 6477	35
+T59	Patient_or_Family_Name 7123 7127	Duma
+T61	Patient_or_Family_Name 7805 7820	QIN ( DUMA ) DU
+T62	Phone_Number 7826 7842	( 206 ) 565-9879
+T63	Phone_Number 7891 7905	( 206 ) 739-66
+T67	Hospital_Name 8813 8817	SCCA
+T68	Provider_Name 8831 8850	Kaylyn " Kit " Wong
+T70	Date 10183 10199	August 23 , 2016
+T71	Patient_or_Family_Name 10235 10244	Chenoweth
+T72	Address_and_Components 10264 10271	Seattle
+T73	Date 10422 10426	2014
+T74	Hospital_Name 10448 10458	Polyclinic
+T75	Date 10657 10669	January 2014
+T78	Date 10872 10890	February 11 , 2014
+T79	Hospital_Name 11217 11219	UW
+T80	Date 11233 11249	August 31 , 2016
+T81	Patient_or_Family_Name 11279 11288	Chenoweth
+T83	Date 11373 11384	August 2014
+T89	Date 11956 11967	August 2014
+T92	Date 12086 12095	July 2015
+T94	Date 12208 12224	August 10 , 2015
+T98	Date 12596 12614	February 13 , 2016
+T104	Date 12955 12973	February 21 , 2016
+T122	Date 13487 13497	April 2016
+T123	Patient_or_Family_Name 13601 13610	Chenoweth
+T126	Date 13773 13787	June 19 , 2016
+T127	Date 13891 13903	July 3 , 201
+T128	Date 13940 13955	August 1 , 2016
+T129	Hospital_Name 13988 13992	SCCA
+T130	Provider_Name 13980 13984	Wong
+T131	Date 13996 14012	August 23 , 2016
+T132	Provider_Name 14350 14354	Wong
+T135	Date 14427 14436	August 31
+T168	Account_Number 18561 18567	286490
+T169	Provider_Name 18568 18586	Kolokythas Orpheus
+T170	Phone_Number 18592 18608	( 206 ) 540-1267
+T171	Date 18049 18059	08/26/2016
+T172	Date 17880 17888	09/14/16
+T173	Date 17899 17909	( 08/31/16
+T174	Date 17922 17930	08/29/16
+T175	Hospital_Name 17649 17653	SCCA
+T176	Date 16968 16977	9/28/2016
+T215	Address_and_Components 10462 10469	Seattle
+T218	Date 12456 12467	August 2015
+T64	Patient_or_Family_Name 7870 7873	LIZ
+T219	Patient_or_Family_Name 7874 7883	CHENOWETH
+T221	Date 3348 3360	September 19
+T222	Address_and_Components 612 620	Thailand
+T223	Address_and_Components 623 628	China
+T224	Address_and_Components 10287 10292	China
+T225	Address_and_Components 10297 10305	Thailand
+T226	Address_and_Components 11352 11357	China
+T227	Address_and_Components 11918 11926	Thailand
+T228	Address_and_Components 12181 12189	Thailand
+T97	Address_and_Components 12444 12452	Thailand
+T229	Address_and_Components 12943 12951	Thailand
+T2	Hospital_Name 111 115	SCCA
+T233	Hospital_Name 118 122	UWMC
+T238	Address_and_Components 13929 13936	Seattle
+T244	Date 11137 11143	5 / 21
+T51	Address_and_Components 10368 10370	US
+T245	Address_and_Components 6526 6528	US
+T246	Address_and_Components 8529 8531	US
+T247	Address_and_Components 8612 8614	US
+T248	Address_and_Components 12080 12082	US
+T69	Provider_Name 10153 10159	Kaylyn
+T262	Provider_Name 10160 10164	Wong
+T297	Address_and_Components 8678 8682	Asia
+T5	Address_and_Components 10648 10653	India
+T20	Address_and_Components 10860 10868	Thailand

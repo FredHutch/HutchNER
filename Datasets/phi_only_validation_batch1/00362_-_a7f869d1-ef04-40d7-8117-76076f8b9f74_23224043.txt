@@ -1,0 +1,265 @@
+Hospital Day : 4
+
+ID & Chief Concern / Problem ( required for all billing levels )
+62 F ( depression , HL ) with new diagnosis of AML ( FLT3 , NPM1 , CEBP negative ) here for scheduled admit for induction GCLAC therapy plus expanded umbilical cord cells SCCA protocol 2335 .
+
+Interval History / Major Events ( past 24 hours )
+- no acute events overnight
+- patient received 1 U PRBC for Hct 24
+- LFTs noted to be slightly elevated
+- this morning , patient reports that her headaches are mainly during her chemotherapy and resolve overnight .
+- patient also reports itchy eyes today
+
+Allergies
+cephalexin
+Zofran
+Latex
+Shrimp
+
+Scheduled Medications
+Aprepitant 80 mg cap Dose : 80 mg = 1 cap PO Q24 Hours
+Chlorhexidine gluconate 2 % topical cloth Dose : 1 application Topical QAM
+Clofarabine STUDY Dose : 42 mg = 42 mL IV Q24 Hours
+Cytarabine Dose : 3 , 400 mg IVPB Once
+Dexamethasone Dose : 20 mg = 2 mL IVPB Q24 Hours
+Docusate 100 mg cap Dose : 200 mg = 2 cap PO BID
+Filgrastim 300 mcg/mL inj Dose : 300 mcg = 1 mL Subcutaneous Q24 Hours
+Filgrastim 300 mcg/mL inj Dose : 300 mcg = 1 mL Subcutaneous Q24 Hours
+Granisetron 1 mg/mL inj Dose : 0.5 mg = 0.5 mL IV Q12 Hours ( non std )
+PrednisoLONE acetate 1 % ophth susp 10 mL Dose : 2 drop ( s ) Each EYE Q6 Hours
+Senna 8 . 6mg tab Dose : 1 tab PO QHS
+Sertraline 25 mg tab Dose : 50 mg = 2 tab PO QDay
+Simvastatin 10 mg tab Dose : 10 mg = 1 tab PO QPM
+
+Infusions
+Dextrose 5 % in Water 1 , 000 mL Dose : 1 , 000 mL IV Infusion
+
+PRN Medications
+Acetaminophen 325 mg tab Dose : 650 mg = 2 tab PO Q6 Hours PRN
+Bisacodyl EC 5 mg tab Dose : 30 mg = 6 tab PO QDay PRN
+Lactulose 20g / 30mL soln Dose : 15-30 mL PO Q4 Hours PRN
+Lorazepam 0 . 5mg tab Dose : 0.5-1 mg PO Q6 Hours PRN
+Lorazepam 2 mg/mL inj Dose : 0.5-1 mg IV Push Q6 Hours PRN
+Metoclopramide 10mg / 2mL inj Dose : 10 mg = 2 mL IV Q6 Hours PRN
+Oxycodone 5 mg tab Dose : 5-15 mg PO Q4 Hours PRN
+Polyethylene glycol 3350 - NF powder 17 g Dose : 17 g = 1 packet PO QDay PRN
+Prochlorperazine 5 mg tab Dose : 5-10 mg PO Q6 Hours PRN
+
+Vitals ( Most recent and 24 hour range . )
+Date
+Result
+Last
+MIN
+- MAX
+01/16/12 04:00
+Temp C :
+36.4
+35.6
+- 36.5
+01/16/12 04:00
+HR :
+80
+70
+- 96
+01/16/12 04:00
+RR :
+16
+16
+- 16
+01/16/12 04:00
+SBP Non - Inv :
+107
+95
+- 110
+01/16/12 04:00
+DBP Non - Inv :
+68
+53
+- 70
+
+I & O Data
+Height : 162 ( cm ) 5 ' 4 " ( ft / in ) ( 01/14/2012 )
+Admit Wt : 61.4 ( kg ) 135 ( lbs ) ( 01/14/2012 )
+Last Daily Wt : 60.4 ( kg ) 133 ( lbs ) ( 01/15/12 08:00 )
+Previous Daily Wt : 60.9 ( kg ) 134 ( lbs ) ( 01/14/12 08:00 )
+
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day )
+Result
+01/13/2012
+01/14/2012
+01/15/2012
+01/16/2012
+01/17/2012
+Total
+
+Intake Total ( 0600 )
+1283
+1188
+1760
+2148
+0
+6379
+
+Output Total ( 0600 )
+700
+2000
+3850
+1700
+0
+8250
+
+Net I & O Total ( 0600 )
+583
+- 812
+- 2090
+448
+0
+- 1871
+
+Daily weight
+61.4
+
+60.9
+60.4
+
+N / A
+
+
+Respiratory Data ( Most recent and 24 hour range . )
+Date
+01/16/12 04:00
+O2 Sat :
+98
+O2 Delivery Device :
+Room air
+
+Physical Exam ( include 8 or 2 with one in detail )
+CONSTITUTIONAL / GENERAL APPEARANCE : middle aged white woman in NAD
+MENTAL STATUS / PSYCH : AAOx3 , appropriate affect , good mood
+NEURO : moving all extremities spontaneously
+ABDOMEN / GI : NTND , NABS
+
+Laboratory Studies ( Most recent results in 24 hour range . )
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+01/16/12 00:30
+01/15/12 00:30
+
+
+| - ICa - - -
+| - ICa - - -
+136
+102
+14
+| - Ca 8.7
+
+135
+98
+13
+| - Ca 9.0
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 127
+| - Mg - - -
+
+- - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 171
+| - Mg - - -
+4.2
+30
+0.58
+| - Phos - - -
+
+4.3
+30
+0.71
+| - Phos - - -
+
+
+RESULTS FROM TODAY
+RESULTS FROM YESTERDAY
+
+01/16/12 00:30
+01/15/12 00:30
+
+
+7.9
+| - PT - - -
+8.4
+| - PT - - -
+1.19 ] - - - - - - - - - - - - - - - - - - - - - - [ 75
+| - INR - - -
+6.84 ] - - - - - - - - - - - - - - - - - - - - - - [ 109
+| - INR - - -
+
+24
+| - PTT - - -
+26
+| - PTT - - -
+
+Other Laboratory Studies ( Most recent and 24 hour range . )
+Date
+01/16/12 00:30
+AST ( GOT ) :
+557
+ALT ( GPT ) :
+550
+Alk Phos ( Total ) :
+89
+Bilirubin ( Total ) :
+1.2
+Albumin :
+2.8
+
+Last 6 Hematocrits in Preceding 24 Hours
+( NOTE : Comments / notes for Labs are viewable on Flowsheet )
+01/16/12
+01/15/12
+
+00:30
+00:30
+
+24
+26
+
+Problems / Assessment / Plan
+62 F ( depression , HL ) with new diagnosis of AML ( FLT3 , NPM1 , CEBP negative ) here for scheduled admit for induction GCLAC therapy plus expanded umbilical cord cells SCCA protocol 2335 .
+
+# ) AML ( FLT3 , NPM1 , CEBP negative ) : patient here for induction GCLAC therapy . NOW DAY 5 / 5 . counts are steadily decreasing .
+[ ] continue GCLAC therapy ( filgrastim , cytarabine , clofarabine )
+[ ] transfusion threshold : Hct < 26 , plt < 10
+[ ] continue granesitron and aprepitant for nausea / headaches
+[ ] continue dexamethasone 20 mg IV qday
+[ ] continue following daily CBC and monitoring for toxicities
+[ ] add normal saline artificial tears for eye irritation
+[ ] start neutropenia prophylaxis antibiotics today , including :
+
+levofloxacin 500 mg PO qday
+
+acyclovir 800 mg PO bid
+
+hold fluconazole ppx for now given transaminitis
+
+# ) transaminitis : unclear etiology , likely 2 / 2 chemotherapy toxicities .
+{ } continue to trend LFTs daily
+[ ] d/c simvastatin today , d/c acetaminophen prn
+
+# ) Other issues stable and unchanged :
+- HL : holding simvastatin 10 mg PO qhs given transaminitis
+- depression : continue sertraline 50 mg PO qday
+
+# ) FEN : regular diet , replete lytes PRN , continue bowel regimen including docusate , senna , and miralax PRN .
+# ) PPX : TEDs / SCDs , GI deferred at this time
+# ) T / L / D : Hickman line placed 1/12/2012
+# ) Contacts : Husband ( 253 ) 759-3251
+# ) Code : FULL
+# ) Dispo : to home pending completion of chemotherapy , likely early discharge
+
+
+
+
+ATTENDING STATEMENT :
+I saw and evaluated the patient and agree with Dr. Chen 's note . Elevation of transaminases grade 3 according to CTCAE 4.03 , most likely chemotherapy - associated . Will continue with chemotherapy as planned but hold all other potentially liver - toxic medications temporarily .
+
+Date of Service : 01/16/2012
+
+Today 's Date is : 01/16/2012

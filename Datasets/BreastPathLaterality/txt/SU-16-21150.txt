@@ -1,0 +1,132 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    RAY , KATHI MRN :        U3770431      ( UWMC ) DOB :        Feb 25 1968 SEX :        F . 
+CASE :    SU-16 - 21150    COLLECTED :   Aug 17 2016   RECEIVED : Aug 17 2016 * * * * 
+THIS IS AN ADDENDUM REPORT   * * * * Revision # 1 ( See end of report for new text ) : 
+Other _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : G - H , J )   Right breast , nipple margin , and skin , mastectomy and excisions :   Invasive lobular carcinoma .   
+See Cancer Summary Data Sheet below . 
+E - F )   Right axillary sentinel lymph nodes # 1 and # 2 , excisions : No carcinoma identified on H&E and pancytokeratin IHC - stained slides . 
+C - D , I )   Left breast , nipple margin , and skin , mastectomy and excisions : -   Breast parenchyma with no in - situ or invasive carcinoma identified . 
+-   Nipple , negative for neoplasm . 
+A - B )   Left axillary sentinel lymph nodes # 1 and # 2 , excisions :   No carcinoma identified on H&E - stained slides . 
+SUMMARY CANCER DATA : Specimen and procedure Procedure :     Nipple and skin sparing mastectomy Specimen laterality :     Right Invasive carcinoma with the following features : Histologic type :     Invasive lobular carcinoma , NOS ( 85203 ) Size ( largest focus ) :     0.1 cm Comment about size determination : Carcinoma is < 0.1 cm .   
+Previous biopsy ( SU-16 - 16752 ) also had 2 foci in near proximity to one another , each < 0.1 cm .   
+Given the orientation of these foci is not determinable , the neoplasm will be staged based on the single largest contiguous focus ( 0.1 cm ) rather than adding separate foci together .   
+This will results in a T stage of microinvasive carcinoma ( pT1mic ) . 
+Focality of invasive carcinoma :     Single contiguous focus Comment about extent / focality : Determining focality is a little challenging given there were separate foci present in the biopsy specimen , however , it is favored that the biopsy is representative of sampling of this single contiguous focus . 
+Location of carcinoma :     Invasive lobular carcinoma is present in a slice adjacent to the biopsy site with clip . 
+Nottingham Grade :     Grade I : 3 - 5 points - Tubule Formation :     3 points ( < 10% ) - Nuclear Pleomorphism :     1 point ( mild ) - Mitotic Activity :     1 point Ancillary Studies Source :     This case ( included in this report ) Estrogen receptor :     See comment Progesterone receptor :     See comment c - erb - B2 ( her 2 ) by IHC :     See comment HER 2 by FISH :     See Comment Ancillary studies comment : This case is particularly challenging in that in both biopsy and mastectomy specimens , the carcinoma is so small and subtle , that after the appropriate studies have been performed to diagnosis carcinoma , there is not enough neoplasm remaining to perform prognostic markers . 
+Angiolymphatic Space Invasion :     Not identified Skin status :     Can not assess ( skin not present ) Nipple status :     Can not assess ( nipple not present ) Skeletal muscle status :     Skeletal muscle not present Ductal carcinoma in - situ ( DCIS ) :     Not identified Lobular carcinoma in - situ ( LCIS ) :     Present ( 85202 ) Comment about LCIS : LCIS is extensively present both in association with the focus of invasive carcinoma and in random representative breast sections . 
+Additional findings :     Atypical lobular hyperplasia ( ALH ) Changes consistent with previous biopsy site :     Present Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Invasive carcinoma > = 0.5 cm from all margins DCIS margin :     Not applicable ( no DCIS present ) Lymph node involvement Sentinel nodes :     Sentinel nodes with carcinoma 0     / Total sentinel nodes 2 Non - sentinel nodes :     Non - sentinel nodes with carcinoma : 0     / Total non - sentinel nodes : 0 - Total number of nodes with macrometastases :     0 - Total number of nodes with micrometastases :     
+0 - Total number of nodes with isolated tumor cells :     0 Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) TNM descriptors :     none Primary tumor [ pT ] :     pT1mic : Microinvasion < =   0.1 cm - greatest dimension in largest focus Regional nodes [ pN ] :     pN0 : No regional lymph node metastasis histologically ( ITCs may be present ) N stage modifier :     ( sn ) : Only sentinel node(s ) evaluated . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ INTRAOPERATIVE CONSULTATION : E )     Right axillary SLN # 1 ( touch preparation ) :   Negative for carcinoma . 
+F )     Right axillary SLN # 2 ( touch preparation ) :   Negative for carcinoma .   
+( Robert Ricciotti on 08/17/16 at 11:45 )   ( MUA / kc ) CLINICAL DATA : C50.911   Right breast cancer . 
+IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : E1 , F1 , G8 Population : Cells of interest Interpreted by :   Mark R Kilgore , MD Block     Label     Marker For     Results     Special Pattern or Comments E1     AE1/AE3     Pan - Cytokeratin Cocktail [ AE1/AE3 ]     Negative     Controls appropriately positive E1     E.CADHERIN     E - Cadherin [ EC - C ]     Positive , see comment     Membranous reactivity in a subset of pancytokeratin negative cells in the context of invasive lobular carcinoma , non - contributory . 
+F1     AE1/AE3     Pan - Cytokeratin Cocktail [ AE1/AE3 ]     
+Negative     Controls appropriately positive F1     E.CADHERIN     E - Cadherin [ EC - C ]     Positive , see comment     Membranous reactivity in a subset of pancytokeratin negative cells in the context of invasive lobular carcinoma , non - contributory . 
+G8     E.CADHERIN     E - Cadherin [ EC - C ]     Negative     Controls appropriately positive G8     P63     P 63 , ( BC4A4 )     Absent around neoplastic nests     Controls appropriately positive G8     SMHC     Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     
+Absent around neoplastic nests     Controls appropriately positive Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IHC INTERPRETATION : The findings are supportive of both in - situ and invasive lobular carcinoma and negative lymph nodes . 
+IMMUNOHISTOCHEMISTRY REPORT : Source ( Original Label ) : G8 Population : Invasive carcinoma Interpreted by :   Mark R Kilgore , MD Block     Label     Marker For     Results G8     ER     Estrogen Receptor [ SP1 ] , Quantitative Evaluation     See comment . 
+G8     Fixation time QA     Fixation time QA on predictive markers     28hrs Meets requirements G8     HER2 ( w / HIER )     HER2   ( w/ HIER ) , Quantitative Evaluation     See comment . 
+G8     Ki-67     Ki-67 [ MIB-1 ] , Quantitative Evaluation     See comment . 
+G8     PR88     Progesterone Receptor [ PR88 ] , Quantitative Evaluation     See comment . 
+ER / PR and HER2 immunohistochemical analyses are performed in accordance with 2013 CAP / ASCO guidelines [ Wolff , Hammond et al ] . 
+Department of Pathology protocols dictate that breast cancer containing tissue will be fixed in neutral buffered formalin for a minimum of 6 hours to a maximum of 72 hours for HER2 , ER and PR , unless otherwise noted in this report . 
+ER and PR stains are interpreted using a modified H - score system ( Allred ) based on the proportion of cells staining and intensity of staining : > 1% of cells with weak staining intensity ( Allred score 3 of 8) is the clinically validated threshold for a positive result [ Harvey et al ] HER2 interpretative criteria are those recommended by CAP / ASCO , where 3 + staining ( intense , uniform , homogeneous circumferential membrane staining in > 10% of tumor cells ) is required for a positive ( " high over - expression " ) result . 
+Cases with 2 + ( equivocal ) HER2 staining will be tested for gene amplification using a validated fluorescent in - situ hybridization ( FISH ) technique . 
+These assays have not been validated on decalcified tissues . 
+Results using decalcified tissues should be interpreted with caution , given the likelihood of false negativity in this testing environment . 
+When the above stain result indicates ' Quantitative Evaluation ' , a manual morphometric scoring of the stain was performed . 
+Grimm EE , et al . 
+Am J Clin Pathol ( 2010 ) 14 ; 284 - 92 . 
+Hammond ME , et al . 
+J Clin Oncol ( 2010 ) 28 ; 2784 - 95 . 
+Harvey et al . 
+J Clin Oncol ( 1999 ) 17 ; 1474 - 81 . Wolff AC , et al . 
+Arch Pathol Lab Med ( 2013 ) 137 . 
+Note :   The detection system used is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+COMMENT : Adequate amount of the invasive component of the neoplasm ( invasive lobular carcinoma ) is no longer present on the deeper levels performed for prognostic markers . 
+GROSS DESCRIPTION : A )     Received in formalin labeled " Ray , Kathi , A. left axillary SLN # 1 " is a 1.0 cm blue - dyed possible lymph node with surrounding adipose tissue ; sectioned and entirely submitted in A1 .   
+( MUA / kc ) B )     Received fresh labeled " Ray , Kathi , B. left axillary SLN # 2 " is a 1.5 cm possible lymph node with surrounding adipose tissue ; sectioned and entirely submitted in B1 .   
+( MUA / kc ) C )     Received :   Fresh in a container designated " Ray , Kathi " and " C. left breast . " Specimen type :   Skin - sparing mastectomy . Formalin time :   08/17/2016 at 9:10 p.m. , approximate time in formalin : 20 hours . 
+Tissue obtained for tumor banking :   No . 
+Weight :   192 g 
+Overall size :   19.0 x 15.0 x 2.0 cm . 
+Axillary tail :   Not present . 
+Skin :   Not present . 
+Nipple and Areola :   Not present . 
+Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue . 
+Sectioning :   Medial to lateral in 13 slices of 0.5 cm average thickness . 
+Findings :   No lesions are identified . 
+Background breast :   60% unremarkable yellow lobulated tissue with intervening white fibrous bands . 
+Axillary tail :   Not present . 
+Submitted :   Representative sections are submitted as follows ( from medial to lateral ) : C1-C2 - upper lateral portion of breast , representative section C3-C4 - lower outer portion of breast , representative section C5-C6 - lower and medial portion of breast , representative section C7-C8 - upper medial portion of breast , representative section C9-C10 - area adjacent to area where nipple would be , representative section ( KSS / ch ) D )     Received in formalin labeled " Ray , Kathi , D. left nipple margin " is a 1.0 x 0.7 x 0.2 cm unoriented portion of fibrofatty tissue .   
+Cut surface is yellow , lobulated adipose tissue intermixed with dense white fibrous tissue .   
+A discrete mass or lesion is not identified .   
+It is inked , sectioned and entirely submitted in D1 .   
+( MUA / kc ) E )     Received fresh labeled " Ray , Kathi , E. right axillary SLN # 1 " is a 1.0 cm possible lymph node with surrounding adipose tissue .   
+Touch preparations are performed , sectioned and entirely submitted in E1 .   
+( MUA / kc ) F )     Received fresh labeled " Ray , Kathi , F. right axillary SLN # 2 " is a 1.5 x 1.1 x 0.5 cm portion of adipose tissue with a 0.5 x 0.3 x 0.2 cm possible lymph node .   
+Touch preparations are performed , bisected and entirely submitted in F1 .   
+( MUA / kc ) G )     Received :   Fresh in a container designated " Ray , Kathi " and " G. right breast . " Specimen type :   Skin - sparing mastectomy . 
+Formalin time :   08/17/2016 at 1:00 p.m. , approximate time in formalin :   28 hours . 
+Tissue obtained for tumor banking :   Yes .   
+This patient has consented to fresh tissue acquisition for research . 
+Weight :   148 g 
+Overall size :   15.0 x 9.0 x 3.0 cm . 
+Axillary tail :   Not present . 
+Skin :   Not present . 
+Nipple and Areola :   Not present . 
+Possible subareolar region in slices 2 - 5 . 
+Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue . 
+Possible subareola = yellow . 
+Sectioning :   Medial to lateral in 14 slices of 0.5 cm average thickness . 
+Findings :   Lesion # 1 :   Tan - white , firm , fibrous lesion with ill - defined borders . 
+Location :   11:00 , 3.0 cm from nipple Size :   2.5 x 1.5 x 1.0 cm Distance to deep margin :   1.0 cm Distance to superior superficial margin :   0.5 cm Distance to inferior superficial margin :   0.3 cm Evidence of prior biopsy or procedure :   Coil clip is identified in between slices 8 - 9 within the lesion . 
+Submitted :   Representative sections . 
+Background breast :   50% unremarkable yellow lobulated tissue with intervening white fibrous bands . 
+Axillary tail :   Not present . 
+Submitted :   Representative sections are submitted as follows : G1-G3 - composite slice 8 with biopsy site , superior to inferior ( with G1 containing most superior , G2 containing middle section , G3 containing most inferior section ) ( both the inferior and anterior margins are included ) G4-G5 - composite section from slice 7 adjacent to biopsy site , from superior to inferior G6-G7 - composite slice 10 adjacent to biopsy site , from superior to inferior G8 - slice 6 , additional tissue medial to biopsy site G9 - slice 11 , additional tissue lateral to biopsy site G10 - G11 - inferior lateral corner representative G12 - G13 - upper lateral corner representative G14-G15 - medial lower corner representative G16-C17 - upper medial corner representative G18 - additional superficial superior G19 - possible subareola , perpendicular G20 - G21 - composite tissue inferior and posterior to G8 G22 - tissue immediately medial to G8 G23 - tissue from 5 o'clock position , inferior slice 1 G24 - additional inferior slice 8 G25 - inferior slice 9 at 10 o'clock position ( KSS / ch ) H )     Received in formalin labeled " Ray , Kathi , H. right nipple margin " is a 1.5 x 1.1 x 0.7 cm unoriented portion of fibrofatty tissue .   
+Cut surface is yellow , lobulated adipose tissue ( 25% ) intermixed with dense white fibrous tissue ( 75% ) .   
+A discrete mass or lesion is not identified .   
+It is sectioned and entirely submitted in H1 .   
+( MUA / kc ) I )     Received in formalin labeled " Ray , Kathi , I. left breast skin " are two strips of skin , 6.5 x 0.3 x 0.3 cm and 7.8 x 0.3 x 0.3 cm .   
+No discrete mass or lesion is identified .   
+Representative sections are submitted in I1 .   
+( MUA / kc ) J )     Received in formalin labeled " Ray , Kathi , J. right breast skin " is a 14.0 x 0.2 x 0.3 cm strip of skin .   
+No discrete mass , lesion or skin scar is identified .   
+Representative sections submitted in J1 .   
+( MUA / kc ) Kseniya   Shin Medical Student 08/23/2016 Mark R Kilgore MD Pathologist Electronically signed 
+08/25/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 
+ADDENDUM REASON : 
+This addendum is issued for clarification of the right nipple margin and skin specimens , which are uninvolved by carcinoma . 
+ADDENDUM COMMENT : Specimens H ( right nipple margin ) and J ( right breast skin ) were initially reported together with specimen G ( right mastectomy ) because they collectively represent the right breast as a whole .   
+However , this has caused confusion as it makes it appear as though the right nipple margin and skin are involved by carcinoma , which is incorrect .   
+This addendum is issued to clarify this wording to be more accurate of the specimens involved .   
+Specimen G ( right mastectomy ) has invasive lobular carcinoma as detailed in the synoptic cancers summary data sheet above .   
+Specimens H ( right nipple margin ) and J ( right breast skin ) are negative for carcinoma .   
+This information was also communicated to Dr. Calhoun by email by Dr. Kilgore on 8/26/16 .   
+The remainder or the above report remains unchanged . 
+Mark R Kilgore MD Pathologist Electronically signed 
+08/29/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

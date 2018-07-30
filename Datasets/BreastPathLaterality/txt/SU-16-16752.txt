@@ -1,0 +1,27 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    RAY , KATHI MRN :        U3770431      ( UWMC ) DOB :        Feb 25 1968 SEX :        F . 
+CASE :    SU-16 - 16752    COLLECTED :   Jun 29 2016   RECEIVED : Jun 29 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A )   Right breast non - mass enhancement , 11:00 o'clock , core needle biopsy : Invasive lobular carcinoma with the following features : * Involving one core , 2 foci ( close together ) measuring 0.1 cm each . * Nottingham grade I of III for poor tubule formation , low nuclear grade and low mitotic count . 
+* Extensive associated lobular carcinoma in - situ involving multiple cores . 
+COMMENT : Immunohistochemistry for E - cadherin reveals absent membranous staining around individual in - situ neoplastic cells which supports the interpretation of in - situ lobular neoplasia . 
+The invasive foci are gone on deeper levels therefore prognostic markers can not be performed .   
+Dr Mark Kilgore has reviewed the H and E slides and concurs . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : Right breast biopsy - linear non - mass enhancement upper outer quadrant at 11:00 . 
+IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : A1 , A2 Population : Atypical cells Block     Label     Marker For     Results     Special Pattern or Comments A1     E.CADHERIN     E - Cadherin [ EC - C ]     Negative A2     E.CADHERIN     E - Cadherin [ EC - C ]     Negative A2     P63     P 63 , ( BC4A4 )     ( See comment )     No invasive carcinoma left in block A2     SMHC     Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     ( See comment )     
+No invasive carcinoma left in block Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+IHC INTERPRETATION : Given no carcinoma left in block , the stains do not help identify invasion , however histologically there is invasive carcinoma . 
+GROSS DESCRIPTION : A )     Received in formalin labeled " Ray , Kathi , R 11:00 NME " are approximately eight fibrofatty tissue cores ranging from 1.0 to 2.8 cm in length and up to 0.4 cm in diameter .   
+The specimens are wrapped , inked black and submitted entirely in A1-A3 .   
+( HQ / kc ) The specimen was collected on 06/29/16 at 3:37 p.m. resulting in an approximate 16 hour 20 minute fixation in formalin . 
+Nicholas   Reder MD , MPH AP / CP Resident 06/30/2016 Rochelle L Garcia MD Pathologist Electronically signed 07/01/2016 
+In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

@@ -1,0 +1,68 @@
+Discharge Summary Date of Admission : 4/7/2011 Date of Discharge : 
+4/12/2011 Discharge Diagnosis : Stage III 
+Colon CA 
+Resolving pancreatitis Poor nutrition Consults Completed : PT/OT Operations / Procedures : CT abdomen and Pelvis Reason for Admission : 
+In brief , Erica was diagnosed with stage III colon cancer after reporting a 6 - month h/o hematochezia . 
+She underwent sigmoid colectomy with coloproctostomy on 01/17/2011 . 
+She started Folfox + Leucovorin on 02/21/2011 ; she was switched to Xeloda on 03/21/2011 for unclear reasons , which she seemed to tolerate well . 
+She then developed acute abdominal pain and diarrhea a few days ago , prompting admission to Yakima Hospital . 
+She was diagnosed with acute pancreatitis ( lipase peaking in 500 s ) , but was discharged yesterday morning tolerating full PO . 
+Shortly after returning home , however , she experienced diarrhea after eating . 
+The diarrhea resolved early this morning after taking loperamide . 
+She travelled to SCCA today for a pre - schedule appointment to obtain a second opinion for cancer management . 
+Report of T to 100 . 
+5F , abdominal pain and diarrhea prompted admission directly from clinic . 
+Presently , she endorses intermittent mid - upper abdominal pain , rated 7 - 10/10 . 
+It radiates upward into the epigastric region with deep breaths , but otherwise does not radiate . 
+It is unchanged since symptom onset five days ago prior to diagnosis of pancreatitis . 
+Diarrhea yesterday was watery . 
+No N / V , although poor appetite and taking only small amounts of fluids ( mostly ice chips ) . 
+Lightheaded with standing today . 
+Short - lasting dyspnea consistent with known anxiety . 
+No cough . 
+No dysuria . 
+Only sick contact is father with cold , who last visited her a few days ago . 
+Hospital Course : 
+Nausea / Vomiting / Diarrhea / Abdominal Pain : 
+Patient 's symptoms were slow to resolve . 
+For several days , she required multiple doses of IV antiemetics , with zofran primarily . 
+Initially , all attempts at eating solid foods caused increased crampy pain , emesis , and increased diarrhea . 
+Pain was controlled with IV morphine . 
+This persisted for long enough that TPN was considered . 
+Most of her pain / emesis was initially attributed to her resolving pancreatitis . 
+Her diarrhea had been a problem for several weeks , and was attributed largely to the high - dose xeloda and leucovorin interaction . 
+The was ruled out for c diff . 
+CT abdomen and pelvis was obtained , which showed perhaps some increased inflammation in the cecum at her prior surgical site , and a possible liver infarct . 
+Despite the radiographic appearance , LFTs were always normal on admission and on recheck , lactate was normal , and there was really no corroborating evidence of a liver infarct . 
+This was likely a false appearance , perhaps related to contrast timing or inflammation from recent pancreatitis . 
+It did not appear c/w a met , and she has had multiple prior imaging studies that did not reveal a metastasis in this area . 
+The increased colonic inflammation was difficult to interpret in the setting of recent chemo , surgery , and diarrhea . 
+Given her fever / nausea / diarrhea / and appearance of possible colitis on CT , a diagnosis of viral gastroenteritis in addition to chemo toxicity seemed likely . 
+The vomiting and diarrhea slowly improved , and by the day prior to discharge she was able to eat essentially a full diet ( full liquids , french toast , bagel , oatmeal ) , she was down to 1 - 2 loose stools / day , she was taking oral antiemetics , and her abdominal pain was mild and well - controlled with po morphine . 
+Fever : 
+Patient was pan - cultured several times without revealing a cause , c diff negative . 
+As above , this was eventually attributed to a viral illness . 
+She was not treated with antibiotics and was not neutropenic , and defervesced without intervention . 
+Anemia : 
+Patient was notably anemic , c/w iron deficiency . 
+we did not start supplementation 2 / 2 her tenuous GI status , but she would likely benefit from iron when feeling better . 
+Medications at Discharge : 
+Scheduled Medications 
+Docusate 100 mg cap Dose : 200 mg = 2 cap PO BID , hold for loose stools Omeprazole 20 mg cap Dose : 20 mg = 1 cap PO QDay 
+Empty Stomach Senna 8 . 
+6mg tab Dose : 2 tabs PO QDay , hold for loose stools Acetaminophen 325 mg tab Dose : 650 mg = 2 tab PO Q4 Hours PRN Calcium carb 500 mg chewtab ( 200 mg elem ) Dose : 1 , 000 mg = 2 tab Chew Q6 Hours PRN DiphenhydrAMINE 25 mg tab Dose : 25 - 50 mg PO Q6 Hours PRN Ondansetron 4 mg tab Dose : 4 - 8 mg PO Q8 Hours PRN Polyethylene glycol 3350 - NF powder 17 g Dose : 17 g = 1 packet PO QDay PRN Zolpidem 5 mg tab Dose : 5 mg = 1 tab PO QHS PRN 
+Condition : [ x ] 
+Good [ _ ] 
+Fair [ _ ] 
+Poor 
+Other : _ 
+Disposition : 
+Social Work Plan : - - - [ xx ] Home [ _ ] 
+Skilled Nursing Facility 
+Other : 
+_ 
+Clinical Follow - up , including appointments : Dr. Lin , see ORCA Therapeutic Recommendations : 
+Physical Therapy Discharge Recommendations : Home without further therapy ( 04/10/2011 14:20 ) 
+ATTENDING STATEMENT : Attending Day of Discharge Note : I saw the patient and spent [ _ ] greater than 30 minutes [ _ x ] 30 minutes or less personally providing discharge day management services . 
+I agree with the findings and plan as documented in the note written above . 
+Diagnosis : _ colon cancer , pancreatitits , adverse drug reaction Date of Service : 4/12/2011 

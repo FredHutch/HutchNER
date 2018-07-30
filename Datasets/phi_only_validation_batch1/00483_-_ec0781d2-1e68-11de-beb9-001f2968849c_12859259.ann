@@ -1,0 +1,25 @@
+T1	Date 0 18	November 24 , 2009
+T3	Hospital_Name 49 87	Seattle Institute of Oriental Medicine
+T4	Address_and_Components 90 109	916 NE 65 th Street
+T5	Address_and_Components 112 130	Seattle , WA 98115
+T6	Patient_or_Family_Name 142 158	WILCOX , DEIRDRE
+T7	Account_Number 161 169	U0729910
+T11	Hospital_Name 263 301	Multidisciplinary Breast Cancer Clinic
+T16	Date 749 767	November 16 , 2009
+T17	Hospital_Name 782 821	University of Washington Medical Center
+T20	Date 1317 1335	November 19 , 2009
+T24	Date 2008 2012	1988
+T29	Age 2465 2468	80s
+T32	Age 2530 2532	13
+T34	Date 2749 2753	1980
+T35	Date 2846 2850	1993
+T38	Date 3998 4016	November 19 , 2009
+T56	Account_Number 6474 6485	ALLTO study
+T62	Phone_Number 7566 7580	206-663 - 6776
+T36	Profession 2938 2950	yoga teacher
+T77	Profession 2955 2975	massage practitioner
+T2	Provider_Name 23 31	Marcie R
+T80	Provider_Name 34 41	Hamrick
+T8	Provider_Name 185 192	Hamrick
+T13	Provider_Name 411 421	Sara Javid
+T14	Provider_Name 430 442	Waylene Wang

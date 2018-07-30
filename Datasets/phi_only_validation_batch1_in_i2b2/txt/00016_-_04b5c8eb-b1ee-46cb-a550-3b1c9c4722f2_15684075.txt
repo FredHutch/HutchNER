@@ -1,0 +1,103 @@
+Chief Complaint Transplant Diagnosis : Acute myelogenous leukemia ( AML ) . 
+Date of Transplant : 5/6/2010 . 
+Day Post - Transplant : 74 . 
+Interval History New slight rash to hair follicles of chest / abdomen over last few days , non - pruritic . 
+Stools became loose again late last week and pt restarted budesonide with normalization of stools in 48hrs . 
+Pt continued on mag oxide 1 tab PO QID . 
+No N / V or decreased appetite . . 
+Pain Scale : 0 ( 0 none ; 10 worst ) Transplant Status 
+PROTOCOL / TREATMENT PLAN : 739 / 1932 . 
+TRANSPLANT TYPE : allogeneic unrelated , matched peripheral blood stem cell transplant . 
+CMV SEROLOGY : Donor negative , Recipient negative . 
+PREPARATIVE REGIMEN : Myeloablative TBI , cyclophosphamide . 
+GVHD PROPHYLAXIS : 
+Methotrexate , Tacrolimus . 
+Allergies NKA Medications Scheduled Medications acyclovir 800 mg PO BID emollients , topical apply to sun exposed areas when outdoors Topical ( sunscreen SPF - 30 - 50 lotion ) fluconazole 400 mg PO QDay heparin flush 3 ml for flush IV magnesium oxide 400 mg PO QID multivitamin no iron 2 tab Chew QDay pantoprazole 40 mg PO QDay sodium chloride 10 ml for flush IV ( Normal Saline Flush ) Sodium Chloride 0.9 % minibag +5 6 meq mag sulf IV BID sulfamethoxazole - trimethoprim 1 tab PO BID on QMTu ( Bactrim DS ) 
+tacrolimus 1 mg 
+PO Q12 Hours ursodiol 600 mg PO BID PRN Medications lorazepam 0.5 - 2mg PO Q4 Hours PRN ( for nausea / vomiting ) Review of Systems CONSTITUTIONAL Symptoms Denies fever . 
+Denies weakness . 
+ENMT Denies rhinorrhea . 
+Denies oral lesions . 
+Denies sore throat . 
+CARDIOVASCULAR Symptoms Denies chest pain . 
+Denies swelling . 
+RESPIRATORY Symptoms Denies cough . 
+Denies shortness of breath . 
+GASTROINTESTINAL Symptoms diarrhea ( resolved ) , denies abdominal pain , denies nausea , denies vomiting , denies constipation . 
+SKIN Symptoms rash , denies itching . 
+HEME / 
+LYMPH Symptoms denies bleeding , denies bruising . 
+Physical Examination Vital Signs Vital Signs Data . 
+07/19/2010 09:25 
+Temperature - C 36.6 degC Heart Rate 68 bpm Respiratory Rate 16 
+br / min SBP - Noninvasive 
+120 mmHg DBP - Noninvasive 75 mmHg BP Method Manual BP Extremity RIGHT Weight : 
+Height / Weight / BMI - General . 
+07/19/2010 
+09:25 DAILY Weight - kg 82.50 kg CONSTITUTIONAL : well - appearing , no apparent distress . 
+MENTAL STATUS : alert and oriented x3 , Level of Consciousness : alert , normal mood / affect . 
+EYES : EOMI , normal sclera . 
+EARS , NOSE , MOUTH , and THROAT : normal mouth and dentition , normal oropharynx . 
+RESPIRATORY / 
+CHEST : normal respiratory effort , CTAB . 
+CARDIOVASCULAR : regular rate and rhythm , no murmur , rub or gallop , no cyanosis or edema . 
+GASTROINTESTINAL : normal bowel sounds , abdomen non - distended , no hepatomegaly , no splenomegaly , tenderness ( mild to deep palp lower quads ) . 
+MUSCULOSKELETAL : normal gait / stance , normal strength , tone and range of motion . 
+SKIN : no induration or nodules , Lesions / Rash : BSA 18 % , rash ( subtle , fine , follicular rash on chest and abdomen . 
+Minimal erythema , no pustules . ) . 
+Laboratory Studies Laboratory Studies ( Most recent results in 24 hour range . ) 
+RESULTS FROM TODAY RESULTS FROM YESTERDAY 07/19/10 08:20 - - - | - ICa - - - | - ICa - - - 140 104 21 | - Ca 10.2 - - - - - - - - - | - Ca - - - - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 131 | - Mg 1.9 - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < - - - | - Mg - - - 4.3 26 1.0 | - Phos 3.9 - - - - - - - - - | - Phos - - - RESULTS FROM TODAY RESULTS FROM YESTERDAY 07/19/10 08:20 - - - 14.5 | - PT - - - - - - | - PT - - - 4.83 ] - - - - - - - - - - - - - - - - - - - - - - [ 112 | - INR - - - - - - ] - - - - - - - - - - - - - - - - - - - - - - [ - - - | - INR - - - 43 | - PTT - - - - - - | - PTT - - - ( Most recent results for 24 hour range . ) 
+Individual Labs 07/19/2010 08:20 LD ( Total ) 109 07/19/2010 08:20 AST ( GOT ) 24 07/19/2010 08:20 ALT ( GPT ) 43 07/19/2010 08:20 Bilirubin ( Total ) 0.6 07/19/2010 08:20 Bilirubin ( Direct ) 0.1 07/19/2010 08:20 Protein ( Total ) 6.4 07/19/2010 08:20 Albumin 3.8 07/19/2010 08:20 
+MCV 101 07/19/2010 08:20 Neutrophils 3.09 Antibiotics 
+No Results Found . 
+( Most Recent Results for Prior 7 Days . ) 
+Immunosuppressant 07/19/2010 05:00 
+Tacrolimus Level by LCMSMS 
+Pending ( Most Recent Results for Prior 14 Days . ) 
+CMV Results 07/12/2010 08:36 CMV Quant ( PCR ) Result None detected . 
+Viral / CMV Monitoring 
+Herpes Group - Serology / Molecular DX . 
+07/12/2010 08:36 CMV Quant ( PCR ) 
+Specimen Plasma CMV Quant ( PCR ) 
+Result None detected . 
+copies / mL CMV Quant ( PCR ) 
+DNA Copies / mL ( Log 10 ) 
+Not Calculated CMV Quant ( PCR ) Interp . 
+M43735 Assessment / Plan PRIMARY DISEASE : 45 M day 74 after MURD PBSCT for AML . 
+Day 28 BMA with 0.006 % abnormal blasts by flow . 
+Path , cyto negative , PB flow negative . 
+Day 56 BMA with no existing disease by path and flow . 
+Cyto negative . . 
+HEMATOLOGIC : platelet threshold : 10 thousand , Hematocrit threshold : 26 % , Transfusion independent . 
+Follow CBC 2x / week . . 
+INFECTIOUS DISEASE : 
+Infection Prophylaxis : Antifungal agent ( s ) : 
+Fluconazole , bactrim for PCP prophy , Antiviral agent ( s ) : 
+Acyclovir , Plan : Afebrile , continue prophylaxis . 
+DC fluconazole after D75 . 
+. 
+DRUG MONITORING : Tacrolimus : level pending . 
+GRAFT - VERSUS - HOST 
+DISEASE : History of GVHD : skin , GI tract . 
+Plan : FK - 506 and post transplant methotrexate prophylaxis . 
+New onset diarrhea on 5 / 19 , EGD / Flex Sig 5 / 20 . 
+Started empiric beclothemasone and budesonide on 5 / 20 per GI recommendations . 
+Final pathology of endoscopy suggestive of residual chemotherapy toxicity versus early GVHD . 
+B & B dc ' d but budesonide restarted on 6 / 18 due to diarrhea and abdominal cramping . 
+Loose stools that are now formed after pt restarted budesonide on 7 / 15 . 
+In past , diarrhea not resolved with holding mag oxide . 
+Presently controlled with budesonide and will continue budesonide and mag oxide . 
+Skin biopsy positive for GVHD on 6 / 14 . 
+Skin rashes resolved after topical triamcinolone but now with very subtle follicular rash . 
+Continue to follow . . 
+GASTROINTESTINAL : 
+Diarrhea : Resolved after restart of budesonide . 
+See above . . 
+FLUIDS , ELECTROLYTES & NUTRITION : 
+Hypomagnesemia : 
+Repleting with mag sulfate 48 meq IV BID and mag oxide 
+PO now 400 mg QID . . 
+Comments Plan : Follow for GVHD symptoms . 
+Next BMA at day 80 . 
+Pt to see LTFU prior to discharge . 
+Signature Judson Hall , PA - C FHCRC / SCCA Pager 314 - 0063 

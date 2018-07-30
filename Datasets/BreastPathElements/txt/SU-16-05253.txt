@@ -1,0 +1,48 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    FITZPATRICK , MARTHA MRN :        U2031104      ( UWMC ) DOB :        Dec 19 1958 SEX :        F . 
+CASE :    SU-16 - 05253    COLLECTED :   Feb 29 2016   RECEIVED : Mar   1 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A ) Sentinel node # 1 , dissection : One lymph node , positive for metastatic carcinoma ( micrometastasis ) . 
+B ) Sentinel node # 2 , dissection : Fibroadipose tissue , no lymphoid tissue present . 
+Negative for carcinoma . 
+C ) Sentinel node # 3 , dissection : One lymph node , negative for carcinoma . 
+D ) Sentinel node # 4 , dissection : One lymph node , negative for carcinoma . 
+E ) Left breast , mastectomy : Invasive ductal carcinoma , ( see summary cancer data ) . 
+G ) Left breast implant : For gross examination only . 
+G ) Left breast skin , biopsy : Skin with dermal fibrosis , negative for carcinoma 
+. SUMMARY CANCER DATA : Specimen and procedure Procedure :     Total mastectomy ( including nipple and skin ) Specimen laterality :     Left Invasive carcinoma with the following features : Histologic type :     Invasive ductal carcinoma , NOS ( 85003 ) Size ( largest focus ) :     1.3 cm Focality of invasive carcinoma :     Single contiguous focus Nottingham Grade :     Grade I : 3 - 5 points - Tubule Formation :     1 point ( > 75% ) - Nuclear Pleomorphism :     2 points ( moderate ) - Mitotic Activity :     1 point Ancillary Studies Source :     Previous UW Medicine biopsy Accession number :     SU15 - 30379 Estrogen receptor :     Positive Allred score :     8 of 8 Progesterone receptor :     Positive Allred score :     8 of 8 c - erb - B2 ( her 2 ) by IHC :     Negative for her 2 overexpression by IHC HER 2 by FISH :     Not performed / reported Skin status :     Not involved Nipple status :     Not involved Skeletal muscle status :     Skeletal muscle not present Ductal carcinoma in - situ ( DCIS ) :     Present ( 85002 ) Nuclear grade of DCIS :     Intermediate Necrosis associated with DCIS :     Not identified DCIS qualifies as " extensive intraductal component " ? :     
+No Changes consistent with previous biopsy site :     Present Microcalcifications :     Present in non - neoplastic tissue Present in invasive carcinoma Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Invasive carcinoma > = 0.5 cm from all margins DCIS margin :     DCIS > = 0.5 cm from all margins Lymph node involvement Sentinel nodes :     Sentinel nodes with carcinoma 1     / Total sentinel nodes 4 Non - sentinel nodes :     Non - sentinel nodes with carcinoma : 0     / Total non - sentinel nodes : 0 - Total number of nodes with macrometastases :     0 - Total number of nodes with micrometastases :     1 - Total number of nodes with isolated tumor cells :     0 Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) TNM descriptors :     none Primary tumor [ pT ] :     pT1c : Tumor > 1.0 cm and < = 2.0 cm - greatest dimension Regional nodes [ pN ] : pN1mi : Micrometastasis ( greater than 0.02 cm and/or more than 200 cells , but none greater than 0.2 cm ) N stage modifier :     ( sn ) : Only sentinel node(s ) evaluated . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ INTRAOPERATIVE CONSULTATION : A )     Sentinel node # 1 ( touch preparation ) :   No carcinoma cells identified . 
+B )     Sentinel node # 2 ( touch preparation ) :   No carcinoma cells identified . 
+C )     Sentinel node # 3 ( touch preparation ) :   No carcinoma cells identified 
+. D )     Sentinel node # 4 ( touch preparation ) :   No carcinoma cells identified .   
+( MP Upton / Nick Reder )   ( MUA / kc ) Comment : Touch prep slide for specimen A was reviewed , no carcinoma cells identified . 
+CLINICAL DATA : Left breast cancer .   
+C50.912 . 
+GROSS DESCRIPTION : A )     Received fresh labeled " Fitzpatrick , Martha , A. sentinel node # 1 " is a 2.2 x 1.0 x 0.5 cm portion of adipose tissue with a 0.8 cm blue - dyed possible lymph node .   
+Touch preparations are performed .   
+The node is bisected and entirely submitted in A1 . 
+B )     Received fresh labeled " Fitzpatrick , Martha , B. sentinel node # 2 " is a 1.2 x 1.0 x 0.5 cm portion of adipose tissue with a 0.7 cm blue - dyed possible lymph node .   
+Touch preparations are performed .   
+The tissue is entirely submitted in B1 . 
+C )     Received fresh labeled " Fitzpatrick , Martha , C. sentinel node # 3 " is a 0.3 x 0.3 x 0.3 cm possible lymph node with surrounding adipose tissue .   
+Touch preparations are performed .   
+The node is bisected and entirely submitted in C1 . 
+D )     Received fresh labeled " Fitzpatrick , Martha , D. sentinel node # 4 " is a 0.4 x 0.3 x 0.3 cm blue - dyed possible lymph node with surrounding adipose tissue .   
+The node is bisected and touch preparations are performed .   
+The node is entirely submitted in D1 . 
+E )     Received fresh in a container labeled " Fitzpatrick , Martha , left breast , suture marking long lateral , short superior " is a 331 g mastectomy specimen measuring 18 cm from medial to lateral , 16 cm from superior to inferior , and 1.4 cm from anterior to posterior .   
+There is a 4.6 x 3.2 cm tan skin ellipse containing nipple and areola , with the pointed end of the skin toward the designated lateral side .   
+The nipple areolar complex is 3 x 2.9 cm . 
+The short stitch is designated as superior ; by the surgeon , however , it is located at inferior aspect of the specimen by correlation to radiological localization of the lesion in the specimen .   
+The specimen is inked as follows :   superior anterior margin - blue , superior inferior margin ( with the short stitch ) - orange , posterior margin - black .   
+The specimen is serially sectioned from medial to lateral and reveals a white - tan irregular firm mass ( 1.3 x 1 x 1 cm ) located at 12:00 and 3.8 cm superior to nipple areolar .   
+The center of the mass has a cavity with hemorrhage consistent with previous biopsy site .   
+The mass is 0.6 cm to the nearest anterior margin and 0.7 cm to the nearest posterior margin .   
+The remainder of breast tissue is yellow - tan and unremarkable .   
+Representative sections are submitted as follows : E1-E6 - entire mass ( E2 and E3 one composite section , E4 and E5 one composite section ) E7-E8 - fibrous area adjacent to the mass E9 - inner upper quadrant , random section E10 inner lower quadrant , random section E11 - outer upper quadrant , random section E12 - lower outer quadrant , random section E13 - nipple areolar complex ( LC / pwt ) F )     Received fresh labeled " Fitzpatrick , Martha , F. left breast implant " is a 10.5 x 10.5 x 3.0 cm intact breast implant filled with saline - like fluid .   
+The manufacturer 's markings are " X 3 " .   
+No soft tissue is identified for microscopic evaluation .   
+A photograph is taken . 
+G )     Received in formalin labeled " Fitzpatrick , Martha , G. left breast skin " is an 18.0 x 5.0 x 0.3 cm strip of skin .   
+No discrete masses or lesions are identified .   
+Representative sections are submitted in G1 .   
+( MUA / kc ) Lin   Cheng MD , PhD Fellow 03/02/2016 Sania   Shuja MD , PhD Pathologist Electronically signed 
+03/03/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 

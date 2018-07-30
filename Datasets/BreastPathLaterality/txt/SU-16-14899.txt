@@ -1,0 +1,59 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    SEELBACH , LUDMILA MARY MRN :        U4114811      ( UWMC ) DOB :        Dec 20 1960 SEX :        F . 
+CASE :    SU-16 - 14899    COLLECTED :   Jun   9 2016   RECEIVED : Jun   9 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FINAL DIAGNOSIS : A ) Left breast , 8:00 mass , MRI - guided needle core biopsy : Invasive ductal carcinoma with the following : 1 . 
+Nottingham grade 1 : Poor tubule formation , low nuclear grade , low mitotic index . 2 . 
+Size : Involving multiple cores measuring up to 0.5 cm . 
+3 . 
+Ductal carcinoma in situ , intermediate nuclear grade without necrosis . 
+4 . 
+Negative for angiolymphatic invasion . 
+5 . 
+Calcifications associated with benign ductal profiles and invasive and in situ carcinoma 
+. 6 . 
+Prognostic markers : a. Positive for estrogen and progesterone receptor expression ( Allred 8 and 8 of 8) . 
+b. Negative for Her2 overexpression by IHC . c. Proliferative index ( Ki67 ) : 15% d. E - cadherin positive , supporting ductal differentiation . 
+B ) Left breast , 12:00 NME , MRI - guided needle core biopsy : Ductal carcinoma in situ with the following : 1 . 
+High nuclear grade with necrosis . 2 . 
+Negative for invasive carcinoma COMMENT : 
+A smooth muscle stain performed on the 12:00 biopsy demonstrates positivity around tumor nests , confirming the histologic impression of lack of invasive carcinoma at this site . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLINICAL DATA : Part A - mass at 8:00 , left breast Part B - non - mass enhancement at 12:00 measuring 11.0 mm 
+The specimen is collected on 06/09/16 at 8:45 a.m.   Total fixation time 6 hours 15 minutes . 
+IMMUNOHISTOCHEMISTRY STUDIES : Source ( Original Label ) : A1 , B1 Population : carcinoma Block     Label     Marker For     Results     Special Pattern or Comments A1     E.CADHERIN     E - Cadherin [ EC - C ]     Positive , 3 + ( > 75% of cells ) B1     SMHC     
+Smooth Muscle Myosin Heavy Chain [ SMMS-1 ]     Positive around tumor nests Formalin - fixed , deparaffinized sections are incubated with the following panel of monoclonal and/or polyclonal antibodies . 
+Localization is via an avidin biotin or streptavidin biotin immunoperoxidase method , with or without the use of heat induced epitope retrieval techniques . 
+Results on the population(s ) of interest are as indicated in the table(s ) above . 
+Note :   The performance characteristics of all immunohistochemical stains cited above were determined by the UW Medicine Pathology Laboratories and may include monoclonal or polyclonal antibodies whose binding is detected by avidin - biotin - peroxidase/ diaminobenzidine or Leica Bond Polymer Refine detection systems as part of ongoing quality assurance programs and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Testing may have been performed at either University of Washington or Harborview Medical Centers , both labs being CLIA - certified .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the diagnostic Immunohistochemistry laboratories of the University of Washington , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+: IMMUNOHISTOCHEMISTRY REPORT : Source ( Original Label ) : A1 Population : Invasive carcinoma Block     Label     Marker For     Results     Special Pattern or Comments A1     ER     Estrogen Receptor [ SP1 ] , Quantitative Evaluation     97 % positive cells     Positive : Allred 8 of 8 Intensity : Strong A1     Fixation time QA     Fixation time QA on predictive markers     Meets requirements A1     HER2 ( w / HIER )     HER2   ( w/ HIER ) , Quantitative Evaluation     No over - expression ( 1 + ) A1     Ki-67     Ki-67 [ MIB-1 ] , Quantitative Evaluation     15 % positive cells A1     PR88     Progesterone Receptor [ PR88 ] , Quantitative Evaluation     90 % positive cells     Positive : Allred 8 of 8 Intensity : Strong ER / PR and HER2 immunohistochemical analyses are performed in accordance with 2013 CAP / ASCO guidelines [ Wolff , Hammond et al ] . 
+Department of Pathology protocols dictate that breast cancer containing tissue will be fixed in neutral buffered formalin for a minimum of 6 hours to a maximum of 72 hours for HER2 , ER and PR , unless otherwise noted in this report . 
+ER and PR stains are interpreted using a modified H - score system ( Allred ) based on the proportion of cells staining and intensity of staining : > 1% of cells with weak staining intensity ( Allred score 3 of 8) is the clinically validated threshold for a positive result [ Harvey et al ] HER2 interpretative criteria are those recommended by CAP / ASCO , where 3 + staining ( intense , uniform , homogeneous circumferential membrane staining in > 10% of tumor cells ) is required for a positive ( " high over - expression " ) result . 
+Cases with 2 + ( equivocal ) HER2 staining will be tested for gene amplification using a validated fluorescent in - situ hybridization ( FISH ) technique . 
+These assays have not been validated on decalcified tissues . 
+Results using decalcified tissues should be interpreted with caution , given the likelihood of false negativity in this testing environment . 
+When the above stain result indicates ' Quantitative Evaluation ' , a manual morphometric scoring of the stain was performed . 
+Grimm EE , et al . 
+Am J Clin Pathol ( 2010 ) 14 ; 284 - 92 . 
+Hammond ME , et al . 
+J Clin Oncol ( 2010 ) 28 ; 2784 - 95 . 
+Harvey et al . 
+J Clin Oncol ( 1999 ) 17 ; 1474 - 81 . Wolff AC , 
+et al . Arch Pathol Lab Med ( 2013 ) 
+137 . 
+Note :   The detection system used is the Leica Bond Polymer Refined Detection Kit System .   
+The performance characteristics of all immunohistochemical stains cited in this report were determined by the Immunohistochemistry Laboratory at the University of Washington Medical Center , Department of Pathology , as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 ( CLIA ' 88 ) .   
+Some of these tests rely on the use of " analyte specific reagents " and are subject to specific labeling requirements by the US Food and Drug Administration .   
+Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services ( formerly HCFA ) as a high complexity laboratory under CLIA ' 88 .   
+These tests need not be cleared or approved by the FDA prior to their use .   
+Nevertheless , federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report . 
+This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Washington Medical Center , Department of Pathology .   
+It has not been cleared or approved by the U. S. Food and Drug Administration . 
+GROSS DESCRIPTION : A )     Received in formalin labeled " Seelbach , Ludmila Mary , A. L MRI - guided needle biopsy mass 8:00 " are nine up to 0.3 cm diameter elongated cylindrical portions of fibrofatty tissue , 0.4 - 1.8 cm long , entirely submitted in A1 . 
+B )     Received in formalin labeled " Seelbach , Ludmila Mary , B. L MRI - guided needle biopsy NME 12:00 " are six 0.3 cm diameter elongated , cylindrical portions of fibrofatty tissue , up to 3.0 cm long , entirely submitted in B1 .   
+( MUA / kc ) Rouba   Hadi MD Resident 06/13/2016 Suzanne   Dintzis MD , PhD Pathologist Electronically signed 06/13/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

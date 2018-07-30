@@ -1,0 +1,76 @@
+* * DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT * * PATIENT :    DULLUM , ANNIE MICHELLE MRN :        U3852607      ( UWMC ) DOB :        May   1 1986 SEX :        F . 
+CASE :    SU-16 - 25816    COLLECTED :   Oct   6 2016   RECEIVED : Oct   6 2016 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+FINAL DIAGNOSIS : I ) Right breast , mastectomy : Invasive ductal carcinoma , see Summary Cancer Data below . 
+E ) Right axillary sentinel lymph node # 1 , excision : 1 lymph node positive for metastatic carcinoma ( approximately 0.15 cm in maximum span ) ; See comment . 
+F , G ) Right axillary sentinel lymph nodes # 2 and # 3 , excisions : 2 lymph nodes negative for carcinoma . 
+A ) Left breast , mastectomy : Ductal carcinoma in situ ( DCIS ) with the following features : -   Grade : High nuclear grade and without necrosis . -   Extent :   Scattered discontinuous foci , each no more than 0.1 cm , spanning approximately 2.5 cm 
+. -   Margins :   DCIS is focally 0.2 cm from the posterior margin and greater than 0.5 cm from all remaining margins 
+. -   Microcalcifications : Present in association with non - neoplastic epithelium . 
+-   Additional findings : Fibrocystic changes including usual ductal hyperplasia , columnar cell change , apocrine metaplasia , and microcysts . -   Biopsy site changes are present and associated with an organizing hematoma . 
+-   Negative for invasive carcinoma . 
+C , D ) Left axillary sentinel nodes # 1 and # 2 , excisions : 3 lymph nodes negative for carcinoma . 
+B , J ) Left and right nipple margins , excisions : Breast parenchyma , negative for in situ and invasive carcinoma . 
+H , K ) Left and right breast tissue , excisions : Skin , negative for neoplasm . 
+COMMENT : E ) 
+The sentinel lymph node touch preparations were reviewed in conjunction with the histologic sections and the interpretation rendered at the time of intraoperative consultation ( negative for carcinoma ) is unchanged .   
+Given the small metastatic focus , the discrepancy between the intraoperative and post - operative diagnoses is attributed to sampling . 
+SUMMARY CANCER DATA : Specimen and procedure Procedure :     Nipple- and skin - sparing mastectomy Specimen laterality :     Right Invasive carcinoma with the following features : Histologic type :     Invasive ductal carcinoma , NOS ( 85003 ) Size ( largest focus ) :     1.2 cm Comment about size determination : The greatest dimension of invasive carcinoma is based on an on - slide measurement . 
+Focality of invasive carcinoma :     Single contiguous focus Nottingham Grade :     Grade III : 8 - 9 points - Tubule Formation :     3 points ( < 10% ) - Nuclear Pleomorphism :     3 points ( severe ) - Mitotic Activity :     3 points Ancillary Studies Source :     Previous UW Medicine biopsy Accession number :     SU-16 - 24112 Estrogen receptor :     Positive Allred score :     8 Progesterone receptor :     Positive Allred score :     8 c - erb - B2 ( her 2 ) by IHC :     Positive for her 2 overexpression by immunohistochemistry Ki-67 proliferative index :     25% HER 2 by FISH :     Not performed / reported Skin status :     Can not assess ( skin not present ) Nipple status :     Can not assess ( nipple not present ) Comment about skin / nipple : Although the nipple and skin were absent from the mastectomy specimen , the separately submitted nipple margin and right breast skin are negative for in situ and invasive carcinoma ( parts J and K , respectively ) . 
+Skeletal muscle status :     Skeletal muscle not present Ductal carcinoma in - situ ( DCIS ) :     Present ( 85002 ) Nuclear grade of DCIS :     High Necrosis associated with DCIS : Present and central ( expansive " comedo " necrosis ) Distance spanned by DCIS :     1.5 cm DCIS qualifies as " extensive intraductal component " ? :     No Comment about DCIS : Multiple discontinuous foci of DCIS in association with invasive carcinoma . 
+Changes consistent with previous biopsy site :     
+Present Final surgical resection margins ( including separately submitted margins ) : Invasive carcinoma margins :     Invasive carcinoma > = 0.5 cm from all margins DCIS margin :     DCIS > = 0.2 cm and < 0.5 cm from at least one margin DCIS Margins :     DCIS is present 0.4 cm from superior superficial margin . 
+Lymph node involvement Sentinel nodes :     Sentinel nodes with carcinoma 1     / Total sentinel nodes 3 Non - sentinel nodes :     Non - sentinel nodes with carcinoma : 0     / Total non - sentinel nodes : 0 - Total number of nodes with macrometastases :     0 - Total number of nodes with micrometastases :     1 - Total number of nodes with isolated tumor cells :     0 
+Size of largest metastatic focus :     0.15 cm Extracapsular Extension :     Not identified Minimum pathologic stage ( AJCC , 7th ed . , 2010 ) TNM descriptors :     none Primary tumor [ pT ] :     pT1c : Tumor > 1.0 cm and < = 2.0 cm - greatest dimension Regional nodes [ pN ] : pN1mi : Micrometastasis ( greater than 0.02 cm and/or more than 200 cells , but none greater than 0.2 cm ) N stage modifier :     ( sn ) : Only sentinel node(s ) evaluated . 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ INTRAOPERATIVE CONSULTATION : E.   Right axillary sentinel lymph node # 1 ( touch preparation ) :   Negative for carcinoma 
+. Performed by Lisa Koch on 10/06/16 at 2:44 p.m. 
+F.   Right axillary sentinel lymph node # 2 ( touch preparation ) :   Negative for carcinoma . 
+Performed by Lisa Koch on 10/06/16 at 2:44 p.m. G.   Right axillary sentinel lymph node # 3 ( touch preparation ) :   Negative for carcinoma . 
+Performed by Lisa Koch on 10/06/16 at 2:44 p.m. ( MUA / clk ) CLINICAL 
+DATA : ( ICD Code : C50.91 ) GROSS DESCRIPTION : A )     Received :   Fresh in a container labeled " Dullum , Annie Michelle " and designated " left breast short superior , long lateral " Specimen type :   Left skin and nipple - sparing total mastectomy Formalin time :   1830 on 10/06/2016 , grossing time 4:00 p.m. on 10/07/2016 Tissue obtained for tumor banking : No Weight :   334 g 
+Overall size :   16.0 SI x 17.0 ML x 3.0 AP cm Skin :   Not received . 
+Nipple and Areola : Not received . 
+Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Sectioning :   Parasagittal plane into 17 slices of 0.6 cm average thickness Findings : Lesion # 1 :   Hard , tan - white nodular tissue surrounding biopsy site hematoma . 
+Location :   6:00 , approximately 3.0 cm from sub - areolar inked tissue Size : 3.0 x 2.0 x 4.5 cm in slices 7 - 13 Distance to deep margin :   0.3 cm Distance to superior superficial margin :   Greater than 3.0 cm Distance to inferior superficial margin :   1.5 cm Evidence of prior biopsy or procedure :   Well circumscribed cavity filled with hemorrhage surrounded by parenchymal hemorrhage Submitted :   Representative Lesion # 2 :   Indistinct firm , nodular tan - white area . 
+Location :   2:00 from subareolar inked tissue approximately 6 cm away 
+Size : 4.0 x 2.0 x 3.5 cm Distance to deep margin :   1.3 cm Distance to superior superficial margin :   0.8 cm Distance to inferior superficial margin :   Greater than 5.0 cm Evidence of prior biopsy or procedure :   Not identified . 
+Submitted :   Representative Background breast :   
+Approximately 30% unremarkable yellow lobulated tissue with intervening white fibrous bands . 
+Submitted : A1 - uninvolved tissue lateral to lesion # 1 , slice 6 A2 - lesion # 1 , slice 7 A3-A4 - lesion # 1 , slice 8 A5-A6 - lesion # 1 , slice 9 A7 - lesion # 1 , slice 10 A8 - lesion # 1 , medial extent slice 13 A9 - uninvolved tissue medial to lesion # 1 , slice 14 A10 - superior superficial margin adjacent to lesion # 1 A11 - lesion # 2 , superior superficial margin A12 - lesion # 2 , deep margin A13 - upper outer quadrant A14 - upper inner quadrant A15 - lower outer quadrant A16 - lower inner quadrant ( LJP / kc ) B )     Received in formalin labeled " Dullum , Annie Michelle , B. left nipple margin " is a 1.3 x 0.8 x 0.4 cm unoriented portion of fibrofatty tissue .   
+It is inked .   
+The cut surface is dense white fibrous tissue intermixed with a small amount of yellow , lobulated adipose tissue .   
+No discrete mass or lesion is identified .   
+It is sectioned and entirely submitted in B1 .   
+( MUA / kc ) C )     Received in formalin labeled " Dullum , Annie Michelle , C. left axillary sentinel lymph node # 1 " is a 1.8 cm possible lymph node with surrounding adipose tissue .   
+The node is sectioned and entirely submitted in C1 .   
+( MUA / kc ) D )     Received in formalin labeled " Dullum , Annie Michelle , D. left axillary sentinel lymph node # 2 " are two possible lymph nodes with surrounding adipose tissue , 1.1 and 1.5 cm .   
+The nodes are sectioned and entirely submitted in D1-D2 ( one node per cassette ) .   
+( MUA / kc ) E )     Received fresh labeled " Dullum , Annie Michelle ; E. right axillary sentinel lymph node # 1 " is a 1.6 x 1.0 x 0.5 cm possible lymph node with surrounding adipose tissue . 
+Touch preparations are performed . 
+Sectioned and entirely submitted in E1 . 
+( MUA / clk ) F )     Received fresh labeled " Dullum , Annie Michelle ; F. right axillary sentinel lymph node # 2 " is a 2.5 x 1.5 x 0.8 cm possible lymph node with surrounding adipose tissue . 
+Touch preparations are performed . 
+Bisected and entirely submitted in F1 . 
+( MUA / clk ) G )     Received fresh labeled " Dullum , Annie Michelle ; G. right axillary sentinel lymph node # 3 " is a 1.3 x 0.8 x 0.6 cm possible lymph node with surrounding adipose tissue . 
+Touch preparations are performed . 
+Bisected and entirely submitted in G1 . 
+( MUA / clk ) H )     Received in formalin labeled " Dullum , Annie Michelle , H. left breast tissue " are two portions of skin , 6.5 x 0.3 x 0.3 and 6.0 x 0.5 x 0.7 cm .   
+No discrete mass or lesion is identified .   
+Representative sections submitted in H1 .   
+( MUA / kc ) I )     Received :   Fresh in a container designated " Dullum , Annie " and " right breast short stitch superior , long lateral " Specimen type :   Right nipple and skin - sparing total mastectomy . 
+Formalin time :   1800 on 10/06/2016 , grossing time 4:00 p.m. on 10/07/2016 
+Tissue obtained for tumor banking : No Weight :   326 g 
+Overall size :   17.0 cm SI x 17.0 cm ML x 3.0 AP Skin :   Not present . 
+Nipple and Areola : Not present . 
+Ink :   Per protocol , deep = black , superior superficial = orange , inferior superficial = blue Sectioning :   Parasagittal plane into 15 slices averaging 0.8 cm thick Findings : Lesion # 1 :   Hard tan - white mass . 
+Location :   12:00 , 4.0 cm from subareolar ink Size : 1.5 x 1.3 x 1.1 cm Distance to deep margin :   Greater than 1.5 cm Distance to superior superficial margin :   0.5 cm Distance to inferior superficial margin :   Greater than 6.0 cm Evidence of prior biopsy :   Biopsy cavity and gel foam is present with surrounding hemorrhage Submitted : Entirely Background breast :   Markedly dense , tan - white breast tissue comprising approximately 90% of the breast parenchyma with minimal yellow lobulated adipose tissue . Submitted : I1 - uninvolved tissue medial to lesion # 1 I2 - lesion # 1 , medial extent I3-I4 - lesion # 1 , composite with superior superficial margin I5 - lesion # 1 , lateral extent I6 - uninvolved tissue lateral to lesion # 1 I7-I8 - representative upper inner quadrant I9-I10 - representative upper outer quadrant I11-I12 - representative lower inner quadrant I13-I14 - representative lower outer quadrant ( LJP / kc ) J )     Received in formalin labeled " Dullum , Annie Michelle , J. right nipple margin " is a 1.0 x 0.8 x 0.5 cm unoriented portion of fibrofatty tissue .   
+It is inked .   
+Cut surface is predominantly dense white fibrous tissue intermixed with a small amount of yellow , lobulated adipose tissue .   
+No discrete mass or lesion is identified .   
+It is trisected and entirely submitted in J1 .   
+( MUA / kc ) K )     Received in formalin labeled " Dullum , Annie Michelle , K. right breast skin " are two portions of skin , 5.0 x 0.4 x 0.7 cm and 9.0 x 0.3 x 0.5 cm .   
+No discrete mass or lesion is identified .   
+Representative sections submitted in K1 .   
+( MUA / kc ) Kathryn P Scherpelz MD , PhD Resident 10/11/2016 Emily Huisuk Glynn MD Pathologist Electronically signed 
+10/11/2016 In compliance with CMS regulations , the pathologist 's signature on this report indicates that the case has been personally reviewed , and the diagnosis made or confirmed by , the Attending Pathologist . 
+Microscopic examination was used to arrive at the diagnosis unless indicated otherwise . 
+Testing Location : University of Washington Medical Center , 1959 NE Pacific Street , Box 356100 , Seattle , WA 98195 Ph : 206 - 598 - 6400 Fax : 206 - 598 - 5068 . 

@@ -1,0 +1,16 @@
+T1	Ward_Name 2 23	SCCA MEDICAL ONCOLOGY
+T2	Date 44 54	12/04/2012
+T3	Patient_or_Family_Name 78 85	Roberto
+T4	Age 91 93	54
+T6	Provider_Name 358 369	Laura Q M
+T7	Provider_Name 372 376	Chow
+T8	Date 395 412	December 3 , 2012
+T9	Provider_Name 486 493	Michael
+T10	Provider_Name 494 502	Mulligan
+T11	Provider_Name 533 537	Chow
+T13	Hospital_Name 752 791	University of Washington Medical Center
+T25	Provider_Name 2116 2123	Roberto
+T26	Age 2129 2131	54
+T28	Ward_Name 2398 2409	8 Southeast
+T44	Hospital_Name 3048 3058	University
+T45	Ward_Name 3232 3243	8 Southeast

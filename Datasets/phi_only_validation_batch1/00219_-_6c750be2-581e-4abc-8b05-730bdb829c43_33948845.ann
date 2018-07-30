@@ -1,0 +1,28 @@
+T1	Provider_Name 38 45	Martins
+T2	Provider_Name 53 59	Renato
+T4	Provider_Name 90 96	Yelena
+T5	Provider_Name 97 104	Brukhis
+T6	Provider_Name 110 115	Karen
+T7	Provider_Name 116 121	Baker
+T8	Date 236 250	( 10/08/2013 )
+T11	Date 448 458	10/08/2013
+T12	Date 533 541	06/25/12
+T3	Date 651 661	10/08/2013
+T13	Date 1053 1063	10/08/2013
+T14	Hospital_Name 1098 1102	UWMC
+T15	Date 1354 1362	10/08/13
+T16	Date 1696 1704	4/9/2013
+T17	Date 1943 1952	7/17/2012
+T18	Date 1964 1973	2/19/2013
+T19	Date 2123 2132	7/12/2012
+T20	Date 2146 2155	7/12/2012
+T21	Date 2250 2259	7/10/2012
+T22	Date 2273 2282	7/14/2012
+T23	Patient_or_Family_Name 2465 2473	Gallegos
+T24	Age 2479 2481	46
+T25	Hospital_Name 4558 4569	UW Medicine
+T26	Date 6123 6133	01/07/2014
+T27	Patient_or_Family_Name 6617 6625	Gallegos
+T28	Age 6631 6633	46
+T29	Provider_Name 7368 7374	Renato
+T30	Provider_Name 7375 7382	Martins

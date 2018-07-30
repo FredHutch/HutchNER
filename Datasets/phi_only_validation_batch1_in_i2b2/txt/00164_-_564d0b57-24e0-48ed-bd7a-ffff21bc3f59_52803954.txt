@@ -1,0 +1,116 @@
+HOSPITAL DAY : 0 
+CHIEF CONCERN : This is a 83 year old female who presents with second relapse of AML , admitted for salvage therapy w / mini - GCLAM . 
+PCP : Dr. John Raduege , MD Oncologist : Dr. Estey , MD . 
+HISTORY OF PRESENT ILLNESS : Ms Pauline Ingersol is a very active and otherwise healthy woman with AML , NPM + / FLT3 - , who was recently admitted 3 / 7 - 3/15 / 2017 for salvage therapy with mini - GLCAM . 
+A bone marrow on 4 / 10 , obtained after this cycle of chemo , revealed persistent disease w / 30 % blasts by morphology and flow cytometry . 
+In meeting w / Dr. Estey in clinic , the patient elected to attempt and additional cycle of salvage chemotherapy w / intent to acheive remission . 
+On interview today , Ms. Ingersol denies any distress or symptoms . 
+She denies fevers , chills , SOB , chest pain . 
+Denies fatigue , stating " I threw a bale of hay over my head today , I feel great ! " . 
+No nausea / vomiting , no constipation or diarrhea . 
+No headache . 
+No focal neurological deficits . 
+The patient completes all ADLs and iADLs w 
+/ o assistance . 
+PROBLEM LIST : 
+Hypokalemia , POA 4/22/13 improving ATN due to nephrotoxicity from medications , POA 2/12/13 Irradiated blood product 1 ) Added by Discern Expert PAST MEDICAL HISTORY : - hypertension - CKD stage III , baseline Cr 1.2 - 1.6 , possibly secondary to chemotherapy - AML a summary of the patient 's diagnostic and treatment history is provided courtesy of Heather Smith 's clinic note dated 3/24/17 : " 1 . 
+Diagnosed with AML in December 2012 , NPM1 positive , FLT3 negative . 
+She had a preceding 5 - month history of worsening fatigue and dyspnea on exertion and some epistaxis . 
+A bone marrow on 12/05/2012 , confirmed AML with 38 % blasts by morphology , 44 % by flow cytometry , normal cytogenetics by standard metaphase testing . 
+However , I - FISH testing revealed 4 of 300 cells with trisomy 8 of unclear significance . 
+At that time , her TRM score was quite low , and she was treated with standard 7 + 3 plus ATRA on 12/27/2012 . 
+She achieved remission after her first cycle . 2 . 
+She went on to receive consolidation chemotherapy with Ara - C with 400 mg / sq m on days 1 through 5 with ATRA 30 mg daily in divided doses on days 3 through 28 , with cycle # 2 on 03/12/2013 and cycle # 3 on 04/18/2013 . 
+A bone marrow aspiration obtained on 05/20/2013 revealed a normocellular marrow with trilineage hematopoiesis and no evidence of leukemia by morphology or flow cytometry . 
+Cytogenetics confirmed normal standard cytogenetics as well as negative I FISH . 
+NPM1 testing was negative as well . 
+3 . Relapsed AML , confirmed in October 2015 . 
+Induction Dactinomycin 12.5 mcg/kg IV daily x 5 days administered 10/16/15 . 
+Her post chemotherapy course complicated by severe mucositis requiring hospital admission for IV fluids and IV narcotics . 
+Bone marrow obtained on 11/18/2015 was hypercellular with trilineage hematopoiesis and 3.5 % blasts noted by morphology , 0.4 % by flow cytometry , consistent with CR and MRD . 
+Cytogenetics reveal normal female cells with no evidence of an abnormal trisomy 8 by FISH testing . 
+4 . 
+Dactinomycin cycle # 2 , 6.25 mcg/kg IV daily x 5 days administered 12/1/15 ( dose reduced by 50 % because of prior toxicities ) . 
+Patient tolerated chemotherapy well without significant toxicities . 
+bone marrow obtained on 12/28/2015 reveals approximately 2 % blasts by morphology , 1.2 % by flow cytometry , consistent with a complete remission with MRD . 
+5 . 
+Dactinomycin cycle # 3 , 9 mcg/kg IV daily x 5 days ( 75 % of original induction dose ) administered 1/4/16 . 
+6 . 
+ARA - C cycle # 1 x 5 days D1 2/15/16 7 . 
+ARA - C cycle # 2 
+x 5 days D1 3/7/2016 Bone marrow from 04/26/2016 is patchy normocellular trilineage hematopoiesis without morphologic or immunophenotypic evidence of AML . 
+Cytogenetics revealed normal FISH testing consistent with remission . 
+However , NPM1 testing in her bone marrow was positive at 0.008 % . 
+8 . 
+ARA - C cycle # 3 x 5 days , administered on 5/2/16 9 . 
+ARA - C cycle # 4 x 5 days , administered on 6/11/16 10 . 
+ARA - C cycle # 5 x 5 days , administered on 7/13/16 11 . 
+A bone marrow 8 / 2016 revealed MRD with a normocellular marrow without morphologic evidence of AML , however , 0.12 % blasts by flow cytometry . 
+She was followed with surveillance labs . 
+By Feb 2017 , she noted profound fatigue and CBC revealed anemia with Hct 15 % with circulating blasts . 
+She opted to enroll on clinical research study 9247 , with drug sensitivity testing revealing sensitivity to Ara - C . 
+12 . 
+Induction chemotherapy with " mini " GCLAM 3/8/17 . " 
+MEDICATIONS 
+PRIOR TO ADMISSION : 
+amlodipine 10 mg q daily omeprazole 40 mg daily ALLERGIES : 
+NKA HABITS : 
+Tobacco Use : previously smoked for 30 yrs , quit 30 yrs ago . 
+Alcohol Use : 
+occassional Drug Use : denies SOCIAL HISTORY : Lives in Bellingham with longtime companion Chuck Petersen 
+FAMILY HISTORY : son w / multiple myeloma REVIEW OF SYSTEMS : 
+A complete review of systems was obtained , and other than as described , is negative . 
+VITALS : ( Most recent and 24 hour range . ) 
+Date Result 
+Last MIN - MAX 04/24/17 13:31 
+Temp C : 36.6 36.6 - 36.6 04/24/17 13:31 
+HR : 73 73 - 73 04/24/17 13:31 
+RR : 16 16 - 16 04/24/17 13:31 
+SBP Non - Inv : 166 166 - 166 04/24/17 13:31 
+DBP Non - Inv : 83 83 - 83 04/24/17 13:31 O2 Sat : 96 04/24/17 13:31 O2 Delivery Device : Room air I & O DATA : Height : 160 ( cm ) 5 ' 3 " ( ft / in ) ( 04/24/2017 ) 
+Admit Wt : 70.2 ( kg ) 154 ( lbs ) ( 04/24/2017 ) 
+BMI : 27.4 ( kg / m2 ) ( 04/24/2017 ) 
+Last Daily Wt : 
+No Results Found . 
+Previous Daily Wt : 
+No Results Found . 
+( 24 Hour IO Total = from 06:00 the prior day to 05:59 listed day ) 
+Result 04/21/2017 04/22/2017 04/23/2017 04/24/2017 04/25/2017 
+Total Intake Total ( 0600 ) 0 0 292 0 0 292 Output Total ( 0600 ) 0 0 0 0 0 0 Net I & O Total ( 0600 ) 0 0 292 0 0 292 
+PHYSICAL EXAM : 
+General / Constitutional : 
+Well nourished , well groomed , NAD . 
+Eyes : EOMI , PERRLA , 
+Ears / Nose / Mouth / Throat : No exudates , no oropharnygeal lesions . 
+Neck : Supple , no masses Respiratory : CTAB , no wheezes or crackles . 
+Cardiovascular : RRR , S1 / S2 , no m / r / g . 
+2+ radial pulses . 
+No LE edema . 
+GI / Abdominal : Soft , non - tender , non - distended . 
+GU : No suprapubic or flank tenderness . 
+Musculoskeletal : Normal bulk and tone throughout . 
+Skin : No rashes or petichiae . 
+Neurologic : Alert and oriented x4 . 
+No focal neuro deficits . 
+Psychiatric : Euthymic , appropriate . 
+LABORATORY STUDIES : 
+( Most recent results in 24 hour range . ) 
+RESULTS FROM TODAY RESULTS FROM YESTERDAY 04/24/17 13:00 - - - | - ICa - - - | - ICa - - - 140 107 26 | - Ca 9.6 - - - - - - - - - | - Ca - - - - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < 90 | - Mg 2.0 - - - - - - - - - | - - - - - - - - - - - - - | - - - - - - - - - - - - < - - - | - Mg - - - 4.0 26 1.56 | - Phos 2.8 - - - - - - - - - | - Phos - - - RESULTS FROM TODAY RESULTS FROM YESTERDAY 04/24/17 
+13:00 - - - 10.6 | - PT - - - - - - | - PT - - - 1.30 ] - - - - - - - - - - - - - - - - - - - - - - [ 148 | - INR - - - - - - ] - - - - - - - - - - - - - - - - - - - - - - [ - - - | - INR - - - 31 | - PTT - - - - - - | - PTT - - - OTHER LABORATORY STUDIES : 
+( Most recent and 24 hour range . ) 
+Date 04/24/17 13:00 AST ( GOT ) : 15 ALT ( GPT ) : 8 Alk Phos ( Total ) : 75 Bilirubin ( Total ) : 0.7 Albumin : 4.3 LAST 6 HEMATOCRITS IN PRECEDING 24 HOURS : ( NOTE : 
+Comments / notes for Labs are viewable on Flowsheet ) 
+04/24/17 13:00 
+31 ASSESSMENT / PLAN : Ms Pauline Ingersoll is a 83 yo woman with second relapse of AML , admitted for salvage mini - GCLAM . 
+# AML - now in second relapse s/p mini - GCLAM , with plan to undergo second course of mini - GCLAM . 
+- chemo orders per Estey . 
+- TLS / DIC labs q8 once chemo starts - CBC q day - not currently neutropenic , so holding ppx at this time - allopurinol 300 mg qday - mIVF at 40 ml/hr w / initiation of chemo # renal dysfunction , CKD - patient currently at her baseline creatinine of 1.2 - 1.6 , with elevation into the 2 s during prior admission , thought secondary to chemotherapy toxicity . 
+- CTM , consider extra hydration with initiation of chemotherapy # hypertension - amlodipine 10 mg daily 
+VTE prophylaxis : 
+Risk Level : At Risk Treatment ( s ) ordered : Sequential Compression Device Contacts : Chuck Petersen ( boyfriend ) , Connie ( daughter and DPOA ) 360 - 966 - 5544 Code status : FULL CODE Discharge plan : HemeOnc for mini - GCLAM 
+ATTENDING STATEMENT : 
+I saw and evaluated the patient and agree with Dr. Berg 's note . 
+Additional diagnoses : 
+none Looks well despite prior treatment history . 
+Will proceed with chemotherapy as ordered by her primary oncologist ( Dr. Estey ) . 
+Date of Service : 4/24/2017 Today 's Date is : 04/24/2017 
