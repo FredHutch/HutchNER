@@ -26,7 +26,7 @@ class i2b2DataLoader(TextDataLoader):
         docs = self.load_documents()
 
         # Sentence segmentation, tokenization, POS, dep parsing, etc (req'd before adding annotations)
-        i2b2DocumentPreprocessor(docs,self.spacy_model)
+        i2b2DocumentPreprocessor(docs, self.spacy_model)
 
         # Add annotations to document objects
         if self.annotation_dir:

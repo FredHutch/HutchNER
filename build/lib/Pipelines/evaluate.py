@@ -92,8 +92,8 @@ def main():
     # Evaluate the performance on TAGGED DOCUMENTS (not the negated ones)
     labels = extractor.possible_labels
     ev = NEREvaluator(tagged_documents, labels)
-    ev.write_results("EvalResults", strictness="exact")
-    ev.write_results("EvalResults", strictness="overlap")
+    ev.write_results("..","EvalResults", strictness="exact")
+    ev.write_results("..","EvalResults", strictness="overlap")
 
     # Print time elapsed to console
     end = time.clock()
