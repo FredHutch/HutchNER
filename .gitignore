@@ -1,6 +1,6 @@
 # Potentially PHI
-/NERResources/*
-/Datasets/*
+/NERResources/
+/Datasets/
 /LSTMExec/results/
 /LSTMExec/pre_trainedVectorEmbeddings/
 /LSTMExec/models/

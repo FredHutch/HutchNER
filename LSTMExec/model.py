@@ -9,11 +9,11 @@ import scipy.io
 import theano
 import theano.tensor as T
 import codecs
-import cPickle
+import pickle
 
-from utils import shared, set_values, get_name
-from nn import HiddenLayer, EmbeddingLayer, DropoutLayer, LSTM, forward
-from optimization import Optimization
+from LSTMExec.utils import shared, set_values, get_name
+from LSTMExec.nn import HiddenLayer, EmbeddingLayer, DropoutLayer, LSTM, forward
+from LSTMExec.optimization import Optimization
 
 
 class Model(object):
@@ -40,7 +40,7 @@ class Model(object):
                 os.makedirs(self.model_path)
             # Save the parameters to disk
             with open(self.parameters_path, 'wb') as f:
-                cPickle.dump(parameters, f)
+                pickle.dump(parameters, f)
         else:
             assert parameters is None and models_path is None
             # Model location
@@ -49,7 +49,7 @@ class Model(object):
             self.mappings_path = os.path.join(model_path, 'mappings.pkl')
             # Load the parameters and the mappings from disk
             with open(self.parameters_path, 'rb') as f:
-                self.parameters = cPickle.load(f)
+                self.parameters = pickle.load(f)
             self.reload_mappings()
         self.components = {}
 
@@ -66,14 +66,14 @@ class Model(object):
                 'id_to_char': self.id_to_char,
                 'id_to_tag': self.id_to_tag,
             }
-            cPickle.dump(mappings, f)
+            pickle.dump(mappings, f)
 
     def reload_mappings(self):
         """
         Load mappings from disk.
         """
         with open(self.mappings_path, 'rb') as f:
-            mappings = cPickle.load(f)
+            mappings = pickle.load(f)
         self.id_to_word = mappings['id_to_word']
         self.id_to_char = mappings['id_to_char']
         self.id_to_tag = mappings['id_to_tag']
@@ -167,7 +167,6 @@ class Model(object):
             # Initialize with pretrained embeddings
             if pre_emb and training:
                 new_weights = word_layer.embeddings.get_value()
-                print 'Loading pretrained embeddings from %s...' % pre_emb
                 pretrained = {}
                 emb_invalid = 0
                 # word_dim = 300 # for now making sure the if condition is satisfied to check if the code proceeds
@@ -185,7 +184,7 @@ class Model(object):
                         emb_invalid += 1
                         #print 'WARNING: invalid line at line %d in pre embedding file.', i
                 if emb_invalid > 0:
-                    print 'WARNING: %i total invalid lines' % emb_invalid
+                    pass
                 c_found = 0
                 c_lower = 0
                 c_zeros = 0
@@ -210,18 +209,8 @@ class Model(object):
                         ]
                         c_stripped +=1
                     else:
-                        print "Not found in pretrained embeddings: " + word.lower()
+                        pass
                 word_layer.embeddings.set_value(new_weights)
-                print 'Loaded %i pretrained embeddings.' % len(pretrained)
-                print ('%i / %i (%.4f%%) words have been initialized with '
-                       'pretrained embeddings.') % (
-                            c_found + c_lower + c_zeros + c_stripped, n_words,
-                            100. * (c_found + c_lower + c_zeros+ c_stripped) / n_words
-                      )
-                print ('%i found directly, %i after lowercasing, '
-                       '%i after lowercasing + zero, %i after characterstrip + lowercasing + zeros') % (
-                          c_found, c_lower, c_zeros, c_stripped
-                      )
 
         #
         # Chars inputs
@@ -386,7 +375,6 @@ class Model(object):
             lr_method_parameters = {}
 
         # Compile training function
-        print 'Compiling...'
         if training:
             updates = Optimization(clip=5.0).get_updates(lr_method_name, cost, params, **lr_method_parameters)
             f_train = theano.function(

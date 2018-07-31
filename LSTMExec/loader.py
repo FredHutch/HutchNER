@@ -5,8 +5,8 @@
 import os
 import re
 import codecs
-from utils import create_dico, create_mapping, zero_digits
-from utils import iob2, iob_iobes
+from LSTMExec.utils import create_dico, create_mapping, zero_digits
+from LSTMExec.utils import iob2, iob_iobes
 import collections
 
 def load_sentences(path, lower, zeros):
@@ -65,9 +65,6 @@ def word_mapping(sentences, lower):
     dico = create_dico(words)
     dico['<UNK>'] = 10000000
     word_to_id, id_to_word = create_mapping(dico)
-    print "Found %i unique words (%i in total)" % (
-        len(dico), sum(len(x) for x in words)
-    )
     return dico, word_to_id, id_to_word
 
 
@@ -78,7 +75,6 @@ def char_mapping(sentences):
     chars = ["".join([w[0] for w in s]) for s in sentences]
     dico = create_dico(chars)
     char_to_id, id_to_char = create_mapping(dico)
-    print "Found %i unique characters" % len(dico)
     return dico, char_to_id, id_to_char
 
 
@@ -89,7 +85,6 @@ def tag_mapping(sentences):
     tags = [[word[-1] for word in s] for s in sentences]
     dico = create_dico(tags)
     tag_to_id, id_to_tag = create_mapping(dico)
-    print "Found %i unique named entity tags" % len(dico)
     return dico, tag_to_id, id_to_tag
 
 
@@ -146,11 +141,7 @@ def prepare_dataset(sentences, word_to_id, char_to_id, tag_to_id, lower=False):
         chars = [[char_to_id[c] for c in w if c in char_to_id]
                  for w in str_words]
         caps = [cap_feature(w) for w in str_words]
-        # print "=================="
-        # for k,v in tag_to_id.iteritems():
-        #     print k,v
 
-        # print "==================\n"
         # tag_to_id.update({'I-Drug_n':16}) # added manually
 
         # get all tags, provided they exist in the tag dictionary. If they dont, change tag to "O".
@@ -173,7 +164,6 @@ def augment_with_pretrained(dictionary, ext_emb_path, words):
     to the dictionary, otherwise, we only add the words that are given by
     `words` (typically the words in the development and test sets.)
     """
-    print 'Loading pretrained embeddings from %s...' % ext_emb_path
     assert os.path.isfile(ext_emb_path)
 
     # Load pretrained embeddings from file
@@ -190,7 +180,7 @@ def augment_with_pretrained(dictionary, ext_emb_path, words):
             l = l.split()[0].strip()
             pretrained.add(l)
         else:
-            print "WARNING: newline character found in word embedding file at line ", len(pretrained), "... skipping ..."
+            print ("WARNING: newline character found in word embedding file at line ", len(pretrained), "... skipping ...")
 
     # We either add every word in the pretrained file,
     # or only words given in the `words` list to which
