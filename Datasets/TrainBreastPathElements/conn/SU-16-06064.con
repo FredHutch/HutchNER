@@ -1,7 +1,0 @@
-c="MRI-guided needle biopsy" 2:133 2:137||t="pathspecimentype"
-c="12:00" 2:131 2:131||t="pathsite"
-c="breast" 2:128 2:128||t="pathsite"
-c="calcifications" 2:144 2:144||t="benignfinding"
-c="breast tissue" 2:140 2:141||t="pathsite"
-c="MRI-guided needle biopsy" 5:17 5:21||t="pathspecimentype"
-c="12:00" 5:24 5:24||t="pathsite"

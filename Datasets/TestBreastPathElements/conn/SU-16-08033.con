@@ -1,8 +1,0 @@
-c="core needle biopsies" 2:130 2:132||t="pathspecimentype"
-c="lymph node" 2:136 2:137||t="pathsite"
-c="carcinoma" 2:140 2:140||t="malignantfinding"
-c="axilla" 2:128 2:128||t="pathsite"
-c="biopsy" 6:20 6:20||t="pathspecimentype"
-c="US-guided" 6:16 6:18||t="pathspecimentype"
-c="breast" 6:19 6:19||t="pathsite"
-c="axilla" 6:21 6:21||t="pathsite"

@@ -1,6 +1,0 @@
-c="lymph node" 2:138 2:139||t="pathsite"
-c="core needle biopsy" 2:132 2:134||t="pathspecimentype"
-c="axillary lymph node" 2:128 2:130||t="pathsite"
-c="carcinoma" 2:142 2:142||t="malignantfinding"
-c="breast" 5:19 5:19||t="pathsite"
-c="lymph node right axilla" 5:20 5:23||t="pathsite"

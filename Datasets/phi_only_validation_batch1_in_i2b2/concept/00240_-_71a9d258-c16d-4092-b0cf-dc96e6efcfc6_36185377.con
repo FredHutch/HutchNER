@@ -1,7 +1,0 @@
-c="SEATTLE CANCER CARE ALLIANCE" 1:0 1:3||t="hospital_name"
-c="Ms. Jury" 1:7 1:8||t="patient_or_family_name"
-c="58" 2:3 2:3||t="age"
-c="Dr. Loggers" 3:7 3:8||t="provider_name"
-c="August 9 , 2012" 5:9 5:12||t="date"
-c="Dr. Conrad" 25:6 25:7||t="provider_name"
-c="6-19-14" 26:1 26:5||t="date"
