@@ -51,11 +51,6 @@ def load_pickle(file_name):
 # initialize large models on server startup
 spacy_model = en_core_web_sm.load()
 lstm_ner_model= load_lstm_model(model_dir=os.path.join(os.path.dirname(__file__), os.path.join("..","LSTMExec","models","i2b2_fh_50_newlines")))
-#crf_ner_model= joblib.load(os.path.join(os.path.dirname(__file__), os.path.join("..","NERResources","Models", "model-test_problem_treatment.pk1")))\
-#crf_deid_model = joblib.load(os.path.join(os.path.dirname(__file__), os.path.join("..","NERResources","Models","model-phone_number_url_or_ip_age_profession_ward_name_employer_email_medical_record_number_account_number_date_provider_name_address_and_components_patient_or_family_name_hospital_name.pk1")))
-#breast_path_ner = joblib.load(os.path.join(os.path.dirname(__file__), os.path.join("..","NERResources","Models","breast_path_ner.pk1")))
-#breast_laterality_model = joblib.load(os.path.join(os.path.dirname(__file__), os.path.join("..","NERResources","Models","model-na_right_bilateral_unknown_left.pk1")))
-
 crf_ner_file = os.path.join("NERResources","Models", "model-test_problem_treatment.pk1")
 crf_deid_file  = os.path.join("NERResources","Models","model-phone_number_url_or_ip_age_profession_ward_name_employer_email_medical_record_number_account_number_date_provider_name_address_and_components_patient_or_family_name_hospital_name.pk1")
 breast_path_ner_file  = os.path.join("NERResources","Models","breast_path_ner.pkl")
