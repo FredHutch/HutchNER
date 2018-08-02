@@ -53,7 +53,6 @@ class NERExtraction:
 
     def _extract(self, doc_objs_dict, model, model_name):
         print ("Pulling out " + model_name + " information ...")
-        #self.possible_labels = json.load(open(os.path.join(self.model_dir, self.model_name, '.json')))['labels']
         self.possible_labels = list(model.classes_)
         self.possible_labels.remove("O")
         for i, current_doc in enumerate(doc_objs_dict.values()):

@@ -54,14 +54,14 @@ lstm_ner_model= load_lstm_model(model_dir=os.path.join(os.path.dirname(__file__)
 crf_ner_file = os.path.join("NERResources","Models", "model-test_problem_treatment.pk1")
 crf_deid_file  = os.path.join("NERResources","Models","model-phone_number_url_or_ip_age_profession_ward_name_employer_email_medical_record_number_account_number_date_provider_name_address_and_components_patient_or_family_name_hospital_name.pk1")
 breast_path_ner_file  = os.path.join("NERResources","Models","breast_path_ner.pkl")
-breast_laterality_file = os.path.join("NERResources","Models","model-na_right_bilateral_unknown_left.pk1")
+breast_laterality_file = os.path.join("NERResources","Models","breast_path_laterality.pkl")
 
 crf_ner_model = load_pickle(crf_ner_file)
 crf_deid_model = load_pickle(crf_deid_file)
 breast_path_ner_model = load_pickle(breast_path_ner_file)
-breast_laterality_model = load_pickle(breast_laterality_file)
+breast_path_laterality_model = load_pickle(breast_laterality_file)
 
-models = {"breast_path_ner":breast_path_ner_model}
+models = {"breast_path_laterality":breast_path_laterality_model}
 
 def main():
     """ Entry point to HutchNER1: Concept NERExtraction Training """
@@ -81,14 +81,17 @@ def main():
 
     # Run NER driver with models and data provided in dirs
     extractor = NERExtraction(docs, model_name, model_type)
-    tagged_documents = extractor.tag_all(models=models)
+    tagged_documents = extractor.tag_all(models=models)    
     neg_documents = extractor.remove_negated_concepts(tagged_documents)
 
+    
+    
     # Evaluate the performance on TAGGED DOCUMENTS (not the negated ones)
     labels = extractor.possible_labels
     ev = NEREvaluator(tagged_documents, labels)
-    ev.write_results(".." + os.path.sep + "EvalResults", strictness="exact")
-    ev.write_results(".." + os.path.sep + "EvalResults", strictness="overlap")
+    ev.output_labels("OutputLabels", tagged_documents, model_name)
+    ev.write_results("EvalResults", strictness="exact", model_name=model_name)
+    ev.write_results("EvalResults", strictness="overlap", model_name=model_name)
 
     # Print time elapsed to console
     end = time.clock()

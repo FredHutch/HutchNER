@@ -110,8 +110,8 @@ class Document(object):
                     curr_start = tok.idx + sent.span_start
                     curr_end = tok.idx + len(tok) + sent.span_start
                     if curr_start >= gold.start and curr_end <= gold.stop:
-                        ctags[tok_counter]=gold.label
-                tok_counter +=1
+                        ctags[tok_counter] = gold.label
+                tok_counter += 1
         return ctags
 
     def set_sections(self, list_of_section_dicts):
@@ -120,7 +120,7 @@ class Document(object):
     def set_NER_predictions(self, probabilities,model_name):
         # Expand tuple to have span as well as probability
         final_result_dict = self._expand_result_dicts(self.tokens, probabilities)
-        self.NER_token_labels=final_result_dict
+        self.NER_token_labels = final_result_dict
 
     def _expand_result_dicts(self, tokenized_doc, probability):
         final_class_and_span = list()

@@ -39,10 +39,10 @@ class NEREvaluator:
             return self.precision_recall_f1_by_tag_overlap[tag][2]
 
     def _calculate_precision_recall_f1(self, tp_fp_fn_counts_by_tag):
-        print (str(len(tp_fp_fn_counts_by_tag)) + 'tags in set')
+        print (str(len(tp_fp_fn_counts_by_tag)) + ' tags in set')
         for k, v in tp_fp_fn_counts_by_tag.items():
-            print (str(k) + '::::' + str(v))
-            print ('')    
+            print (str(k) + ' :: ' + str(v))
+        print ('')    
         p_r_f1_by_tag = dict()
         for tag in tp_fp_fn_counts_by_tag:
             tp_fp_fn = tp_fp_fn_counts_by_tag[tag]
@@ -192,12 +192,12 @@ class NEREvaluator:
                         fn +=1
         return fn
 
-    def write_results(self, out_dir, strictness):
+    def write_results(self, out_dir, strictness, model_name):
         ts = time.time()
-        st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d_%H:%M:%S')
+        st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d_%H.%M.%S')
         if strictness == "exact":
             # write exact results
-            with open(os.path.join(out_dir,"exact_scores_"+ st), "wb") as f:
+            with open(os.path.join(out_dir,"exact_scores_" + model_name + '_' + st + ".txt"), "w") as f:
                 for label, scores in self.precision_recall_f1_by_tag_exact.items():
                     f.write(label + ":\n")
                     f.write("\tP:\t" + str(scores[0]) + "\n")
@@ -206,7 +206,7 @@ class NEREvaluator:
 
         elif strictness == "overlap":
             # write overlap results
-            with open(os.path.join(out_dir, "overlap_scores_"+ st), "wb") as f:
+            with open(os.path.join(out_dir, "overlap_scores_"+ model_name + '_' + st + ".txt"), "w") as f:
                 for label, scores in self.precision_recall_f1_by_tag_overlap.items():
                     f.write(label + ":\n")
                     f.write("\tP:\t" + str(scores[0])+ "\n")
@@ -215,6 +215,20 @@ class NEREvaluator:
         else:
             raise ValueError("There was an issue with your designated strictness level: " + strictness +
                              "\n\t Strictness levels must be derived from the domain {'exact', 'overlap'}")
+    
+    def output_labels(self, out_dir, tagged_documents, model_name):
+        # output NER labels in brat annotation format for comparison 
+        for doc_id in tagged_documents:
+            chunk_dict = self.chunk_by_label(tagged_documents.get(doc_id).NER_token_labels, self.labels)
+            t_idx = 1
+            with open(out_dir + os.path.sep + doc_id + '.ann','w') as anno_out:
+                for label in self.labels:
+                    for annotation in chunk_dict.get(label):
+
+                        anno_out.write('T' + str(t_idx) + '\t' + label + '\t' + str(annotation.start) + \
+                        ' ' + str(annotation.stop) + '\t' + annotation.text + '\n')
+                        t_idx += 1
+
 
     def chunk_by_label(self, NER_token_labels, labels):
         label_annot_dict = dict()
