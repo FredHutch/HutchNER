@@ -5,6 +5,7 @@
 import time
 
 from DataLoading.i2b2DataLoading import i2b2DataLoader
+from DataLoading.bratDataLoading import bratDataLoader
 
 from NERExtraction.Training import NERTrainer
 from NERUtilities import ArgumentParsingSettings
@@ -21,10 +22,18 @@ def main():
     local_annotations = args.annots
     model_name = args.model
     algo_type = args.model_type
-    #load and preprocess the data
-    i2b2_dl = i2b2DataLoader(text_dir, local_annotations)
-    docs = i2b2_dl.load()
-    detected_labels = i2b2_dl.get_detected_labels()
+    anno_type = args.anno_type
+    # load and preprocess the data
+    if anno_type == 'i2b2':
+        text_dl = i2b2DataLoader(txt_dir=text_dir, annotation_dir=local_annotations)
+    else:
+        text_dl = bratDataLoader(txt_dir=text_dir, annotation_dir=local_annotations)
+
+
+    #brat_dl = i2b2DataLoader(text_dir, local_annotations)
+    docs = text_dl.load()
+    detected_labels = text_dl.get_detected_labels()
+    
 
     trainer = NERTrainer(docs, detected_labels, model_name, algo_type)
     model_name = trainer.train()

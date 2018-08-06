@@ -12,7 +12,7 @@ from DataLoading.AbstractClasses import AbstractAnnotation
 
 class Document(object):
     def __init__(self, document_id, text):
-        self.concepts_gold = dict()
+        self.concepts_gold = defaultdict(lambda: [])
 
         self.document_id = document_id
         self.patient_id = document_id.split("_")[0] if document_id.split("_")[0] is not self.document_id else None
@@ -246,7 +246,8 @@ class Document(object):
 
 
 class Sentence(object):
-    def __init__(self, text, spanstart, spanend, tokens):
+    def __init__(self, sent_order_idx, text, spanstart, spanend, tokens):
+        self.sent_order_idx = sent_order_idx
         self.text = text
         self.span_start = spanstart
         self.span_end = spanend

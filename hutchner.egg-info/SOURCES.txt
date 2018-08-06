@@ -8,6 +8,7 @@ DataLoading/LabKeyDataLoading.py
 DataLoading/SectionerXMLDataLoading.py
 DataLoading/TextDataLoading.py
 DataLoading/__init__.py
+DataLoading/bratDataLoading.py
 DataLoading/i2b2DataLoading.py
 LSTMExec/__init__.py
 LSTMExec/compute_vector_embeddings.py

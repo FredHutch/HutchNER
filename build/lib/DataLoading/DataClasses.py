@@ -246,7 +246,8 @@ class Document(object):
 
 
 class Sentence(object):
-    def __init__(self, text, spanstart, spanend, tokens):
+    def __init__(self, sent_order_idx, text, spanstart, spanend, tokens):
+        self.sent_order_idx = sent_order_idx
         self.text = text
         self.span_start = spanstart
         self.span_end = spanend

@@ -27,7 +27,6 @@ class i2b2DataLoader(TextDataLoader):
 
         # Sentence segmentation, tokenization, POS, dep parsing, etc (req'd before adding annotations)
         i2b2DocumentPreprocessor(docs, self.spacy_model)
-
         # Add annotations to document objects
         if self.annotation_dir:
             self.join_annotations(docs)
@@ -42,6 +41,7 @@ class i2b2DataLoader(TextDataLoader):
         processing.
         :return: A list of dictionaries of {attrib_type<string>:value<string|int>}
         '''
+        print (self.annotations)
         if self.annotations:
             return self.annotations
         else:
@@ -74,10 +74,10 @@ class i2b2DataLoader(TextDataLoader):
         self.docs = docs
         if self.annotation_dir:
             self.annotations = self._get_annotations()
-            # Combine docs and annotations here
+            # Combine docs and annotations here            
             for doc_id, anns in self.annotations.items():
                 for a in anns:
-                    self.add_annotation(doc_id, a)
+                    self.add_annotation(doc_id, a)  
         return self.docs
 
     def _parse_i2b2_annotation(self, line):
@@ -103,7 +103,8 @@ class i2b2DataLoader(TextDataLoader):
         end_tok = annotation[2]
         start_idx, end_idx, text = self._tokspan2docspan_simple(doc, sent_idx, start_tok, end_tok)
         tag = annotation[3]
-        e = GoldAnnotation(tag, start_idx, end_idx, text, sent_idx)
+        #print (tag + '\t' + str(start_idx) + '\t' + str(end_idx) + '\t' + str(text) + '\t' + str(sent_idx))
+        e = GoldAnnotation(tag, start_idx, end_idx, text, sent_idx)        
         if tag not in doc.concepts_gold:
             doc.concepts_gold[tag] = list()
         doc.concepts_gold[tag].append(e)
@@ -114,7 +115,7 @@ class i2b2DataLoader(TextDataLoader):
         sent_text = sent.text
         i2b2_tokens = sent.text.split()
         idexes_of_space = self._find_tok_boundaries(sent_text, delimiter=' ')
-        sent_begin, sent_end = self._get_spans_from_tokens(idexes_of_space, i2b2_tokens, start_tok, end_tok)
+        sent_begin, sent_end = self._get_spans_from_tokens(idexes_of_space, i2b2_tokens, start_tok, end_tok)        
         doc_begin = sent_begin + doc.sentences[sentidx].span_start
         doc_end = sent_end + doc.sentences[sentidx].span_start
         text = doc.text[doc_begin:doc_end]
