@@ -12,7 +12,7 @@ from DataLoading.AbstractClasses import AbstractAnnotation
 
 class Document(object):
     def __init__(self, document_id, text):
-        self.concepts_gold = dict()
+        self.concepts_gold = defaultdict(lambda: [])
 
         self.document_id = document_id
         self.patient_id = document_id.split("_")[0] if document_id.split("_")[0] is not self.document_id else None
@@ -105,7 +105,6 @@ class Document(object):
     def _set_crf_training_vectors_i2b2(self, gold_events, ctags):
         tok_counter = 0
         for sent in self.sentences:
-            sent_counter += 1
             for tok in sent.tokens:
                 for gold in gold_events:
                     curr_start = tok.idx + sent.span_start
@@ -247,8 +246,8 @@ class Document(object):
 
 
 class Sentence(object):
-    def __init__(self, idx, text, spanstart, spanend, tokens):
-        self.idx = idx
+    def __init__(self, sent_order_idx, text, spanstart, spanend, tokens):
+        self.sent_order_idx = sent_order_idx
         self.text = text
         self.span_start = spanstart
         self.span_end = spanend

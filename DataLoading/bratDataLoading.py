@@ -94,22 +94,19 @@ class bratDataLoader(TextDataLoader):
         doc = self.docs[doc_id]
         for anno in annotations:
             start_offset, end_offset, tag, text = anno
-            sent_idx = self._get_sent_idx(doc, start_offset, end_offset, text)
-            #print (tag + '\t' + str(start_offset) + '\t' + str(end_offset) + '\t' + text + '\t' + str(sent_idx))
-            e = GoldAnnotation(tag, start_offset, end_offset, text, sent_idx)
-            if tag not in doc.concepts_gold:
-                doc.concepts_gold[tag] = list()
+            sent_order_idx = self._get_sent_idx(doc, start_offset, end_offset, text)
+            e = GoldAnnotation(tag, start_offset, end_offset, text, sent_order_idx)
             doc.concepts_gold[tag].append(e)
         return True
     
 
     def _get_sent_idx(self, doc, start_offset, end_offset, text):
         for sent in doc.sentences:
-            index = sent.idx
+            index = sent.sent_order_idx
             offset_start = sent.span_start
             offset_stop = sent.span_end
             if start_offset >= sent.span_start:
                 if start_offset <= sent.span_end:
                     return index
-        # question about error handling here - maybe skip the annotation? or default to the sentence before?
+        # default to skipping the annotation if it crosses sentence boundaries
         print ('ERROR: no sentence bounds found for ' + str(start_offset) + ' to ' + str(end_offset) + '  text: ' + doc.text[start_offset:end_offset])
