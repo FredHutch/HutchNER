@@ -104,7 +104,9 @@ class Document(object):
 
     def _set_crf_training_vectors_i2b2(self, gold_events, ctags):
         tok_counter = 0
+        sent_counter = 0
         for sent in self.sentences:
+            sent_counter += 1
             for tok in sent.tokens:
                 for gold in gold_events:
                     curr_start = tok.idx + sent.span_start
@@ -112,6 +114,7 @@ class Document(object):
                     if curr_start >= gold.start and curr_end <= gold.stop:
                         ctags[tok_counter] = gold.label
                 tok_counter += 1
+        print (str(sent_counter) + ' sentences')
         return ctags
 
     def set_sections(self, list_of_section_dicts):
@@ -246,7 +249,8 @@ class Document(object):
 
 
 class Sentence(object):
-    def __init__(self, text, spanstart, spanend, tokens):
+    def __init__(self, idx, text, spanstart, spanend, tokens):
+        self.idx = idx
         self.text = text
         self.span_start = spanstart
         self.span_end = spanend

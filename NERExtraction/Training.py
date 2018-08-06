@@ -58,7 +58,6 @@ class NERTrainer(object):
         
         training_labels = self._get_training_labels(training_docs, self.detected_labels)
         x_train_list, y_train_list = self._get_features_and_labels(training_docs, training_labels)
-
         if self.optimize_hyperparams:
             self._tune_hyperparams(x_train_list, y_train_list, self.detected_labels)
         else:
@@ -107,7 +106,6 @@ class NERTrainer(object):
         print ("Training " + model_name)
         crf.fit(x_train,y_train)  # produces model file with this name
         joblib.dump(crf, model_name)
-        print (crf)
 
 
     def _get_features_and_labels(self, docs, labels):
@@ -128,10 +126,8 @@ class NERTrainer(object):
     def _get_training_labels(self, training_docs, labels):
         print ("Fetching training labels")
         all_label_vecs = list()
-        count = 0
         for doc in training_docs:
             all_label_vecs.append(doc.get_crf_training_vectors(labels))
-            count +=1
         return all_label_vecs
 
     def _get_model_type_name(self, detected_labels):

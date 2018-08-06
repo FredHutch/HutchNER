@@ -5,7 +5,7 @@
 from nltk.stem.porter import *
 
 
-def word2features(sent, i, w2v_clusters=None):
+def word2features(sent, i, w2v_clusters=None): 
     word = sent[i].orth_
     postag = sent[i].tag_
     shape = sent[i].shape_

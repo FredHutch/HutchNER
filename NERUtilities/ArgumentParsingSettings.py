@@ -17,6 +17,8 @@ def get_training_args():
                         help="The name of the model used for config and pickled model files")
     parser.add_argument("-mt", "--model_type", 
                         help="crf or lstm (defaults to CRF)")
+    parser.add_argument("-at", "--anno_type", 
+                        help="brat or i2b2 (defaults to brat)")
     action = parser.add_mutually_exclusive_group(required=True)
     action.add_argument("-s", "--section",
                         help="The section of labkey.ini that has the settings to pull data",
@@ -49,6 +51,8 @@ def get_testing_args():
                         help="The name of the model used in training", required=True)
     parser.add_argument("-mt", "--model_type", 
                         help="crf or lstm (defaults to CRF)")
+    parser.add_argument("-at", "--anno_type", 
+                        help="brat or i2b2 (defaults to brat)")
     action = parser.add_mutually_exclusive_group(required=True)
     action.add_argument("-s", "--section",
                         help="The section of labkey.ini that has the settings to pull data")

@@ -15,11 +15,11 @@ class DocumentPreprocessor(object):
     type contains all the information about the documents that we need.
     """
     def __init__(self, documents, spacy_model):
-        self.documents=documents
+        self.documents = documents
         self.nlppp = spacy_model
         print("Processing documents...")
 
-    def _text2parseddata(self, doc):
+    def _add_doc_attributes(self, doc):
         """
         Takes a document object, processes its sentences and populates object fields with preprocessing information
         :param doc: The document object which you'd like to put through the preprocessing pipline
@@ -35,6 +35,49 @@ class DocumentPreprocessor(object):
         """
         return self.documents
 
+
+class bratDocumentPreprocessor(DocumentPreprocessor):
+    """ Ecapsulates the preprocessing pipeline specific to data sources in the i2b2 format:
+            - IE: Every line is a list of space seperated tokens representing a single sentence
+    """
+    def __init__(self, documents, spacy_model):
+
+        super(bratDocumentPreprocessor, self).__init__(documents, spacy_model)
+        docnum = 0
+        for docid, doc in self.documents.items():            
+            doc, doc.sentences = self._add_doc_attributes(doc)
+            
+            # move this to logging (ets)
+            docnum += 1
+            if docnum%100 == 0 or docnum >= len(self.documents.keys()):
+                print ('Processed %d documents out of %d' % (docnum, len(self.documents.keys())))
+            #doc.is_i2b2 = True
+            
+        print("Finished preprocessing documents.")
+
+    def _add_doc_attributes(self, doc):
+        """
+        Populate document token and token span lists
+        """
+        parsed_data = self.nlppp(doc.text)
+        doc.tokens = [tok_obj for tok_obj in parsed_data]
+        doc.token_spans = [(tok_obj.idx, tok_obj.idx+len(tok_obj.orth_)) for tok_obj in parsed_data]
+        sentences = self._make_sentence_objects(doc, parsed_data)
+        return doc, sentences
+    
+
+    def _make_sentence_objects(self, doc, parsed_data):
+        """
+        Given an document object, access span/sentence objects and set them in the Document object.
+        :param doc: A Document object containing the document text.
+        :return: The Sentence objects derived from the document text
+        """
+        sent_objs = []
+        for index, sent in enumerate(parsed_data.sents):
+            sent_toks = [tok for tok in sent]
+            sent_obj = Sentence(index, sent.text, sent.start_char, sent.end_char, sent_toks)
+            sent_objs.append(sent_obj)            
+        return sent_objs
 
 class i2b2DocumentPreprocessor(DocumentPreprocessor):
     """ Ecapsulates the preprocessing pipeline specific to data sources in the i2b2 format:
@@ -79,7 +122,7 @@ class i2b2DocumentPreprocessor(DocumentPreprocessor):
             len_last_token = len(last_token)
             last_token_idx = last_token.idx
             end = len_last_token + last_token_idx + begin
-            sent_obj = Sentence(sent_text, begin, end, sent_tokens)
+            sent_obj = Sentence(index, sent_text, begin, end, sent_tokens)
             sent_objs.append(sent_obj)
             begin = end
             if begin < len(doc.text):
@@ -95,6 +138,7 @@ class i2b2DocumentPreprocessor(DocumentPreprocessor):
             idx = x.idx + begin
             idxs.append((idx, idx+len(x.orth_)))
         return idxs
+
 
 class UnformattedDocumentPreprocessor(DocumentPreprocessor):
     """ Ecapsulates the preprocessing pipeline specific to un-pre-formatted data sources (ie not i2b2).
@@ -126,12 +170,10 @@ class UnformattedDocumentPreprocessor(DocumentPreprocessor):
         document.token_spans = [(x.idx, x.idx + len(x.orth_)) for x in parsedData]
         # Extract the various sentence representations
         sents = []
-        for span in parsedData.sents:
+        for index, span in enumerate(parsedData.sents):
             senttext = span.text
             spanbegin = span.start_char
             spanend = span.end_char
             tokens = [parsedData[i] for i in range(span.start, span.end)]
-
-            sent = Sentence(senttext, spanbegin, spanend, tokens)
-            sents.append(sent)
+            sent = Sentence(index, senttext, spanbegin, spanend, tokens)
         return sents
