@@ -2,8 +2,7 @@
 #
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
-import datetime
-import os
+import os, io
 import time
 from functools import reduce
 
@@ -87,15 +86,13 @@ class NEREvaluator:
                 predicted_concepts = []
                 if label in doc.concepts_gold:
                     gold_concepts = doc.concepts_gold[label]
-                # if label in doc.concepts_predicted:
-                #     predicted_concepts = doc.concepts_predicted[label]
-                predicted_concepts = self.chunk_by_label(doc.NER_token_labels, self.labels)[label]
+                predicted_concepts = self.chunk_by_label(doc_id, doc.NER_token_labels, self.labels)[label]
                 for gold in gold_concepts:
                     for predicted in predicted_concepts:
                         if predicted.label == label and \
-                                        gold.stop == predicted.stop and \
-                                        gold.start == predicted.start and \
-                                        gold.text in predicted.text:
+                            gold.stop == predicted.stop and \
+                            gold.start == predicted.start and \
+                            gold.text in predicted.text:
                             tp += 1
         else:
             for doc_id, doc in documents.items():
@@ -103,12 +100,12 @@ class NEREvaluator:
                 predicted_concepts = []
                 if label in doc.concepts_gold:
                     gold_concepts = doc.concepts_gold[label]
-                predicted_concepts = self.chunk_by_label(doc.NER_token_labels, self.labels)[label]
+                predicted_concepts = self.chunk_by_label(doc_id, doc.NER_token_labels, self.labels)[label]
                 for gold in gold_concepts:
                     for predicted in predicted_concepts:
                         if predicted.label == label and \
-                                        gold.start <= predicted.stop and  \
-                                        predicted.start <= gold.stop:
+                            gold.start <= predicted.stop and  \
+                            predicted.start <= gold.stop:
                             tp += 1
         return tp
 
@@ -120,14 +117,14 @@ class NEREvaluator:
                 predicted_concepts = []
                 if label in doc.concepts_gold:
                     gold_concepts = doc.concepts_gold[label]
-                predicted_concepts = self.chunk_by_label(doc.NER_token_labels, self.labels)[label]
+                predicted_concepts = self.chunk_by_label(doc_id, doc.NER_token_labels, self.labels)[label]
                 for predicted in predicted_concepts:
                     found = False
                     for gold in gold_concepts:
                         if predicted.label == label and \
-                                        gold.stop == predicted.stop and \
-                                        gold.start == predicted.start and \
-                                        gold.text in predicted.text:
+                            gold.stop == predicted.stop and \
+                            gold.start == predicted.start and \
+                            gold.text in predicted.text:
                             found = True
                     if not found:
                         fp += 1
@@ -137,15 +134,13 @@ class NEREvaluator:
                 predicted_concepts = []
                 if label in doc.concepts_gold:
                     gold_concepts = doc.concepts_gold[label]
-                # if label in doc.concepts_predicted:
-                #     predicted_concepts = doc.concepts_predicted[label]
-                predicted_concepts = self.chunk_by_label(doc.NER_token_labels, self.labels)[label]
+                predicted_concepts = self.chunk_by_label(doc_id, doc.NER_token_labels, self.labels)[label]
                 for predicted in predicted_concepts:
                     found = False
                     for gold in gold_concepts:
                         if predicted.label == label and \
-                                        gold.start <= predicted.stop and \
-                                        predicted.start <= gold.stop:
+                            gold.start <= predicted.stop and \
+                            predicted.start <= gold.stop:
                             found = True
                     if not found:
                         fp += 1
@@ -159,16 +154,14 @@ class NEREvaluator:
                 predicted_concepts = []
                 if label in doc.concepts_gold:
                     gold_concepts = doc.concepts_gold[label]
-                # if label in doc.concepts_predicted:
-                #     predicted_concepts = doc.concepts_predicted[label]
-                predicted_concepts = self.chunk_by_label(doc.NER_token_labels, self.labels)[label]
+                predicted_concepts = self.chunk_by_label(doc_id, doc.NER_token_labels, self.labels)[label]
                 for gold in gold_concepts:
                     found = False
                     for predicted in predicted_concepts:
                         if predicted.label == label and \
-                                        gold.stop == predicted.stop and \
-                                        gold.start == predicted.start and \
-                                        gold.text in predicted.text:
+                            gold.stop == predicted.stop and \
+                            gold.start == predicted.start and \
+                            gold.text in predicted.text:
                             found = True
                     if not found:
                         fn +=1
@@ -178,26 +171,23 @@ class NEREvaluator:
                 predicted_concepts = []
                 if label in doc.concepts_gold:
                     gold_concepts = doc.concepts_gold[label]
-                # if label in doc.concepts_predicted:
-                #     predicted_concepts = doc.concepts_predicted[label]
-                predicted_concepts = self.chunk_by_label(doc.NER_token_labels, self.labels)[label]
+                predicted_concepts = self.chunk_by_label(doc_id, doc.NER_token_labels, self.labels)[label]
                 for gold in gold_concepts:
                     found = False
                     for predicted in predicted_concepts:
                         if predicted.label == label and \
-                                        gold.start <= predicted.stop and \
-                                        predicted.start <= gold.stop:
+                            gold.start <= predicted.stop and \
+                            predicted.start <= gold.stop:
                             found = True
                     if not found:
                         fn +=1
         return fn
 
-    def write_results(self, out_dir, strictness, model_name):
-        ts = time.time()
-        st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d_%H.%M.%S')
+    def write_results(self, out_dir, strictness, model_name, string_timestamp):
+        
         if strictness == "exact":
             # write exact results
-            with open(os.path.join(out_dir,"exact_scores_" + model_name + '_' + st + ".txt"), "w") as f:
+            with open(os.path.join(out_dir,"exact_scores_" + model_name + '_' + string_timestamp + ".txt"), "w") as f:
                 for label, scores in self.precision_recall_f1_by_tag_exact.items():
                     f.write(label + ":\n")
                     f.write("\tP:\t" + str(scores[0]) + "\n")
@@ -206,7 +196,7 @@ class NEREvaluator:
 
         elif strictness == "overlap":
             # write overlap results
-            with open(os.path.join(out_dir, "overlap_scores_"+ model_name + '_' + st + ".txt"), "w") as f:
+            with open(os.path.join(out_dir, "overlap_scores_"+ model_name + '_' + string_timestamp + ".txt"), "w") as f:
                 for label, scores in self.precision_recall_f1_by_tag_overlap.items():
                     f.write(label + ":\n")
                     f.write("\tP:\t" + str(scores[0])+ "\n")
@@ -216,21 +206,24 @@ class NEREvaluator:
             raise ValueError("There was an issue with your designated strictness level: " + strictness +
                              "\n\t Strictness levels must be derived from the domain {'exact', 'overlap'}")
     
-    def output_labels(self, out_dir, tagged_documents, model_name):
+    def output_labels(self, out_dir, tagged_documents, model_name, string_timestamp):
+        os.mkdir(out_dir + os.path.sep + string_timestamp)
         # output NER labels in brat annotation format for comparison 
         for doc_id in tagged_documents:
-            chunk_dict = self.chunk_by_label(tagged_documents.get(doc_id).NER_token_labels, self.labels)
+            chunk_dict = self.chunk_by_label(doc_id, tagged_documents.get(doc_id).NER_token_labels, self.labels)
             t_idx = 1
-            with open(out_dir + os.path.sep + doc_id + '.ann','w') as anno_out:
+            with open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.ann','w') as anno_out:
                 for label in self.labels:
                     for annotation in chunk_dict.get(label):
-
-                        anno_out.write('T' + str(t_idx) + '\t' + label + '\t' + str(annotation.start) + \
+                        anno_out.write('T' + str(t_idx) + '\t' + label + ' ' + str(annotation.start) + \
                         ' ' + str(annotation.stop) + '\t' + annotation.text + '\n')
                         t_idx += 1
+            # assume unix style line endings (this is what SpaCY is assuming in char offset tracking)
+            text_out = io.open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.txt', 'w', newline='\n')
+            text_out.write(tagged_documents[doc_id].text)
 
 
-    def chunk_by_label(self, NER_token_labels, labels):
+    def chunk_by_label(self, doc_id, NER_token_labels, labels):
         label_annot_dict = dict()
         # initialize dict with {key=label:value=list()}
         for label in labels:
@@ -240,9 +233,14 @@ class NEREvaluator:
             i=0
             while i < len(NER_token_labels):
                 chunk = list()
-                while NER_token_labels[i]['label'] == label:
-                    chunk.append(NER_token_labels[i])
-                    i +=1
+                try:
+                    while NER_token_labels[i]['label'] == label:
+                        chunk.append(NER_token_labels[i])
+                        i +=1
+                except:
+                    print ("WARNING - passing on out of range index " + str(i) + \
+                        " in document " + str(doc_id) + ". Last token " + \
+                        str(NER_token_labels[i-1]) + " added to chunk " + str(chunk[-1].get('label', 'UNK')))
                 annotation = self.create_annot_from_chunk(chunk, label)
                 if annotation:
                     label_annot_dict[label].append(annotation)
