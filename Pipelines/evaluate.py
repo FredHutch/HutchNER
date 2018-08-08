@@ -5,6 +5,7 @@
 import os
 import time
 import pickle
+import datetime
 
 import en_core_web_sm
 from sklearn.externals import joblib
@@ -65,7 +66,7 @@ breast_path_ner_model2 = load_pickle(breast_path_ner_file2)
 breast_path_ner_model = load_pickle(breast_path_ner_file)
 breast_path_laterality_model = load_pickle(breast_laterality_file)
 
-models = {"breast_path_ner2":breast_path_ner_model2, "breast_path_ner":breast_path_ner_model}
+models = {"breast_path_ner2":breast_path_ner_model2, "breast_path_ner":breast_path_ner_model, "breast_path_laterality":breast_path_laterality_model}
 
 def main():
     """ Entry point to HutchNER1: Concept NERExtraction Training """
@@ -97,9 +98,14 @@ def main():
     # Evaluate the performance on TAGGED DOCUMENTS (not the negated ones)
     labels = extractor.possible_labels
     ev = NEREvaluator(tagged_documents, labels)
-    ev.output_labels("OutputLabels", tagged_documents, model_name)
-    ev.write_results("EvalResults", strictness="exact", model_name=model_name)
-    ev.write_results("EvalResults", strictness="overlap", model_name=model_name)
+
+    # use timestamp to link output labels and files to output results numbers
+    time_stamp = time.time()
+    string_timestamp = datetime.datetime.fromtimestamp(time_stamp).strftime('%Y-%m-%d_%H.%M.%S')
+
+    ev.output_labels("OutputLabels", tagged_documents, model_name, string_timestamp)
+    ev.write_results("EvalResults", strictness="exact", model_name=model_name, string_timestamp=string_timestamp)
+    ev.write_results("EvalResults", strictness="overlap", model_name=model_name, string_timestamp=string_timestamp)
 
     # Print time elapsed to console
     end = time.clock()
