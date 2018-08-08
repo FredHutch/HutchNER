@@ -3,6 +3,7 @@
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
 import configparser
+import logging
 import os
 import re
 from collections import defaultdict
@@ -12,6 +13,7 @@ from DataLoading.AbstractClasses import AbstractAnnotation
 
 class Document(object):
     def __init__(self, document_id, text):
+        self.logger = logging.getLogger(__name__)
         self.concepts_gold = defaultdict(lambda: [])
 
         self.document_id = document_id
@@ -219,6 +221,7 @@ class Document(object):
             if curr_tag.lower() in self.colors:
                 return self.colors[curr_tag.lower()]
             else:
+                self.logger.error("Label Not Found: the gold label: {} does not exist in color dictionary: {}".format(curr_tag.lower(), self.colors))
                 raise Exception("Uh oh. This gold label doesnt exist in our color dictionary.")
 
     def _get_highlight_begin_tag(self,tag, color):
@@ -236,6 +239,8 @@ class Document(object):
                 config_dict[op]=curr_val
             return config_dict
         else:
+            self.logger.error("Config Exception Occurred: Config has no section for {} as specified to the Documenter class: check that your desired "
+                            "section exists in the NERUtilities/NER_Colors.ini".format(color_config_section))
             raise Exception("Config has no section as specified to the DocumentPrinter class: check that your desired "
                             "section exists in the NERUtilities/NER_Colors.ini")
 
@@ -247,6 +252,7 @@ class Document(object):
 
 class Sentence(object):
     def __init__(self, sent_order_idx, text, spanstart, spanend, tokens):
+        self.logger = logging.getLogger(__name__)
         self.sent_order_idx = sent_order_idx
         self.text = text
         self.span_start = spanstart

@@ -64,7 +64,9 @@ class bratDataLoader(TextDataLoader):
                         self.detected_labels.add(tag)
                         document_sentidx_data[doc_id].append((annotation))
                     else:
+                        self.logger.warning("Line in brat annotation with doc id: {} did not fit in current parsing scheme".format(doc_id))
                         pass # this line in the brat file did not fit the current parsing schema
+                self.logger.info("annotation with doc id: {} had {} total parsed lines out of {}".format(doc_id, len(document_sentidx_data[doc_id], len(annot_lines))))
         return document_sentidx_data
 
     def join_annotations(self, docs):
@@ -89,6 +91,7 @@ class bratDataLoader(TextDataLoader):
             end_idx = int(label_location[2])
             text = concept[-1]
             return (start_idx, end_idx, iob_class, text)
+        self.logger.info("non-entity tag found in line: {}".format(concept))
 
     def add_annotation(self, doc_id, annotations):
         doc = self.docs[doc_id]
@@ -97,6 +100,7 @@ class bratDataLoader(TextDataLoader):
             sent_order_idx = self._get_sent_idx(doc, start_offset, end_offset, text)
             e = GoldAnnotation(tag, start_offset, end_offset, text, sent_order_idx)
             doc.concepts_gold[tag].append(e)
+        self.logger.info("brat annotation with doc id: {} added {} annotations".format(doc_id, len(annotations)))
         return True
     
 
@@ -109,4 +113,4 @@ class bratDataLoader(TextDataLoader):
                 if start_offset <= sent.span_end:
                     return index
         # default to skipping the annotation if it crosses sentence boundaries
-        print ('ERROR: no sentence bounds found for ' + str(start_offset) + ' to ' + str(end_offset) + '  text: ' + doc.text[start_offset:end_offset])
+        self.logger.error('ERROR: no sentence bounds found for ' + str(start_offset) + ' to ' + str(end_offset) + '  text: ' + doc.text[start_offset:end_offset])
