@@ -68,7 +68,7 @@ class bratDataLoader(TextDataLoader):
                     else:
                         self.logger.warning("Line in brat annotation with doc id: {} did not fit in current parsing scheme".format(doc_id))
                         pass # this line in the brat file did not fit the current parsing schema
-                self.logger.info("annotation with doc id: {} had {} total parsed lines out of {}".format(doc_id, len(document_sentidx_data[doc_id]), len(annot_lines)))
+                self.logger.info("brat annotation with doc id: {} had {} total parsed lines out of {}".format(doc_id, len(document_sentidx_data[doc_id]), len(annot_lines)))
         return document_sentidx_data
 
     def join_annotations(self, docs):
