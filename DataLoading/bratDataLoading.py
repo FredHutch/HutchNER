@@ -45,6 +45,7 @@ class bratDataLoader(TextDataLoader):
         if self.annotations:
             return self.annotations
         else:
+            self.logger.warning("There were no annotations retrieved in dataloading, so 'get_annotations()' returns nothing")
             raise ValueError("There were no annotations retrieved in dataloading, so 'get_annotations()' returns nothing")
 
     def _get_annotations(self):

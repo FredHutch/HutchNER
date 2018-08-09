@@ -22,6 +22,7 @@ class JSONDataLoader(AbstractDataLoader):
         processing.
         :return: A list of dictionaries of {attrib_type<string>:value<string|int>}
         '''
+        self.logger.warning("The JSON data loader does not load annotations: It can only consume a list of document text in JSON format")
         raise NotImplementedError("The JSON data loader does not load annotations: It can only consume a list of document text in JSON format")
 
     def preprocess(self, spacy_model):
@@ -35,6 +36,7 @@ class JSONDataLoader(AbstractDataLoader):
         #Run loaded documents through preprocessor to get sentence segmentation, indx alignment, etc
         UnformattedDocumentPreprocessor(doc_objs, spacy_model=spacy_model)
         self.documents = doc_objs
+        self.logger.info("preprocessing: {} documents were preprocessed.".format(len(doc_objs)))
         return self.documents
 
 
@@ -43,6 +45,7 @@ class JSONDataLoader(AbstractDataLoader):
         Loads just the documents from LabKey server
         :return: list of Document objects
         '''
+        self.logger.warning("The JSON data loader does not load documents: It can only read JSON documents in the bioNLP format")
         raise NotImplementedError
 
     def load_annotations(self):
@@ -50,4 +53,5 @@ class JSONDataLoader(AbstractDataLoader):
         Loads just the annotations from Labkey server
         :return: List of GoldAnnotation objects
         '''
+        self.logger.warning("The JSON data loader does not load annotations: It can only read JSON documents in the bioNLP format")
         raise NotImplementedError("The JSON data loader does not load annotations: It can only read JSON documents in the bioNLP format")
