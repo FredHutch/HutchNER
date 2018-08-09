@@ -3,6 +3,7 @@
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
 import csv
+import logging
 import os
 from os.path import isfile, join
 
@@ -15,6 +16,7 @@ class TextDataLoader(AbstractDataLoader):
         super(TextDataLoader, self).__init__()
         self.txt_dir = txt_dir
         self.annotation_dir = annotation_dir
+        self.logger = logging.getLogger(__name__)
 
     def load(self):
         '''
@@ -37,6 +39,7 @@ class TextDataLoader(AbstractDataLoader):
                 # parse as a tsv or csv file
                 documents.update(self._parse_tsv(join(self.txt_dir, f)))
             elif f[-3:] == "csv":
+                self.logger.warning("Value Error occured: Document type \'csv\' incompatible with this engine.")
                 raise ValueError("Document type \'csv\' incompatible with this engine. Feed me a tsv.")
             else:
                 # parse as a text file
@@ -53,9 +56,10 @@ class TextDataLoader(AbstractDataLoader):
                     doc_id = row[1]
                     text = row[3]
                     if doc_id in documents:
-                        print("Warning. Possible Document Duplicate found (same docID: " + doc_id + ") is not "
+                        self.logger.warning("Possible Document Duplicate found (same docID: " + doc_id + ") is not "
                                         "a unique value. Either you have duplicate documents, or your doc_id scheme is"
                                         " not thorough enough. Excluding document and continuing processing...")
+
                     else:
                         documents[doc_id] = Document(doc_id, text)
         return documents

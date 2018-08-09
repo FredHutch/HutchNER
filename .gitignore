@@ -12,6 +12,9 @@
 /Database/test.sqlite
 /Database/
 
+#IDE metadata
+.idea/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

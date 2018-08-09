@@ -2,12 +2,14 @@
 #
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
+import logging
 from abc import abstractmethod
 
 
 class AbstractDataLoader(object):
     def __init__(self):
         self.detected_labels = set() # a Set<String>
+        self.logger = logging.getLogger(__name__)
         pass
 
     def get_detected_labels(self):
