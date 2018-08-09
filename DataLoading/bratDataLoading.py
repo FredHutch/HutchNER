@@ -2,6 +2,7 @@
 #
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
+import logging
 import os
 
 import en_core_web_sm
@@ -17,6 +18,7 @@ class bratDataLoader(TextDataLoader):
         self.detected_labels = set()
         self.spacy_model = en_core_web_sm.load()
         self.sent_dict = {}
+        self.logger = logging.getLogger(__name__)
 
 
     def load(self):

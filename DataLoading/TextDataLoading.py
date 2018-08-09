@@ -3,6 +3,7 @@
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
 import csv
+import logging
 import os
 from os.path import isfile, join
 
@@ -15,6 +16,7 @@ class TextDataLoader(AbstractDataLoader):
         super(TextDataLoader, self).__init__()
         self.txt_dir = txt_dir
         self.annotation_dir = annotation_dir
+        self.logger = logging.getLogger(__name__)
 
     def load(self):
         '''
