@@ -5,7 +5,8 @@ cymem==1.31.2
 cytoolz==0.8.2
 dates==0.0.1
 dill==0.2.7.1
-en-core-web-sm==1.2.0
+#en-core-web-sm==1.2.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-1.2.0/en_core_web_sm-1.2.0.tar.gz
 Flask==0.12.2
 Flask-OAuthlib==0.9.4
 ftfy==4.4.3
