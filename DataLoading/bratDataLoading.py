@@ -55,7 +55,7 @@ class bratDataLoader(TextDataLoader):
         '''
         document_sentidx_data = dict()
         for filename in os.listdir(self.annotation_dir):
-            with open(os.path.join(self.annotation_dir, filename), "r") as f:
+            with open(os.path.join(self.annotation_dir, filename), "r", encoding='utf8') as f:
                 annot_lines = f.readlines()
                 doc_id = filename.split(".")[0]
                 if doc_id not in document_sentidx_data:
