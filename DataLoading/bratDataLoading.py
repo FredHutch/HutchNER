@@ -90,10 +90,14 @@ class bratDataLoader(TextDataLoader):
         if len(concept) > 2:
             label_location = concept[1].split()
             iob_class = label_location[0].lower()   # is this lowering of class labels really necessary? (ets)
-            start_idx = int(label_location[1])
-            end_idx = int(label_location[2])
-            text = concept[-1]
-            return (start_idx, end_idx, iob_class, text)
+            try:
+                start_idx = int(label_location[1])
+                end_idx = int(label_location[2])
+                text = concept[-1]
+                return (start_idx, end_idx, iob_class, text)
+            except:
+                self.logger.info("failing to parse tag found in line: {}".format(concept))
+
         self.logger.info("non-entity tag found in line: {}".format(concept))
 
     def add_annotation(self, doc_id, annotations):

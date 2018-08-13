@@ -59,14 +59,17 @@ crf_deid_file  = os.path.join("NERResources","Models","model-phone_number_url_or
 breast_path_ner_file2  = os.path.join("NERResources","Models","breast_path_ner2.pkl")
 breast_path_ner_file  = os.path.join("NERResources","Models","breast_path_ner.pkl")
 breast_laterality_file = os.path.join("NERResources","Models","breast_path_laterality.pkl")
+sectioning_oncology_file = os.path.join("NERResources","Models","sectioning_oncology.pkl")
+
 
 crf_ner_model = load_pickle(crf_ner_file)
 crf_deid_model = load_pickle(crf_deid_file)
 breast_path_ner_model2 = load_pickle(breast_path_ner_file2)
 breast_path_ner_model = load_pickle(breast_path_ner_file)
 breast_path_laterality_model = load_pickle(breast_laterality_file)
+sectioning_oncology_model = load_pickle(sectioning_oncology_file)
 
-models = {"breast_path_ner2":breast_path_ner_model2, "breast_path_ner":breast_path_ner_model, "breast_path_laterality":breast_path_laterality_model}
+models = {"breast_path_ner2":breast_path_ner_model2, "breast_path_ner":breast_path_ner_model, "breast_path_laterality":breast_path_laterality_model, "sectioning_oncology":sectioning_oncology_model}
 
 def main():
     """ Entry point to HutchNER1: Concept NERExtraction Training """

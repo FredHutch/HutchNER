@@ -187,7 +187,7 @@ class NEREvaluator:
         
         if strictness == "exact":
             # write exact results
-            with open(os.path.join(out_dir,"exact_scores_" + model_name + '_' + string_timestamp + ".txt"), "w") as f:
+            with open(os.path.join(out_dir,"exact_scores_" + model_name + '_' + string_timestamp + ".txt"), "w", encoding='utf8') as f:
                 for label, scores in self.precision_recall_f1_by_tag_exact.items():
                     f.write(label + ":\n")
                     f.write("\tP:\t" + str(scores[0]) + "\n")
@@ -196,7 +196,7 @@ class NEREvaluator:
 
         elif strictness == "overlap":
             # write overlap results
-            with open(os.path.join(out_dir, "overlap_scores_"+ model_name + '_' + string_timestamp + ".txt"), "w") as f:
+            with open(os.path.join(out_dir, "overlap_scores_"+ model_name + '_' + string_timestamp + ".txt"), "w", encoding='utf8') as f:
                 for label, scores in self.precision_recall_f1_by_tag_overlap.items():
                     f.write(label + ":\n")
                     f.write("\tP:\t" + str(scores[0])+ "\n")
@@ -212,14 +212,14 @@ class NEREvaluator:
         for doc_id in tagged_documents:
             chunk_dict = self.chunk_by_label(doc_id, tagged_documents.get(doc_id).NER_token_labels, self.labels)
             t_idx = 1
-            with open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.ann','w') as anno_out:
+            with open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.ann','w', encoding='utf8') as anno_out:
                 for label in self.labels:
                     for annotation in chunk_dict.get(label):
                         anno_out.write('T' + str(t_idx) + '\t' + label + ' ' + str(annotation.start) + \
                         ' ' + str(annotation.stop) + '\t' + annotation.text + '\n')
                         t_idx += 1
             # assume unix style line endings (this is what SpaCY is assuming in char offset tracking)
-            text_out = io.open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.txt', 'w', newline='\n')
+            text_out = io.open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.txt', 'w', newline='\n', encoding='utf8')
             text_out.write(tagged_documents[doc_id].text)
 
 
