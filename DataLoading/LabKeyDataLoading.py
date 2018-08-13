@@ -2,6 +2,7 @@
 #
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
+import logging
 import pyodbc
 import warnings
 from AbstractClasses import AbstractDataLoader
@@ -19,6 +20,7 @@ class LabKeyDataLoader(AbstractDataLoader):
         self.job_run_ids = job_run_ids
         self.do_get_annotations = do_get_annotations
         self.detected_annotations = set()
+        self.logger = logging.getLogger(__name__)
 
     def get_annotations(self):
         '''
@@ -32,6 +34,7 @@ class LabKeyDataLoader(AbstractDataLoader):
         if self.annotations is not None:
             return self.annotations
         else:
+            self.logger.warning("There were no annotations retrieved in dataloading, so 'get_annotations()' returns nothing")
             warnings.warn("There were no annotations retrieved in dataloading, so 'get_annotations()' returns nothing")
             return []
 
@@ -64,6 +67,8 @@ class LabKeyDataLoader(AbstractDataLoader):
         for docid, text in doc_results.items():
             doc_dict[docid] = Document(docid, text)
 
+        self.logger.info("{} docs returned from load_documents".format(len(doc_dict)))
+
         return doc_dict
 
     def load_annotations(self):
@@ -77,6 +82,8 @@ class LabKeyDataLoader(AbstractDataLoader):
                                                     self.database,
                                                     self.server,
                                                     data_type="annotations")
+
+        self.logger.info("{} annotations returned from load_annotations".format(len(ann_results)))
 
         return ann_results
 

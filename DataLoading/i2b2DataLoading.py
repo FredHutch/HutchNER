@@ -2,6 +2,7 @@
 #
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
+import logging
 import os
 
 import en_core_web_sm
@@ -16,6 +17,7 @@ class i2b2DataLoader(TextDataLoader):
         self.annotation_dir = annotation_dir
         self.detected_labels = set()
         self.spacy_model = en_core_web_sm.load()
+        self.logger = logging.getLogger(__name__)
 
 
     def load(self):
@@ -44,6 +46,7 @@ class i2b2DataLoader(TextDataLoader):
         if self.annotations:
             return self.annotations
         else:
+            self.logger.warning("There were no annotations retrieved in dataloading,")
             raise ValueError("There were no annotations retrieved in dataloading, so 'get_annotations()' returns nothing")
 
     def _get_annotations(self):
@@ -67,6 +70,8 @@ class i2b2DataLoader(TextDataLoader):
                     tag = annot_tuple[3].lower()
                     self.detected_labels.add(tag)
                     document_sentidx_data[doc_id].append((sent_idx, tok_begin, tok_end, tag))
+        self.logger.info("{} i2b2 annotations returned from the annotation directory"
+                         .format(sum([len(document_sentidx_data[key]) for key in document_sentidx_data.keys()])))
         return document_sentidx_data
 
     def join_annotations(self, docs):

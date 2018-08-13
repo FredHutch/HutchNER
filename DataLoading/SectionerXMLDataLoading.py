@@ -2,6 +2,7 @@
 #
 # Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 #
+import logging
 from os import listdir
 import os
 from os.path import isfile, join
@@ -17,6 +18,7 @@ class SectionerXMLDataLoader(AbstractDataLoader):
         super(SectionerXMLDataLoader, self).__init__()
         self.xml_dir = xml_dir
         self.clean_tmp_files = clean_tmp_files
+        self.logger = logging.getLogger(__name__)
 
     def get_annotations(self):
         '''
@@ -27,6 +29,7 @@ class SectionerXMLDataLoader(AbstractDataLoader):
         processing.
         :return: A list of dictionaries of {attrib_type<string>:value<string|int>}
         '''
+        self.logger.warning("The XML data loader does not load annotations: It can only read XML documents in the bioNLP format")
         raise NotImplementedError("The XML data loader does not load annotations: It can only read XML documents in the bioNLP format")
 
     def preprocess(self, spacy_model):
@@ -60,7 +63,7 @@ class SectionerXMLDataLoader(AbstractDataLoader):
                     doc_obj.set_sections(all_sections)
                     all_docs[doc_id]=doc_obj
             except Exception as e:
-                logging.info("Failed to load XML sectioned documents for document_id: " + doc_id)
+                self.logger.warning("Failed to load XML sectioned documents for document_id: " + doc_id)
                 doc_obj = Document(doc_id, full_text)
                 all_docs[doc_id]=doc_obj
 
@@ -78,6 +81,7 @@ class SectionerXMLDataLoader(AbstractDataLoader):
         Loads just the documents from LabKey server
         :return: list of Document objects
         '''
+        self.logger.warning("load_documents has been called, but has not been implemented")
         raise NotImplementedError
 
     def load_annotations(self):
@@ -85,6 +89,7 @@ class SectionerXMLDataLoader(AbstractDataLoader):
         Loads just the annotations from Labkey server
         :return: List of GoldAnnotation objects
         '''
+        self.logger.warning("The XML data loader does not load annotations: It can only read XML documents in the bioNLP format")
         raise NotImplementedError("The XML data loader does not load annotations: It can only read XML documents in the bioNLP format")
 
     def _get_doc_id(self, doc):
@@ -103,4 +108,5 @@ class SectionerXMLDataLoader(AbstractDataLoader):
                 if os.path.isfile(file_path):
                     os.unlink(file_path)
             except Exception as e:
+                self.logger.error("An error has occurred within _clear_tmp_section_data: {}".format(e))
                 print(e)
