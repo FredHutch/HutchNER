@@ -45,7 +45,7 @@ class JSONDataLoader(AbstractDataLoader):
         Loads just the documents from LabKey server
         :return: list of Document objects
         '''
-        self.logger.warning("The JSON data loader does not load documents: It can only read JSON documents in the bioNLP format")
+        self.logger.warning("The JSON data loader does not load documents: It can only read JSON.")
         raise NotImplementedError
 
     def load_annotations(self):
@@ -53,5 +53,5 @@ class JSONDataLoader(AbstractDataLoader):
         Loads just the annotations from Labkey server
         :return: List of GoldAnnotation objects
         '''
-        self.logger.warning("The JSON data loader does not load annotations: It can only read JSON documents in the bioNLP format")
-        raise NotImplementedError("The JSON data loader does not load annotations: It can only read JSON documents in the bioNLP format")
+        self.logger.warning("The JSON data loader does not load annotations: It can only read JSON")
+        raise NotImplementedError("The JSON data loader does not load annotations: It can only read JSON")
