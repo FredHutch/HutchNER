@@ -48,7 +48,7 @@ class TextDataLoader(AbstractDataLoader):
 
     def _parse_tsv(self, filepath):
         documents = dict()
-        with open(filepath, "r") as csvfile:
+        with open(filepath, "r", encoding='utf8') as csvfile:
             reader = csv.reader(csvfile, delimiter=',', quotechar="\"")
             # Make a document object for each row
             for i, row in enumerate(reader):
@@ -67,7 +67,7 @@ class TextDataLoader(AbstractDataLoader):
     def _parse_text(self, filepath):
         documents = dict()
         # DocId is defined in a text document by the text's title
-        with open(filepath, "r") as f:
+        with open(filepath, "r", encoding='utf8') as f:
             text = f.read()
             doc_id = os.path.split(filepath)[-1].split(".")[0]
             documents[doc_id]=Document(doc_id,text)

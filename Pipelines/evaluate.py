@@ -59,14 +59,30 @@ crf_deid_file  = os.path.join("NERResources","Models","model-phone_number_url_or
 breast_path_ner_file2  = os.path.join("NERResources","Models","breast_path_ner2.pkl")
 breast_path_ner_file  = os.path.join("NERResources","Models","breast_path_ner.pkl")
 breast_laterality_file = os.path.join("NERResources","Models","breast_path_laterality.pkl")
+sectioning_oncology_file = os.path.join("NERResources","Models","sectioning_oncology.pkl")
+sectioning_procedure_file = os.path.join("NERResources","Models","sectioning_procedure.pkl")
+sectioning_ed_file = os.path.join("NERResources","Models","sectioning_ed.pkl")
+sectioning_ltfu_file = os.path.join("NERResources","Models","sectioning_ltfu.pkl")
+sectioning_discharge_summary_file = os.path.join("NERResources","Models","sectioning_discharge_summary.pkl")
+pinz_ner_file = os.path.join("NERResources","Models","pinz_ner.pkl")
+
 
 crf_ner_model = load_pickle(crf_ner_file)
 crf_deid_model = load_pickle(crf_deid_file)
+pinz_ner_model = load_pickle(pinz_ner_file)
 breast_path_ner_model2 = load_pickle(breast_path_ner_file2)
 breast_path_ner_model = load_pickle(breast_path_ner_file)
 breast_path_laterality_model = load_pickle(breast_laterality_file)
+sectioning_oncology_model = load_pickle(sectioning_oncology_file)
+sectioning_procedure_model = load_pickle(sectioning_procedure_file)
+sectioning_ed_model = load_pickle(sectioning_ed_file)
+sectioning_ltfu_model = load_pickle(sectioning_ltfu_file)
+sectioning_discharge_summary_model = load_pickle(sectioning_discharge_summary_file)
 
-models = {"breast_path_ner2":breast_path_ner_model2, "breast_path_ner":breast_path_ner_model, "breast_path_laterality":breast_path_laterality_model}
+
+models = {"breast_path_ner2":breast_path_ner_model2, "breast_path_ner":breast_path_ner_model, "breast_path_laterality":breast_path_laterality_model, 
+         "sectioning_oncology":sectioning_oncology_model, "sectioning_procedure":sectioning_procedure_model, "pinz_ner":pinz_ner_model,
+         "sectioning_discharge_summary":sectioning_discharge_summary_model,"sectioning_ltfu":sectioning_ltfu_model, "sectioning_ed":sectioning_ed_model}
 
 def main():
     """ Entry point to HutchNER1: Concept NERExtraction Training """
