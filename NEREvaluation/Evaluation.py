@@ -219,7 +219,7 @@ class NEREvaluator:
                         ' ' + str(annotation.stop) + '\t' + annotation.text + '\n')
                         t_idx += 1
             # assume unix style line endings (this is what SpaCY is assuming in char offset tracking)
-            text_out = io.open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.txt', 'w', encoding='utf8', newline='\n')
+            text_out = io.open(out_dir + os.path.sep + string_timestamp + os.path.sep + doc_id + '.txt', 'w', newline='\n', encoding='utf8')
             text_out.write(tagged_documents[doc_id].text)
 
 
