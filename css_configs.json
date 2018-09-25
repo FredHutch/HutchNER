@@ -1,0 +1,79 @@
+{
+"crf_ner":{
+	"entities": {
+		"problem": "#bedcff",
+		"treatment": "#bee19b",
+		"test": "#ffe68f",
+		"b-problem": "#bedcff",
+		"i-problem": "#bedcff",
+		"b-treatment": "#bee19b",
+		"i-treatment": "#bee19b",
+		"b-test": "#ffe68f",
+		"i-test": "#ffe68f"},
+	"header":
+		"<span style=\"color:#000000;font-weight:bold\">Negation:  <\/span><span style=\"color:#000000;font-weight:bold\">Asserted  <\/span><span style=\"color:#024c84;font-weight:bold\">Probable or Uncertain  <\/span><span style=\"color:#800000;font-weight:bold\">Negated  <\/span><br><span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Problem<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Treatment<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Test<\/span><br><br> "
+	},
+"lstm_ner":{
+	"entities": {
+		"problem": "#bedcff",
+		"treatment": "#bee19b",
+		"test": "#ffe68f",
+		"b-problem": "#bedcff",
+		"i-problem": "#bedcff",
+		"b-treatment": "#bee19b",
+		"i-treatment": "#bee19b",
+		"b-test": "#ffe68f",
+		"i-test": "#ffe68f"},
+	"header":
+		"<span style=\"color:#000000;font-weight:bold\">Negation:  <\/span><span style=\"color:#000000;font-weight:bold\">Asserted  <\/span><span style=\"color:#024c84;font-weight:bold\">Probable or Uncertain  <\/span><span style=\"color:#800000;font-weight:bold\">Negated<\/span><br><span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Problem<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Treatment<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Test<\/span><br><br> "
+	},
+"deid_crf":{
+	"entities": {
+		"date": "#bedcff",
+		"age": "#bedcff",
+		"patient_or_family_name": "#bee19b",
+		"provider_name": "#bee19b",
+		"phone_number": "#ffe68f",
+		"email": "#ffe68f",
+		"url_or_ip": "#ffe68f",
+		"ward_name": "#ead2f7",
+		"address_and_components": "#ead2f7",
+		"hospital_name": "#ead2f7",
+		"employer": "#abf1f2",
+		"profession": "#abf1f2",
+		"account_number": "#f2a9b9",
+		"medical_record_number": "#f2a9b9"
+		},
+	"header":
+		"<span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Date or Age<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Name<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Contact Info<\/span>  <span style=\"background-color:#ead2f7;color:#000000;font-weight:bold\">Address or Location<\/span>  <span style=\"background-color:#abf1f2;color:#000000;font-weight:bold\">Employer or Profession<\/span>  <span style=\"background-color:#f2a9b9;color:#000000;font-weight:bold\">Identifying Number<\/span><br><br> "
+	},
+"breast_laterality_model":{
+	"entities": {
+		"left": "#bedcff",
+		"right": "#bee19b",
+		"unknown": "#ffe68f",
+		"bilateral": "#ead2f7"},
+	"header":
+		"<span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Left<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Right<\/span>  <span style=\"background-color:#ead2f7;color:#000000;font-weight:bold\">Bilateral<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Unknown<\/span><br><br> "
+	},
+"breast_path_model":{
+	"entities": {
+		"malignantfinding":"#f2a9b9",
+		"highriskfinding":"#ead2f7",
+		"benignfinding":"#bedcff",
+		"pathsite":"#ffe68f",
+		"pathspecimentype":"#ffe68f",
+		"pathdate":"#bee19b",
+		"laterality":"#bee19b",
+		"sectiondesc":"#bee19b",
+		"positivesentinelnodes":"#b28fff",
+		"totalnonsentinelnodes":"#b28fff",
+		"tubuleformation":"#abf1f2",
+		"er":"#fdff8f",
+		"pr":"#fdff8f",
+		"her2ihc":"#fdff8f",
+		"pathstaget":"#abf1f2"},
+	"header":
+		"<span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Malignant Finding<\/span>  <span style=\"background-color:#ead2f7;color:#000000;font-weight:bold\">High Risk Finding<\/span>  <span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Benign Finding<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Site or Specimen Type<\/span>  <span style=\"background-color:#abf1f2;color:#000000;font-weight:bold\">Report Details<\/span>  <span style=\"background-color:#b28fff;color:#000000;font-weight:bold\">Node Status<\/span>  <span style=\"background-color:#fdff8f;color:#000000;font-weight:bold\">Test<\/span>  <span style=\"background-color:#abf1f2;color:#000000;font-weight:bold\">Staging Information<\/span><br><br> "
+	}
+}

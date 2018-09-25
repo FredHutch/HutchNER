@@ -36,7 +36,7 @@ import en_core_web_sm
 def load_lstm_model(model_dir):
     model = Model(model_path=model_dir)
     # Load existing model
-    print "Loading model..."
+    print ("Loading model...")
     parameters = model.parameters
 
     # Load reverse mappings
@@ -66,6 +66,9 @@ breast_laterality_model = joblib.load(os.path.join(os.path.dirname(__file__), os
 
 ## IMPORTANT: if the model is an LSTM model, "lstm" MUST be found in the key name somewhere, otherwise crf is assumed
 models={"crf_ner":crf_ner_model, "lstm_ner":lstm_ner_model, "spacy":spacy_model, "deid_crf":crf_deid_model, "breast_laterality_model": breast_laterality_model, "breast_path_model":breast_path_model}
+
+# configs for CSS colors and headers etc
+configs = json.load(open(os.path.join(os.path.dirname(__file__),'css_configs.json'),'r'))
 
 app = Flask(__name__)
 oauth=OAuth2Provider(app)
@@ -173,47 +176,17 @@ def json2html(json, algo):
     '''
     Converts HutchNER's JSON response into a renderable HTML page
 
-    Make sure if you add new models that you add tag color entries to this dictionary
+    Make sure if you add new models that you add tag color entries to the css_configs.json file
     otherwise HitchNER Demo will not be able to render the results
     :param json: a JSON object retrieved from HutchNER API
     :param algo: the particular algorithm model called to produce this output
     :return: a string containing the HTML rendering of the data
     '''
-    colors = {"problem": "#DDA0DD",
-              "treatment": "#9df033",
-              "test": "#61e9ff",
-              "b-problem": "#DDA0DD",
-              "i-problem": "#DDA0DD",
-              "b-treatment": "#9df033",
-              "i-treatment": "#9df033",
-              "b-test": "#61e9ff",
-              "i-test": "#61e9ff",
-              "date":"#80ccff",
-              "patient_or_family_name":"#ccfff5",
-              "age":"#cc99ff",
-              "phone_number":"#ff99ff",
-              "profession":"#61e9ff",
-              "ward_name" :"#ff8080",
-              "provider_name": "#ffe066",
-              "address_and_components": "#bfff80",
-              "hospital_name": "#80ff80",
-	      "url_or_ip":"#9df033",
-	      "account_number":"#DDA0DD",
-	      "email":"#9df033",
-	      "employer":"#61e9ff",
-	      "medical_record_number":"#DDA0DD"	
-              }
-
-    # Commented out the header because a better way to approach would
-    # be to dynamically produce this header based on the tags present in the text
-    # header="<span style=\"color:#f44141\">Definite Negated</span> " \
-    #            "<span style=\"color:#ff7c00\">Probable Negated</span> " \
-    #            "<span style=\"color:#ffec48\">Ambivalent Negated</span> " \
-    #            "<span style=\"background-color:#DDA0DD\">Problem</span> " \
-    #            "<span style=\"background-color:#9df033\">Treatment</span> " \
-    #            "<span style=\"background-color:#61e9ff\">Test</span><br><br> "
-    header=""
-    return _render(header, json, colors)
+    # the key or header for the algorithm/entities
+    header = configs.get(algo).get("header")
+    # highlighting schema for the entities
+    entities = configs.get(algo).get("entities")
+    return _render(header, json, entities)
 
 
 def _render(header, json, colors):
@@ -237,7 +210,8 @@ def _render(header, json, colors):
             if token['label'] == "O":
                 # ... then close the span in html before you add the token text to the string
                 in_span = False
-                header += "</span>"
+                # this gets rid of the problem of highlighting the extra space at the end of the entity
+                header = header.rstrip() + "</span>"
         header += token['text'] + " "
         # Whenever you see a period, insert an html newline character
         if token['text'] == ".":
@@ -248,13 +222,14 @@ def _render(header, json, colors):
 def insert_negation_color(token):
     if "negation" in token:
         if "DEFINITE" in token["negation"]:
-            return ";color:#f44141 "
+            return ";color:#800000"
+        # right now this is COLLAPSING "ambivalent/uncertain" and "probable" for the purposes of demo
         elif "AMBIVALENT" in token["negation"]:
-            return ";color:#ffec48"
+            return ";color:#024c84"
         else:
-            return ";color:#ff7c00"
+            return ";color:#024c84"
     else:
-        return ""
+        return ";color:#000000"
 
 
 if __name__ == '__main__':
