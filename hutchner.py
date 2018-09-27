@@ -223,11 +223,10 @@ def insert_negation_color(token):
     if "negation" in token:
         if "DEFINITE" in token["negation"]:
             return ";color:#800000"
-        # right now this is COLLAPSING "ambivalent/uncertain" and "probable" for the purposes of demo
-        elif "AMBIVALENT" in token["negation"]:
-            return ";color:#024c84"
-        else:
-            return ";color:#024c84"
+        elif "AMBIVALENT" in token["negation"]: # we call this 'EQUIVOCAL' on the front end
+            return ";color:#474646"
+        else:   # this is 'PROBABLE'
+            return ";color:#014070"
     else:
         return ";color:#000000"
 

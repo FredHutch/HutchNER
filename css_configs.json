@@ -11,7 +11,7 @@
 		"b-test": "#ffe68f",
 		"i-test": "#ffe68f"},
 	"header":
-		"<span style=\"color:#000000;font-weight:bold\">Negation:  <\/span><span style=\"color:#000000;font-weight:bold\">Asserted  <\/span><span style=\"color:#024c84;font-weight:bold\">Probable or Uncertain  <\/span><span style=\"color:#800000;font-weight:bold\">Negated  <\/span><br><span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Problem<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Treatment<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Test<\/span><br><br> "
+		"<span style=\"color:#000000;font-weight:bold\">Negation:  <\/span><span style=\"color:#000000;font-weight:bold\">Asserted  <\/span><span style=\"color:#014070;font-weight:bold\">Probable  <\/span><span style=\"color:#474646;font-weight:bold\">Equivocal  <\/span><span style=\"color:#800000;font-weight:bold\">Negated  <\/span><br><span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Problem<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Treatment<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Test<\/span><br><br> "
 	},
 "lstm_ner":{
 	"entities": {
@@ -25,7 +25,7 @@
 		"b-test": "#ffe68f",
 		"i-test": "#ffe68f"},
 	"header":
-		"<span style=\"color:#000000;font-weight:bold\">Negation:  <\/span><span style=\"color:#000000;font-weight:bold\">Asserted  <\/span><span style=\"color:#024c84;font-weight:bold\">Probable or Uncertain  <\/span><span style=\"color:#800000;font-weight:bold\">Negated<\/span><br><span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Problem<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Treatment<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Test<\/span><br><br> "
+		"<span style=\"color:#000000;font-weight:bold\">Negation:  <\/span><span style=\"color:#000000;font-weight:bold\">Asserted  <\/span><span style=\"color:#014070;font-weight:bold\">Probable  <\/span><span style=\"color:#474646;font-weight:bold\">Equivocal  <\/span><span style=\"color:#800000;font-weight:bold\">Negated  <\/span><br><span style=\"color:#000000;font-weight:bold\">Entities:  <\/span><span style=\"background-color:#bedcff;color:#000000;font-weight:bold\">Problem<\/span>  <span style=\"background-color:#bee19b;color:#000000;font-weight:bold\">Treatment<\/span>  <span style=\"background-color:#ffe68f;color:#000000;font-weight:bold\">Test<\/span><br><br> "
 	},
 "deid_crf":{
 	"entities": {
