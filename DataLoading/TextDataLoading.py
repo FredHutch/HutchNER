@@ -71,7 +71,6 @@ class TextDataLoader(AbstractDataLoader):
             text = f.read()
             doc_id = os.path.split(filepath)[-1].split(".")[0]
             documents[doc_id]=Document(doc_id,text)
-
         self.logger.info("{} documents returned from _parse_text".format(len(documents)))
 
         return documents

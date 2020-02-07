@@ -29,7 +29,7 @@ def get_training_args():
     args = parser.parse_args()
     
     if args.section is None and args.annots is None:
-        raise ValueError("You are running a training script, but no but not specified "
+        raise ValueError("You are running a training script, but have not specified "
                         "the location of the rebel ba-- er, annotation files. Either set -s "
                         "for labkey.ini section, or -a for the local annotation directory.")
     if args.model is None:
@@ -53,6 +53,9 @@ def get_testing_args():
                         help="crf or lstm (defaults to CRF)")
     parser.add_argument("-at", "--anno_type", 
                         help="brat or i2b2 (defaults to brat)")
+    parser.add_argument("-en", "--encoding", 
+                        help="text encoding (defaults to ISO-8859-1)")
+    
     action = parser.add_mutually_exclusive_group(required=True)
     action.add_argument("-s", "--section",
                         help="The section of labkey.ini that has the settings to pull data")

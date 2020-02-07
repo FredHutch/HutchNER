@@ -55,10 +55,12 @@ class NERExtraction:
         print ("Pulling out " + model_name + " information ...")
         self.possible_labels = list(model.classes_)
         self.possible_labels.remove("O")
+
         for i, current_doc in enumerate(doc_objs_dict.values()):
             # generate feature vectors
             feature_vectors = sent2features(current_doc.tokens, clusters=self.clusters)
             # Predict type sequence
+
             result_probabilities = model.predict_marginals_single(feature_vectors)
             # Set prediction in document object
             current_doc.set_NER_predictions(result_probabilities, model_name)

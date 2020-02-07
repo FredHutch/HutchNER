@@ -130,8 +130,10 @@ class Document(object):
         for idx, tok in enumerate(tokenized_doc):
             # Retrieve top-scoring label and its marginal probability
             maximum_label = max(probability[idx], key=probability[idx].get)
+            print (tok.orth_ + ':' + maximum_label)
             maximum_prob = probability[idx][maximum_label]
             classified_text.append((tok.orth_, maximum_label))
+
             if re.match('^\s+$',
                         tok.orth_) and maximum_label is not 'O':  # If a newline or series of newline chars got tagged, thats probably wrong...reset tag to 'O'
                 combined = {
