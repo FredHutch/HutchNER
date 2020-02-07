@@ -5,7 +5,7 @@
 import logging
 import os
 
-import en_core_web_sm
+import en_core_web_md
 from NERPreprocessing.DocumentPreprocessing import i2b2DocumentPreprocessor
 from DataLoading.DataClasses import GoldAnnotation
 from DataLoading.TextDataLoading import TextDataLoader
@@ -16,7 +16,7 @@ class i2b2DataLoader(TextDataLoader):
         super(i2b2DataLoader, self).__init__(txt_dir)
         self.annotation_dir = annotation_dir
         self.detected_labels = set()
-        self.spacy_model = en_core_web_sm.load()
+        self.spacy_model = en_core_web_md.load()
         self.logger = logging.getLogger(__name__)
 
 
@@ -127,11 +127,14 @@ class i2b2DataLoader(TextDataLoader):
     def _get_spans_from_tokens(self, space_indexes, i2b2_tokens, starttok, endtok):
         start_buffer = 0 if int(starttok) == 0 else 1
         end_buffer = 0 if int(endtok) == 0 else 1
+
         try:
             sent_begin = space_indexes[int(starttok)] + start_buffer
         except:
             pause=1
         sent_end = space_indexes[int(endtok)] + end_buffer + len(i2b2_tokens[int(endtok)])
+        
+            
         return sent_begin, sent_end
 
     def _find_tok_boundaries(self, s, delimiter):

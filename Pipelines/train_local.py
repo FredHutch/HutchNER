@@ -25,9 +25,9 @@ def main():
     anno_type = args.anno_type
     # load and preprocess the data
     if anno_type == 'i2b2':
-        text_dl = i2b2DataLoader(txt_dir=text_dir, annotation_dir=local_annotations)
+        text_dl = i2b2DataLoader(txt_dir=text_dir, annotation_dir=local_annotations, encoding="ISO-8859-1")
     else:
-        text_dl = bratDataLoader(txt_dir=text_dir, annotation_dir=local_annotations)
+        text_dl = bratDataLoader(txt_dir=text_dir, annotation_dir=local_annotations, encoding="ISO-8859-1")
 
 
     #brat_dl = i2b2DataLoader(text_dir, local_annotations)

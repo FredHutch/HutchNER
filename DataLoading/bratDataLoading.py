@@ -5,20 +5,21 @@
 import logging
 import os
 
-import en_core_web_sm
+import en_core_web_md
 from NERPreprocessing.DocumentPreprocessing import bratDocumentPreprocessor
 from DataLoading.DataClasses import GoldAnnotation
 from DataLoading.TextDataLoading import TextDataLoader
 
 
 class bratDataLoader(TextDataLoader):
-    def __init__(self, txt_dir, annotation_dir = None):
+    def __init__(self, txt_dir, annotation_dir = None, encoding="ISO-8859-1"):
         super(bratDataLoader, self).__init__(txt_dir)
         self.annotation_dir = annotation_dir
         self.detected_labels = set()
-        self.spacy_model = en_core_web_sm.load()
+        self.spacy_model = en_core_web_md.load()
         self.sent_dict = {}
         self.logger = logging.getLogger(__name__)
+        self.encoding = encoding
 
 
     def load(self):
@@ -55,7 +56,7 @@ class bratDataLoader(TextDataLoader):
         '''
         document_sentidx_data = dict()
         for filename in os.listdir(self.annotation_dir):
-            with open(os.path.join(self.annotation_dir, filename), "r", encoding='utf8') as f:
+            with open(os.path.join(self.annotation_dir, filename), "r", encoding=self.encoding) as f:
                 annot_lines = f.readlines()
                 doc_id = filename.split(".")[0]
                 if doc_id not in document_sentidx_data:
