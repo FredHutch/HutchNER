@@ -18,7 +18,7 @@ MarkupSafe==1.0
 msgpack-numpy==0.4.1
 msgpack-python==0.5.4
 murmurhash==0.26.4
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.14.1
 oauthlib==2.0.6
 pathlib==1.0.1
