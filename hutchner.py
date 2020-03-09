@@ -28,7 +28,7 @@ from Dates import date_finder
 from LSTMExec.model import Model
 from Pipelines import ner_negation, ner, general_ner
 from flask_oauthlib.provider import OAuth2Provider
-import en_core_web_md
+import en_core_sci_md
 
 ####################
 ## Preload Models ##

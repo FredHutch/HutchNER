@@ -5,7 +5,7 @@
 import logging
 import os
 
-import en_core_web_md
+import en_core_sci_md
 from NERPreprocessing.DocumentPreprocessing import bratDocumentPreprocessor
 from DataLoading.DataClasses import GoldAnnotation
 from DataLoading.TextDataLoading import TextDataLoader
@@ -16,7 +16,7 @@ class bratDataLoader(TextDataLoader):
         super(bratDataLoader, self).__init__(txt_dir)
         self.annotation_dir = annotation_dir
         self.detected_labels = set()
-        self.spacy_model = en_core_web_md.load()
+        self.spacy_model = en_core_sci_md.load()
         self.sent_dict = {}
         self.logger = logging.getLogger(__name__)
         self.encoding = encoding

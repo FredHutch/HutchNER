@@ -5,7 +5,7 @@
 import logging
 import os
 
-import en_core_web_md
+import en_core_sci_md
 from NERPreprocessing.DocumentPreprocessing import i2b2DocumentPreprocessor
 from DataLoading.DataClasses import GoldAnnotation
 from DataLoading.TextDataLoading import TextDataLoader
@@ -16,7 +16,7 @@ class i2b2DataLoader(TextDataLoader):
         super(i2b2DataLoader, self).__init__(txt_dir)
         self.annotation_dir = annotation_dir
         self.detected_labels = set()
-        self.spacy_model = en_core_web_md.load()
+        self.spacy_model = en_core_sci_md.load()
         self.logger = logging.getLogger(__name__)
 
 
